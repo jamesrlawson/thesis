@@ -38,11 +38,14 @@ need J Ecol journal style
 
 use labels and references for all Figures and Tables
 
+san serif font for tables
 
 
 
 pagestyle (changes headers and footers?), chapterstyle (e.g. southall)
 
 renewcommand to change chapter title font
+
+
 
 

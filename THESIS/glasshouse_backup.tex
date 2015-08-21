@@ -6,7 +6,7 @@
 % Documentclass Memoir 
 % check memman.pdf for help and information
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass[openright,12pt,a4paper]{memoir} 
+\documentclass[12pt,a4paper]{memoir} 
 \usepackage{graphicx}
 %\usepackage[utf8]{inputenc} % set input encoding to utf8
 \usepackage{array} % for tables 
@@ -25,6 +25,7 @@
 \usepackage{pdflscape}
 \usepackage{caption}
 %\usepackage{lmodern}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
 
 
 
@@ -45,10 +46,10 @@
 % default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
 
 % size of the text area
-  \settrims{0pt}{0pt}
-  \settypeblocksize{230mm}{147mm}{*}
-  \setlength{\spinemargin}{27mm}
-  \setlength{\foremargin}{36mm}
+\settrims{0pt}{0pt}
+\settypeblocksize{230mm}{147mm}{*}
+\setlength{\spinemargin}{27mm}
+\setlength{\foremargin}{36mm}
 %\setulmargins{35mm}{45mm}{*}
 %\setlength{\marginparwidth}{0mm}
 %\setlength{\marginparsep}{0mm}
@@ -58,11 +59,11 @@
 %\setlength{\trimedge}{0pt}
 %\addtolength{\trimedge}{-\paperwidth}
 %\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
-  \setulmargins{*}{*}{1.618} % 50pt upper margins
+\setulmargins{*}{*}{1.618} % 50pt upper margins
 %\setlrmargins{*}{*}{1.3}
-%  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
-  \setheaderspaces{*}{*}{1.618}
-  \checkandfixthelayout % to make sure that the layout parameters make sense
+\setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+\setheaderspaces{*}{*}{1.618}
+\checkandfixthelayout % to make sure that the layout parameters make sense
 
 %\addtolength{\textwidth}{0cm}
 %\addtolength{\textheight}{1.5cm}
@@ -75,36 +76,36 @@
 %\posttitle{\par\end{center}\vskip 0.5em}
 
 %%% ToC (table of contents) APPEARANCE
-  \maxtocdepth{subsection} % include subsections
+\maxtocdepth{subsection} % include subsections
 %\renewcommand{\cftchapterpagefont}{}
 %\renewcommand{\cftchapterfont}{}     % no bold!
 
 %%% HEADERS & FOOTERS
-  \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
+\pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
 
 %%% CHAPTERS
-  \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+\chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
 
-  \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
-  \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+\renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+\renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
 
 %%% TABLES
-  \newcolumntype{C}[1]{$>${\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
-  \newcolumntype{L}[1]{$>${\centering}m{#1}}
+\newcolumntype{C}[1]{$>${\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
+\newcolumntype{L}[1]{$>${\centering}m{#1}}
 
 %%% SECTIONS
 %\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
-  \maxsecnumdepth{section} % number subsections
+\maxsecnumdepth{section} % number subsections
 
-  \setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
-  \setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
 
 %%% Abstract
-  \setlength{\absleftindent}{0mm}
-  \setlength{\absrightindent}{0mm}
+\setlength{\absleftindent}{0mm}
+\setlength{\absrightindent}{0mm}
 
-  \renewcommand{\absnamepos}{center}
-  \setlength{\abstitleskip}{+0cm}
+\renewcommand{\absnamepos}{center}
+\setlength{\abstitleskip}{+0cm}
 
 %%% Captions
 
@@ -116,10 +117,11 @@
 
 %\usepackage[textfont={tiny}, labelfont={tiny}]{caption}
 
- % \captionnamefont{\tiny}
- %\captiontitlefont{\tiny}
+\captionnamefont{\tiny}
+\captiontitlefont{\tiny}
 
 %% END Memoir customization
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -143,7 +145,7 @@ Climate change, elevated CO\textsubscript{2}, flooding, plant functional traits,
 \section{Introduction}
 Woody plants play an important role in determining the physical structure of many riparian ecosystems \citep{Lawson2015}, and understanding the responses of woody riparian plants to environmental stresses is central to river rehabilitation and riparian conservation efforts. Riparian plant communities are often dominated by keystone species, and responses of such species to environmental change may have important consequences for riparian landscapes defined by their presence. Changing climatic conditions over the next century are expected to cause shifts in hydrological patterns \citep{stocker2013climate}, with changes to the prevalence and intensity of extreme flooding events predicted for many regions \citep{Hennessy2008}. Atmospheric CO\textsubscript{2} has also risen substantially over the past century, and a doubling of pre-industrial levels by 2100 is projected \citep{IPCC2014}. Flooding is already a dominant abiotic stress and an important determinant of ecological strategy for woody riparian plants \citep{Blom1996,Lawson2015}, but while a significant body of research describes the effects of elevated CO\textsubscript{2} on plants at multiple scales, little is known about how the effects of flooding might be mediated by atmospheric CO\textsubscript{2} concentration.
 
-To thrive near stream channels, plants must navigate a trade-off between ease of access to water and stresses associated with waterlogging or inundation \citep{Naiman1993, Colmer2009}. Woody colonists of inset channel features such as bars and benches may experience repeated cycles of soil waterlogging \citep{Corenblit2009}, restricting root access to oxygen \citep{Voesenek2015}. Maintaining root respiration in low O\textsubscript{2} conditions requires switching to costly anaerobic metabolic pathways \citep{Drew1997}. The resulting reduction in respiration weakens root function, impairing uptake of water and nutrients \citep{Piedade2010, Voesenek2015} and inducing suberisation \citep{Steudle2000}. Stomatal closure may also take place following waterlogging, reducing available CO\textsubscript{2} for photosynthesis \citep{Kozlowski1984, Else2009}. Root-zone hypoxia damages roots by disrupting aerobic respiration and causing an “energy crisis” \citep{Colmer2009}; reactive oxygen species (ROS) then form as bi-products of anaerobic metabolism \citep{Santosa2007}, and  subsequent re-aeration further increases ROS production \citep{Steffens2013}. Production of toxic ions by microbes under anoxic soil conditions causes additional stress to roots \citep{Blom1996}. Waterlogging may also impair rhizomicrobial nodule formation and activity, resulting in reduced nutrient uptake \citep{Dawson1989, Shimono2012}. The degree to which this combination of stressors influences plant growth is ultimately determined by species’ ability to mobilise physiological and morphological responses which mitigate damage {Bailey-Serres2008}.
+To thrive near stream channels, plants must navigate a trade-off between ease of access to water and stresses associated with waterlogging or inundation \citep{Naiman1993, Colmer2009}. Woody colonists of inset channel features such as bars and benches may experience repeated cycles of soil waterlogging \citep{Corenblit2009}, restricting root access to oxygen \citep{Voesenek2015}. Maintaining root respiration in low O2 conditions requires switching to costly anaerobic metabolic pathways \citep{Drew1997}. The resulting reduction in respiration weakens root function, impairing uptake of water and nutrients \citep{Piedade2010, Voesenek2015} and inducing suberisation \citep{Steudle2000}. Stomatal closure may also take place following waterlogging, reducing available CO\textsubscript{2} for photosynthesis \citep{Kozlowski1984, Else2009}. Root-zone hypoxia damages roots by disrupting aerobic respiration and causing an “energy crisis” \citep{Colmer2009}; reactive oxygen species (ROS) then form as bi-products of anaerobic metabolism \citep{Santosa2007}, and  subsequent re-aeration further increases ROS production \citep{Steffens2013}. Production of toxic ions by microbes under anoxic soil conditions causes additional stress to roots \citep{Blom1996}. Waterlogging may also impair rhizomicrobial nodule formation and activity, resulting in reduced nutrient uptake \citep{Dawson1989, Shimono2012}. The degree to which this combination of stressors influences plant growth is ultimately determined by species’ ability to mobilise physiological and morphological responses which mitigate damage {Bailey-Serres2008}.
   
 As with waterlogging, atmospheric CO\textsubscript{2} concentration is known to affect plant physiology and growth by altering the fundamental economics of carbon, water and macronutrient uptake and use \citep{Poorter2003a, Wang2012, Reich2014}.  Individual species responses are variable, but photosynthetic CO\textsubscript{2} assimilation in C3 plants tends to increase under elevated CO\textsubscript{2} (eCO\textsubscript{2}) \citep{Curtis1996}. Stomatal conductance is also typically reduced \citep{Ainsworth2007}, with attendant gains in water use efficiency \citep{Holtum2010, Keenan2013, VanderSleen2014}. Biomass accumulation in response to eCO\textsubscript{2} may be enhanced \citep{Wang2012}, but this depends on the availability of water and macronutrients \citep{Korner2006, Manea2014, Reich2014}. Increased allocation of biomass to roots occurs under eCO\textsubscript{2} \citep{Nie2013} and this effect is interactive with environmental stresses such as drought or low soil fertility \citep{Wang2010}. Increased rates of production and turnover of fine roots under eCO\textsubscript{2} have been shown in the field, which has important implications for nutrient cycling and ecosystem functioning \citep{Pregitzer1995, Pregitzer2000, Matamala2000, Lipson2014}. eCO\textsubscript{2} is also known to affect functional traits indicative of positions along economic spectra (sensu Reich 2014). Reduction in specific leaf area (SLA) under eCO\textsubscript{2} may be linked to accumulation of non-structural carbohydrates in leaves \citep{Poorter2003a, Bader2010}. Alteration of traits reflecting economic trade-offs is of particular significance at the seedling stage, as functional traits of trees are most strongly adapted to the regeneration niche \citep{Poorter2007}.
 
@@ -185,7 +187,7 @@ Plants were grown individually in pots constructed from 90 mm by 700 mm (4.3 L c
 
 Seeds were obtained from a commercial supplier (Nindethana Seed Service, Albany, WA, Australia) and germinated on moist tissue paper in trays at ~20oC. Following cotyledon emergence, four seedlings were transplanted into each growing pot. Germination was staggered by species to ensure all seedlings were transplanted at the same stage of development (radicle just emerged) within 48 hours. After two weeks of growth, plants were thinned to retain a single, medium sized individual.
 
-Plants were grown in glasshouses at Macquarie University, in Sydney, Australia, between June and November, 2014. Pots were supported by wire mesh on trolleys; pot positioning on trolleys was randomised with respect to species, and trolleys were rotated weekly to offset potential microclimatic effects associated with position within each glasshouse. Two levels of CO\textsubscript{2} treatment (380-400 ppm and 530-570 ppm) were used in two replicate glasshouses per level. These CO\textsubscript{2} ranges were monitored and maintained using an automated gas delivery system (Canary Company Pty Ltd, Lane Cove, NSW, Australia). The lower range corresponds to the ambient atmospheric CO\textsubscript{2} concentration, while the higher range reflects the predicted atmospheric CO\textsubscript{2} concentration in 2050 \citep{IPCC2014}. Temperature was maintained between 16 and 28 \textsuperscript{o}C. Plants were watered by a misting sprinkler system three times daily and provided with supplementary hand watering every 3-4 days to maintain constant soil moisture levels between pots. Trolleys were swapped between replicate glasshouses monthly.
+Plants were grown in glasshouses at Macquarie University, in Sydney, Australia, between June and November, 2014. Pots were supported by wire mesh on trolleys; pot positioning on trolleys was randomised with respect to species, and trolleys were rotated weekly to offset potential microclimatic effects associated with position within each glasshouse. Two levels of CO\textsubscript{2} treatment (380-400 ppm and 530-570 ppm) were used in two replicate glasshouses per level. These CO\textsubscript{2} ranges were monitored and maintained using an automated gas delivery system (Canary Company Pty Ltd, Lane Cove, NSW, Australia). The lower range corresponds to the ambient atmospheric CO\textsubscript{2} concentration, while the higher range reflects the predicted atmospheric CO\textsubscript{2} concentration in 2050 \citep{IPCC2014}. Temperature was maintained between 16 and 28 \testsuperscript{o}C. Plants were watered by a misting sprinkler system three times daily and provided with supplementary hand watering every 3-4 days to maintain constant soil moisture levels between pots. Trolleys were swapped between replicate glasshouses monthly.
 
 Waterlogging was initiated after 90 days of plant growth and lasted 24 days, in order to simulate a significant flooding event and to allow time for morphological adaptation to manifest. Plants were randomly assigned to “control”, “waterlogged” and “recovery” treatments. “Waterlogged” and “recovery” plants were waterlogged by immersion to within 10 cm of the soil surface in 450 L plastic tubs filled with water. The black tubs were covered with white polythene sheeting to reduce heat absorption. Photosynthetic rate and transpiration rate of plants assigned to the “waterlogged” treatment were measured at the end of the waterlogging period, after which they were harvested. Tubs were drained following the waterlogging period, and “control” and “recovered” treatment plants were grown for a further 23 days before measurement and harvesting.
 
@@ -271,14 +273,14 @@ Stem density (g cm{\textsuperscript{-2}})&0.39 (0.02)&0.41 (0.02)&0.38 (0.02)&0.
 \textit{N.B.} biomass measurements for waterlogged plants are omitted because these plants were harvested at a younger age than control or recovery plants and are thus not comparable.}
 \end{longtabu}
 }
-\end{tiny}
 
 \end{landscape}
+\end{tiny}
 
 %%%% FIGURE 1
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=\linewidth,keepaspectratio=true]{gasexchange.pdf} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=\linewidth,keepaspectratio=true]{gasexchange2.png} % figures can be in pdf, png, jpeg or eps format
 \caption[Gas exchange measurements under each combination of waterlogging and CO\textsubscript{2} level treatments.]{\small{Gas exchange measurements under each combination of waterlogging and CO\textsubscript{2} level treatments. Dark shaded columns represent measurements under ambient atmospheric CO\textsubscript{2} concentration (390 ppm), light shaded columns represent measurements under elevated atmospheric CO\textsubscript{2} concentration (550 ppm). Error bars represent the standardised mean error. * - letters denote statistical significance of differences between treatment combinations (NS = no significant difference, C = significant difference between CO\textsubscript{2} level treatments, W = significant difference between waterlogging treatments).}} %The caption in the square bracket is used for the table of figures. The caption in the curved brackets is the one that is printed as actual caption. 
 \label{Ch5_F1} % label for cross-referencing
 \end{center}
@@ -297,7 +299,7 @@ Root mass fraction (RMF) was decreased by waterlogging for all species, but no s
 %%%% FIGURE 2
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=\linewidth, keepaspectratio=true]{biomass.pdf} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=\linewidth, keepaspectratio=true]{biomass2.png} % figures can be in pdf, png, jpeg or eps format
 \caption[Biomass and root mass fraction (RMF) measurements under each combination of waterlogging and CO\textsubscript{2} level treatments.]{\small{Biomass and root mass fraction (RMF) measurements under each combination of waterlogging and CO\textsubscript{2} level treatments. Dark shaded columns represent measurements under ambient CO\textsubscript{2} concentration (390 ppm), light shaded columns represent measurements under elevated CO\textsubscript{2} concentration (550 ppm). Error bars represent the standardised meanerror. * - letters denote statistical significance of differences between treatment combinations (NS = no significant difference, C = significant difference between CO\textsubscript{2} level treatments, W = significant difference between waterlogging treatments).}} %The caption in the square bracket is used for the table of figures. The caption in the curved brackets is the one that is printed as actual caption. 
 \label{Ch5_F2} % label for cross-referencing
 \end{center}
@@ -314,7 +316,7 @@ Stem density in \textit{C. cunninghamiana} was increased under elevated CO\texts
 %%%% FIGURE 3
 \begin{figure}[h!]
 \begin{center}
-\includegraphics[width=\linewidth,keepaspectratio=true]{traits.pdf} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=\linewidth,keepaspectratio=true]{traits2.png} % figures can be in pdf, png, jpeg or eps format
 \caption[Functional trait measurements under each combination of waterlogging and CO\textsubscript{2} level treatments.]{\small{Functional trait measurements under each combination of waterlogging and CO\textsubscript{2} level treatments. Dark shaded columns represent measurements under ambient CO\textsubscript{2} concentration (390 ppm), light shaded columns represent measurements under elevated CO\textsubscript{2} concentration (550 ppm). Error bars represent the standardised mean error. * - letters denote statistical significance of differences between treatment combinations (NS = no significant difference, C = significant difference between CO\textsubscript{2} level treatments, W = significant difference between waterlogging treatments).}} %The caption in the square bracket is used for the table of figures. The caption in the curved brackets is the one that is printed as actual caption. 
 \label{Ch5_F3} % label for cross-referencing
 \end{center}

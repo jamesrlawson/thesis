@@ -1,0 +1,172 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tina Dissertation
+% December 2013, modified to Template June 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Documentclass Memoir 
+% check memman.pdf for help and information
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+ \usepackage[normalem]{ulem}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+ \useunder{\uline}{\ul}{}
+
+
+% defines new column type
+\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+
+% add a little vertical padding to cramped tables
+%\setlength{\extrarowheight}{2pt}
+%\setlength{\belowrulesep}{2pt}
+
+%\renewcommand{\arraystretch}{1.5}% array stretch factor
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Examples of Memoir customization
+%%% enable, disable or adjust these as desired
+
+%%% PAGE DIMENSIONS
+% a4paper is by default 210mm wide and 279 mm wide
+
+% default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
+
+% size of the text area
+\settrims{0pt}{0pt}
+\settypeblocksize{230mm}{147mm}{*}
+\setlength{\spinemargin}{27mm}
+\setlength{\foremargin}{36mm}
+%\setulmargins{35mm}{45mm}{*}
+%\setlength{\marginparwidth}{0mm}
+%\setlength{\marginparsep}{0mm}
+%\setlength{\textwidth}{140mm}
+%\settrimmedsize{0.9\stockheight}{0.9\stockwidth}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+%\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
+\setulmargins{*}{*}{1.618} % 50pt upper margins
+%\setlrmargins{*}{*}{1.3}
+\setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+\setheaderspaces{*}{*}{1.618}
+\checkandfixthelayout % to make sure that the layout parameters make sense
+
+%\addtolength{\textwidth}{0cm}
+%\addtolength{\textheight}{1.5cm}
+%\addtolength{\textwidth}{-2cm}
+%\addtolength{\textheight}{+0.5cm}
+
+%%% \maketitle CUSTOMISATION
+% For more than trivial changes, you may as well do it yourself in a titlepage environment
+%\pretitle{\begin{center}\sffamily\Huge\MakeUppercase}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% ToC (table of contents) APPEARANCE
+\maxtocdepth{subsection} % include subsections
+%\renewcommand{\cftchapterpagefont}{}
+%\renewcommand{\cftchapterfont}{}     % no bold!
+
+%%% HEADERS & FOOTERS
+\pagestyle{Ruled} % try also: empty , plain , headings , ruled , Ruled , companion
+
+%%% CHAPTERS
+\chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+
+\renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+\renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+
+%%% TABLES
+\newcolumntype{C}[1]{>{\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
+\newcolumntype{L}[1]{>{\centering}m{#1}}
+
+%%% SECTIONS
+%\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+\maxsecnumdepth{section} % number subsections
+
+\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+%%% Abstract
+\setlength{\absleftindent}{0mm}
+\setlength{\absrightindent}{0mm}
+
+\renewcommand{\absnamepos}{center}
+\setlength{\abstitleskip}{+0cm}
+
+%% END Memoir customization
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEGIN DOCUMENT
+
+\begin{document}
+\doublespacing
+
+% Please add the following required packages to your document preamble:
+% \usepackage[normalem]{ulem}
+% \useunder{\uline}{\ul}{}
+
+% Please add the following required packages to your document preamble:
+% \usepackage[normalem]{ulem}
+% \useunder{\uline}{\ul}{}
+
+\pagestyle{empty}
+\begin{landscape}
+\begin{tiny}
+{\tabulinesep=1.2mm
+\begin{longtabu} to \linewidth {p{3cm}XXX} 
+\toprule
+\caption{My caption}
+
+% -----------------These are headings----------------------------------%
+\textit{Trait} & \textit{Definition} & \textit{Functional responses} \& \textit{inherent trade-offs} & \textit{Functional effects} \\ \hline
+%
+\endfirsthead
+%
+%\multicolumn{4}{c}%
+%{{\bfseries  Continued from previous page}} \\
+%\hline
+%
+\toprule
+\textit{Trait} & \textit{Definition} & \textit{Functional responses} \& \textit{inherent trade-offs} & \textit{Functional effects} \\ \hline
+\endhead
+%
+%\hline \multicolumn{4}{|r|}{{Continued on next page}} \\ \hline
+%\endfoot
+%
+%\hline
+%\multicolumn{4}{|r|}{{Concluded}} \\ \hline
+%\endlastfoot
+%-----------Headings end---------------------------------
+\hline
+Growth form & Categorical description of morphology: tree, shrub, woody climber, herbaceous climber, graminoid, herb. & Differential responses to mechanical and biochemical stresses associated caused by flooding; different strategies for coping with drought and heat stress. & Differential biogeomorphic effects on fluvial landform cohesion and sediment deposition. \\ \hline
+Specific leaf area (SLA) & Ratio of one-sided leaf area to oven dry mass (cm2 / g). & SLA is associated with leaf construction cost, photosynthetic rate and carbon : nitrogen economics. Indicator of  ecological strategy under favourable vs. stressful conditions(Wright et al. 2004). & Affects ecosystem productivity and nutrient recycling (Wright et al. 2004). \\ \hline
+Leaf area & One-sided leaf area (cm2). & Shade tolerance (larger leaves) vs. enhanced thermal regulation ability in hot, dry conditions (smaller leaves) (Cornelissen et al. 2003). & May influence flow resistance of vegetation (and therefore fluvial erosion / deposition) when inundated. \\ \hline
+Maximum canopy height & Height above ground of apical meristem (m). & Affects ability to tolerate mechanical disturbances such as flooding and maintain xylem integrity in dry conditions (Westoby \& Wright 2006). & Determines coarse physical structure of plant community. Surrogate for competitive ability: taller plants receive more light but must construct and maintain support structures (Falster 2006). \\ \hline
+Seed mass & Combined mass of the seed coat, endosperm and embryo (g). Excludes dispersal structures. & Larger seed mass confers ability to establish in unfavourable conditions (Leishman et al. 2000). Also related to seed buoyancy (Carthey 2014, unpublished data). & Seeds may be an important food source for animals. \\ \hline
+Wood density & Oven dry mass divided by green volume (g/cm3) & Dense wood tissue confers mechanical strength, but is energetically expensive to construct. Wood density influences ability to tolerate drought stress and disturbance (Telewski 1995; Preston, Cornwell \& Denoyer 2006; Lawson et al. 2015). & Regulates decomposition rate; this affects nutrient cycling and determines the residency time of woody debris in the fluvial system (Mackensen, Bauhus \& Webber 2003). \\ \hline
+Flowering period length & Proportion of the year spent in flower (proportion, dimensionless). & Indicates species ability to respond reproductively to favourable conditions. & Flowers may be an important food source for animals. \\ \hline
+
+\label{my-label}
+\end{longtabu}}
+\end{landscape}
+\end{tiny}
+\pagestyle{myheadings}
+
+\end{document}
+
+
+
