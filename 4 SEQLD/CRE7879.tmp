@@ -192,80 +192,6 @@ River Analysis Package was used to generate a set of 18 ecologically relevant hy
 
 The extent of flow regulation at a given gauge site was characterised by the percentage deviation of each metric from the same metric generated using modelled pre-development flow data. These modelled pre-development daily discharge data were obtained from a generic integrated water quantity and quality simulation model (IQQM) developed for the region (Simons, Podger & Cooke 1996). IQQM data were available only for the period up to 1999, so data from the timeframe 1975-1999 were used for comparison.
 
-
-\begin{landscape}
-\begin{tiny}
-{\tabulinesep=1.2mm
-\begin{longtabu} to \linewidth {m{6.5cm}m{2cm}m{3cm}X} 
-\caption[Description of hydrological variables.]{Hydrological variables used as metrics of fluvially induced environmental heterogeneity in the riparian zone (adapted from Lawson et al. 2015b)} \\
-\label{Ch4_T1}
-\hline
-% -----------------These are headings----------------------------------%
-\textit{Variable} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\ \hline
-%
-\endfirsthead
-%
-%\multicolumn{4}{c}%
-%{{\bfseries  Continued from previous page}} \\
-%\hline
-%
-\textit{Variable} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\ \hline
-\endhead
-%
-%\hline \multicolumn{4}{|r|}{{Continued on next page}} \\ \hline
-%\endfoot
-%
-%\hline
-%\multicolumn{4}{|r|}{{Concluded}} \\ \hline
-%\endlastfoot
-%-----------Headings end---------------------------------
-\hline
-\multicolumn{4}{l}{\textbf{Frequency, magnitude and duration of floods and dry spells}} \\
-Mean magnitude of high spells* & HSPeak & dimensionless & \multirow{12}{*}{\parbox{10cm}{Together, these metrics characterise the frequency, magnitude and duration of floods and dry spells. Extreme low or high flows contribute to spatial environmental heterogeneity, in that their effects (flooding disturbance, soil moisture stress) are spatially variable throughout the riparian landscape. High flow spells are periods of flow above the 95th percentile; low flow spells are periods of flow below the 5th percentile. \newline \newline
-HSPeak and LSPeak describes the mean magnitude of highest and lowest flows during high and low spells throughout the record, respectively. MDFAnnHSNum and MDFAnnLSNum describe the mean annual frequency of high and low spells. HSMeanDur and LSMeanDur describe how long flow events last. \newline \newline
-Coefficients of variation (CV) of these metrics between years characterise temporal heterogeneity in flow patterns.}} \\
-Mean magnitude of low spells* & LSPeak & dimensionless &  \\
-CV of all years? mean high spell magnitude & CVAnnHSPeak & dimensionless &  \\
-CV of all years? mean low spell magnitude & CVAnnLSPeak & dimensionless &  \\
-Mean of all years? number of high spells & MDFAnnHSNum & year-1 &  \\
-Mean of all years? number of low spells & MDFAnnLSNum & year-1 &  \\
-CV of all years? number of high spells & CVAnnHSNum & dimensionless &  \\
-CV of all years? number of low spells & CVAnnLSNum & dimensionless &  \\
-High spell mean duration & HSMeanDur & days &  \\
-Low spell mean duration & LSMeanDur & days &  \\
-CV of all years? high spell mean duration & HSMeanDur & dimensionless &  \\
-CV of all years? low spell mean duration & LSMeanDur & dimensionless &  \\
-\tabularnewline
-\hline
-\multicolumn{4}{l}{\textbf{Baseflow index}} \\
-Baseflow index & BFI & dimensionless & \multirow{4}{*}{\parbox{10cm}{Baseflow index is calculated using the ratio of flow during average conditions to total flow. It is a useful metric of perenniality of water availability, in that it is maximised when average flow conditions dominate, and minimised when total flow is dominated by above average flow events. Thus higher baseflow systems experience more homogeneous flows.}} \\
-CV of all year?s baseflow index & CVAnnBFI & dimensionless &  \\
-& & & & \\
-\tabularnewline
-\hline
-\newpage
-\multicolumn{4}{l}{\textbf{Colwell?s indices}} \\
-Constancy of monthly minimum daily flow & C\_MinM & dimensionless & \multirow{4}{*}{\parbox{10cm}{Colwell?s indices provide a measure of the seasonal predictability of flow events, and as such are a direct measure of temporal heterogeneity of flow patterns. \newline \newline
-Constancy (C) measures uniformity of flow across seasons, and is maximised when flow conditions do not differ between seasons. Contingency (M) is a measure of interannual uniformity in seasonal flow patterns, and is maximized when seasonal patterns of flow are consistent between years.  We generated Colwell?s indices for both minimum and maximum flows conditions.}} \\
-Contingency of monthly minimum daily flow & M\_MinM & Dimensionless &  \\
-Constancy based on monthly maximum daily flow & C\_MaxM & Dimensionless &  \\
-Contingency based on monthly maximum daily flow & M\_MaxM & dimensionless &  \\
-& & & & \\
-& & & & \\
-
-\hline
-\multicolumn{4}{l}{\textbf{Flow seasonality}} \\
-Average mean daily dry season flow * & MDFMDFDry & dimensionless & \multirow{4}{*}{\parbox{10cm}{These metrics describe the average magnitude and temporal variability in mean daily flows for each season (dry = May to October, wet = November to April). Averages and coefficients of variation are calculated across yearly means. Seasonal average mean daily flows were standardised by overall mean daily flow, so actually represent the ratio of mean daily flow in a given season to the total mean daily flow.}} \\
-Average mean daily wet season flow * & MDFMDFWet & dimensionless &  \\
-CV of mean daily dry season flow & CVMDFDry & dimensionless &  \\
-CV of mean daily dry season flow & CVMDFWet & dimensionless & \\
-%& & & & \\
-\tabularnewline
-\hline
-\label{my-label}
-\end{longtabu}}
-\end{landscape}
-
 \subsection{Other environmental variables}
 Data on upstream land use were obtained via the Queensland Land Use Mapping Program (QLUMP) and dataset (Witte et al. 2006). This data was generated from surveys conducted in 1999 and 2006. Land use was categorised according to the Australian Land use and Management Classification version 6 (BRS 2002), which differentiates conservation and low impact land uses from intensive land uses. Percentages of upstream land use were calculated as: production from relatively natural environments (forestry, grazing natural vegetation), dryland agriculture and plantations (e.g. cropping, horticulture, grazing pasture), irrigated agriculture (e.g. irrigated cropping, horticulture), conservation and natural environments (e.g. national park) and intensive uses (e.g. residential and industrial uses). We then used inverse distance weighting to weight each land use according to its proximity to the stream, following Petersen et al. (2010). 
 
@@ -278,25 +204,20 @@ Data was taken from published literature, private and published trait datasets, 
 \begin{landscape}
 \begin{tiny}
 {\tabulinesep=1.2mm
-\begin{longtabu} to \linewidth {p{3cm}p{5cm}XX} 
-\caption[Traits included in functional diversity analysis.]{Rationale for selection of functional response and effect traits as descriptors of riparian plant community functional diversity.}
-\label{Ch4_T2} \\
+\begin{longtabu} to \linewidth {p{3cm}XXX} 
 \toprule
 % -----------------These are headings----------------------------------%
 \textit{Trait} & \textit{Definition} & \textit{Functional responses} \& \textit{inherent trade-offs} & \textit{Functional effects} \\ \hline
 %
 \endfirsthead
 \toprule
-\textit{Trait} & \textit{Definition} & \textit{Functional responses} \& \textit{inherent trade-offs} & \textit{Functional effects} \\ \hline
-\endhead
-\toprule
-Growth form & Categorical description of morphology: tree, shrub, woody climber, herbaceous climber, graminoid, herb. & Differential responses to mechanical and biochemical stresses associated caused by flooding; different strategies for coping with drought and heat stress. & Differential biogeomorphic effects on fluvial landform cohesion and sediment deposition. \\
-Specific leaf area (SLA) & Ratio of one-sided leaf area to oven dry mass (cm2 / g). & SLA is associated with leaf construction cost, photosynthetic rate and carbon : nitrogen economics. Indicator of  ecological strategy under favourable vs. stressful conditions(Wright et al. 2004). & Affects ecosystem productivity and nutrient recycling (Wright et al. 2004). \\
-Leaf area & One-sided leaf area (cm2). & Shade tolerance (larger leaves) vs. enhanced thermal regulation ability in hot, dry conditions (smaller leaves) (Cornelissen et al. 2003). & May influence flow resistance of vegetation (and therefore fluvial erosion / deposition) when inundated. \\
-Maximum canopy height & Height above ground of apical meristem (m). & Affects ability to tolerate mechanical disturbances such as flooding and maintain xylem integrity in dry conditions (Westoby \& Wright 2006). & Determines coarse physical structure of plant community. Surrogate for competitive ability: taller plants receive more light but must construct and maintain support structures (Falster 2006). \\
-Seed mass & Combined mass of the seed coat, endosperm and embryo (g). Excludes dispersal structures. & Larger seed mass confers ability to establish in unfavourable conditions (Leishman et al. 2000). Also related to seed buoyancy (Carthey 2014, unpublished data). & Seeds may be an important food source for animals. \\
-Wood density & Oven dry mass divided by green volume (g/cm3) & Dense wood tissue confers mechanical strength, but is energetically expensive to construct. Wood density influences ability to tolerate drought stress and disturbance (Telewski 1995; Preston, Cornwell \& Denoyer 2006; Lawson et al. 2015). & Regulates decomposition rate; this affects nutrient cycling and determines the residency time of woody debris in the fluvial system (Mackensen, Bauhus \& Webber 2003). \\
-Flowering period length & Proportion of the year spent in flower (proportion, dimensionless). & Indicates species? ability to respond reproductively to favourable conditions. & Flowers may be an important food source for animals. \\
+Growth form & Categorical description of morphology: tree, shrub, woody climber, herbaceous climber, graminoid, herb. & Differential responses to mechanical and biochemical stresses associated caused by flooding; different strategies for coping with drought and heat stress. & Differential biogeomorphic effects on fluvial landform cohesion and sediment deposition. \\ \hline
+Specific leaf area (SLA) & Ratio of one-sided leaf area to oven dry mass (cm2 / g). & SLA is associated with leaf construction cost, photosynthetic rate and carbon : nitrogen economics. Indicator of  ecological strategy under favourable vs. stressful conditions(Wright et al. 2004). & Affects ecosystem productivity and nutrient recycling (Wright et al. 2004). \\ \hline
+Leaf area & One-sided leaf area (cm2). & Shade tolerance (larger leaves) vs. enhanced thermal regulation ability in hot, dry conditions (smaller leaves) (Cornelissen et al. 2003). & May influence flow resistance of vegetation (and therefore fluvial erosion / deposition) when inundated. \\ \hline
+Maximum canopy height & Height above ground of apical meristem (m). & Affects ability to tolerate mechanical disturbances such as flooding and maintain xylem integrity in dry conditions (Westoby \& Wright 2006). & Determines coarse physical structure of plant community. Surrogate for competitive ability: taller plants receive more light but must construct and maintain support structures (Falster 2006). \\ \hline
+Seed mass & Combined mass of the seed coat, endosperm and embryo (g). Excludes dispersal structures. & Larger seed mass confers ability to establish in unfavourable conditions (Leishman et al. 2000). Also related to seed buoyancy (Carthey 2014, unpublished data). & Seeds may be an important food source for animals. \\ \hline
+Wood density & Oven dry mass divided by green volume (g/cm3) & Dense wood tissue confers mechanical strength, but is energetically expensive to construct. Wood density influences ability to tolerate drought stress and disturbance (Telewski 1995; Preston, Cornwell \& Denoyer 2006; Lawson et al. 2015). & Regulates decomposition rate; this affects nutrient cycling and determines the residency time of woody debris in the fluvial system (Mackensen, Bauhus \& Webber 2003). \\ \hline
+Flowering period length & Proportion of the year spent in flower (proportion, dimensionless). & Indicates species? ability to respond reproductively to favourable conditions. & Flowers may be an important food source for animals. \\ \hline
 \end{longtabu}}
 \end{landscape}
 \end{tiny}
@@ -407,7 +328,7 @@ With respect to hypothesis 1a, we found the opposite of expected: hydrological h
 We proposed that generation of niche complexity by spatially and temporally heterogeneous environmental conditions is the dominant control on diversity in riparian plant communities. Under this framework, suppression of natural environmental heterogeneity by human modification of river flow regimes and catchment landscapes would result in lower diversity (Poff et al. 1997, 2010). This niche-oriented model of riparian plant diversity received mixed support in our study: species richness (SR) in fact decreased as hydrological conditions became more heterogeneous, and flow homogenisation by dams was associated with greater SR. Although abundance of exotic species did increase with the proportion of surrounding land used for agricultural or silvicultural production, there was no relationship between exotic abundance and flow modification, and negative relationships were found with metrics of hydrological heterogeneity. The proportion of variation in functional diversity explained by environmental variables was comparatively lower than SR or exotic abundance. Functional diversity metrics showed unimodal relationships with some metrics of hydrological heterogeneity, and declined with others. Flow modification was a weak predictor of functional diversity, and we found no effect of land use.
 
 Flow regime was nevertheless the most consistently powerful predictor of diversity in our study. Models derived from hydrological metrics explained more total and independent variation in SR, exotic abundance and FRic.SES than any other group of environmental variables. Additionally, of the individual environmental variables with significant relationships to FDis.SES, consistency in monthly maximum flows (C\_MaxM) explained the most variation. 
-Given that a large proportion of variation in diversity metrics and exotic abundance explained by flow regime was co-explained by soil and climatic variables, is it possible to attribute flow regime as the dominant control on diversity? SR increased with contingency of minimum flows (M\_MinM, Fig 2d), and also increased when M\_MinM was increased by flow modification (M\_MinM.mod, Fig 2h). SR had no direct relationship with the degree of modification of contingency of minimum flows (i.e. C\_MinM.mod) did increase as dry season flows (MDFMDFDry.mod, Fig 2g) were upregulated, which could be expected to increase constancy of minimum flows. Removal of the outlying pair of sites which had experienced extreme modification strengthened the relationship of MDFMDFDry.mod with SR (R2 $=$ 0.117 vs 0.283). Likewise, greater high flow frequency (MDFAnnHSNum) was associated with lower FRic.SES and FDis.SES, and communities with altered high flow frequency followed the same trend (Figs 3d, 4d). Extent of flow modification independently explained variation only in species richness, however, and changes to only a fraction hydrological metrics were important. As such it was not possible to give a conclusive affirmative response to this question; it is possible that relatively shallow extent of flow modification in the region over a relatively short timeframe (~30 years) (Mackay et al. 2014) did not provide the contrast required to find a consistent effect. Correlations between climate and hydrology mean that manipulative experiments are required to confidently determine the influence of flow regime on riparian plant communities. Nevertheless, the importance of hydrological metrics in our optimal models of species richness, exotic abundance, FRic.SES and Fis.SES lends weight to the case that hydrology was an important control on diversity. 
+Given that a large proportion of variation in diversity metrics and exotic abundance explained by flow regime was co-explained by soil and climatic variables, is it possible to attribute flow regime as the dominant control on diversity? SR increased with contingency of minimum flows (M\_MinM, Fig 2d), and also increased when M\_MinM was increased by flow modification (M\_MinM.mod, Fig 2h). SR had no direct relationship with the degree of modification of contingency of minimum flows (i.e. C\_MinM.mod) did increase as dry season flows (MDFMDFDry.mod, Fig 2g) were upregulated, which would increase constancy of minimum flows. Removal of the outlying pair of sites which had experienced extreme modification strengthened the relationship of MDFMDFDry.mod with SR (R2 $=$ 0.117 vs 0.283). Likewise, greater high flow frequency (MDFAnnHSNum) was associated with lower FRic.SES and FDis.SES, and communities with altered high flow frequency followed the same trend (Figs 3d, 4d). Extent of flow modification independently explained variation only in species richness, however, and changes to only a fraction hydrological metrics were important. As such it was not possible to give a conclusive affirmative response to this question; it is possible that relatively shallow extent of flow modification in the region over a relatively short timeframe (~30 years) (Mackay et al. 2014) did not provide the contrast required to find a consistent effect. Correlations between climate and hydrology mean that manipulative experiments are required to confidently determine the influence of flow regime on riparian plant communities. Nevertheless, the importance of hydrological metrics in our optimal models of species richness, exotic abundance, FRic.SES and Fis.SES lends weight to the case that hydrology was an important control on diversity. 
 
 Species richness had a more complicated relationship with hydrological heterogeneity than that expected, however. Richness was highest along rivers which experienced regular seasonal patterns of low flows, and short but frequent flood flows. These short flood flows may enhance diversity by generating habitat complexity (Tabacchi, Correll & Hauer 1998; Bendix & Hupp 2000), with longer flood durations acting as an environmental filter favouring species with inundation tolerance traits. An international meta-analysis of the ecology of tropical riverscapes showed that consistent, seasonal flow regimes support communities with higher net primary and higher species richness in bird and fish assemblages than rivers with arrhythmic flow regimes (Jardine et al. 2015). Lundholm (2009) found in a meta-analysis of studies describing relationships between SR, spatial environmental heterogeneity and energy availability, that energy availability was a better predictor of SR than environmental heterogeneity. Rhythmicity in temporal patterns of energy and resource availability (water, nutrients, fresh sediment and newly disturbed habitat) appears to compete with environmental heterogeneity as a control on riparian plant diversity in this system. 
 
@@ -433,7 +354,7 @@ This study was motivated by a desire to provide corroboration to previous work s
 
 The original  study upon which the present analysis is based was funded by the National Water Commission under the Raising National Water Standards (RNWS) programme, hosted and managed by the International Water Centre (IWC) and Griffith University, Brisbane. We particularly thank Anna Barnes and Stephen Mackay for all their efforts in the field. This research was supported by Macquarie University and an Australian Postgraduate Award scholarship to JL. Thanks to Stuart Allen for his help in sourcing climate and soil data.
 
-\section*{Authors' contributions}
+\section{Authors' contributions}
 Cassandra James designed and carried out the field component of the original study. Rachael Gallagher provided the majority of the trait data and contributed to the study design and analysis. Kirstie Fryirs and Michelle Leishman advised on the study design and analysis. James Lawson initiated and led the current project, curated the trait dataset, performed the analysis and wrote the manuscript. All authors contributed comments on the manuscript. 
 
 \end{document}

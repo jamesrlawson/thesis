@@ -11,8 +11,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1562
-NormalPos.bottom=540
+NormalPos.right=1509
+NormalPos.bottom=533
 Class=LaTeXView
 Document=..\..\..\..\..\latex\Master_document_Thesis_Template.tex
 
@@ -29,16 +29,16 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1562
-NormalPos.bottom=540
+NormalPos.right=1509
+NormalPos.bottom=533
 Class=LaTeXView
 Document=THESIS.tex
 
 [Frame1_View0,0]
-TopLine=74
+TopLine=0
 Cursor=3876
 
 [SessionInfo]
 FrameCount=2
-ActiveFrame=0
+ActiveFrame=1
 

@@ -7,28 +7,41 @@ units -1 etc. not superscript
 sensu not italics
 log10 subscript
 
-
+R2
+m2
 
 
 'following X (2008}'
 - lansgrud
 
-
-
-
-
 'although see Kogawara"
+
+
+use labels and references for all Figures and Tables
+
+san serif font for tables
+
+update how I reference supporting info
+
+
+
+
+
+midrule toprule bottomrule > hline
+
+
+
 
 '~ mm diameter' doesn't work
 neither do > or <>
 actually no symbols work
 
 
-need to make sure figures are all on right hand page
+need to make sure figures are all on right hand page!
 
-double spacing
+%double spacing
 
-headers & footers look dumb
+%headers & footers look dumb
 
 bibliography starts half way down the page (and page number is at the bottom rather than the top)
 
@@ -36,9 +49,6 @@ I want to take the square bracket thingys out of the ref list
 
 need J Ecol journal style
 
-use labels and references for all Figures and Tables
-
-san serif font for tables
 
 
 

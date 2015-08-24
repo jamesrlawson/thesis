@@ -1,0 +1,52 @@
+\documentclass[openright,12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+\usepackage{caption}
+%\usepackage{lmodern}
+
+\begin{landscape}
+\begin{longtabu} to \linewidth {p{6cm}llp{8cm}} 
+Parameter & Abbreviation & Units & Description \\
+\multicolumn{4}{l}{Frequency, magnitude and duration of floods and dry spells} \\
+Mean magnitude of high spells* & HSPeak & dimensionless & \multirow{12}{*}{Together, these metrics characterise the frequency, magnitude and duration of floods and dry spells. Extreme low or high flows contribute to spatial environmental heterogeneity, in that their effects (flooding disturbance, soil moisture stress) are spatially variable throughout the riparian landscape. High flow spells are periods of flow above the 95th percentile; low flow spells are periods of flow below the 5th percentile. HSPeak and LSPeak describes the mean magnitude of highest and lowest flows during high and low spells throughout the record, respectively. MDFAnnHSNum and MDFAnnLSNum describe the mean annual frequency of high and low spells. HSMeanDur and LSMeanDur describe how long flow events last. Coefficients of variation (CV) of these metrics between years characterise temporal heterogeneity in flow patterns.} \\
+Mean magnitude of low spells* & LSPeak & dimensionless &  \\
+CV of all years mean high spell magnitude & CVAnnHSPeak & dimensionless &  \\
+CV of all years mean low spell magnitude & CVAnnLSPeak & dimensionless &  \\
+Mean of all years number of high spells & MDFAnnHSNum & year-1 &  \\
+Mean of all years number of low spells & MDFAnnLSNum & year-1 &  \\
+CV of all years number of high spells & CVAnnHSNum & dimensionless &  \\
+CV of all years number of low spells & CVAnnLSNum & dimensionless &  \\
+High spell mean duration & HSMeanDur & days &  \\
+Low spell mean duration & LSMeanDur & days &  \\
+CV of all years high spell mean duration & HSMeanDur & dimensionless &  \\
+CV of all years low spell mean duration & LSMeanDur & dimensionless &  \\
+\multicolumn{4}{l}{Baseflow index} \\
+Baseflow index & BFI & dimensionless & \multirow{2}{*}{Baseflow index is calculated using the ratio of flow during average conditions to total flow. It is a useful metric of perenniality of water availability, in that it is maximised when average flow conditions dominate, and minimised when total flow is dominated by above average flow events. Thus higher baseflow systems experience more homogeneous flows.} \\
+CV of all years baseflow index & CVAnnBFI & dimensionless &  \\
+\multicolumn{4}{l}{Colwells indices} \\
+Constancy of monthly minimum daily flow & C\_MinM & dimensionless & \multirow{4}{*}{Colwells indices provide a measure of the seasonal predictability of flow events, and as such are a direct measure of temporal heterogeneity of flow patterns. Constancy (C) measures uniformity of flow across seasons, and is maximised when flow conditions do not differ between seasons. Contingency (M) is a measure of interannual uniformity in seasonal flow patterns, and is maximized when seasonal patterns of flow are consistent between years.  We generated Colwells indices for both minimum and maximum flows conditions.} \\
+Contingency of monthly minimum daily flow & M\_MinM & Dimensionless &  \\
+Constancy based on monthly maximum daily flow & C\_MaxM & Dimensionless &  \\
+Contingency based on monthly maximum daily flow & M\_MaxM & dimensionless &  \\
+\multicolumn{4}{l}{Flow seasonality} \\
+Average mean daily dry season flow * & MDFMDFDry & dimensionless & \multirow{4}{*}{These metrics describe the average magnitude and temporal variability in mean daily flows for each season (dry = May to October, wet = November to April). Averages and coefficients of variation are calculated across yearly means. Seasonal average mean daily flows were standardised by overall mean daily flow, so actually represent the ratio of mean daily flow in a given season to the total mean daily flow.} \\
+Average mean daily wet season flow * & MDFMDFWet & dimensionless &  \\
+CV of mean daily dry season flow & CVMDFDry & dimensionless &  \\
+CV of mean daily dry season flow & CVMDFWet & dimensionless & 
+\end{longtabu}
+\end{landscape}
+\end{document}
