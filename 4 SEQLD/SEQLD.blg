@@ -1,5 +1,16 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: SEQLD.aux
-I found no \citation commands---while reading file SEQLD.aux
-I found no \bibdata command---while reading file SEQLD.aux
-I found no \bibstyle command---while reading file SEQLD.aux
-(There were 3 error messages)
+The style file: apalike.bst
+Database file #1: library.bib
+Warning--I didn't find a database entry for "Leishman2000"
+Warning--empty journal in Rossel2014e
+Warning--empty journal in Rossel2014j
+Warning--empty journal in Rossel2014i
+Warning--empty journal in Rossel2014d
+Warning--empty journal in Rossel2014a
+Warning--empty journal in Rossel2014c
+Warning--empty journal in Rossel2014h
+Warning--empty journal in Rossel2014b
+Warning--empty journal in Rossel2014g
+Warning--empty journal in Rossel2014f
+Warning--empty journal in Wilford2014
+(There were 12 warnings)

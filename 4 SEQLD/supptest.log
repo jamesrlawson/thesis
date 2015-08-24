@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  24 AUG 2015 18:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  24 AUG 2015 19:20
 entering extended mode
-**SEQLD.tex
-("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.tex"
+**supptest.tex
+("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\supptest.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -562,7 +562,7 @@ Sidefoothsep and sidefootwidth: 7pt and 92pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
-("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.aux")
+("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\supptest.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
 LaTeX Font Info:    ... okay on input line 127.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
@@ -592,488 +592,54 @@ LaTeX Font Info:    ... okay on input line 127.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- [1
-
-
-{C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2]
-Underfull \vbox (badness 4518) has occurred while \output is active []
-
- [3
-
-]
-Missing character: There is no ‘ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [4]
-Missing character: There is no – in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no º in font cmr12!
-
-[5]
-Missing character: There is no – in font cmr12!
-Missing character: There is no – in font cmr12!
- <map.png, id=20, 405.76593pt x 581.92406pt>
-File: map.png Graphic file (type png)
- <use map.png>
-Package pdftex.def Info: map.png used on input line 174.
-(pdftex.def)             Requested size: 341.43306pt x 489.67418pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 181.
+(Font)              <12> on input line 135.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 181.
+(Font)              <8> on input line 135.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 181.
+(Font)              <6> on input line 135.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-Missing character: There is no – in font cmr12!
-
-[7 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/map.png>]
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no – in font cmr12!
-Missing character: There is no – in font cmr12!
-
-[8]
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no ¬ in font cmr12!
- [9]
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.266 \end{longtabu}
-                    }
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.266 \end{longtabu}
-                    }
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Overfull \vbox (6.69025pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (56.50299pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (10.90065pt too high) detected at line 266
- []
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.266 \end{longtabu}
-                    }
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.266 \end{longtabu}
-                    }
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Overfull \vbox (6.69025pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (56.50299pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (10.90065pt too high) detected at line 266
- []
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.266 \end{longtabu}
-                    }
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.266 \end{longtabu}
-                    }
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
-
- []
-
-
-Underfull \hbox (badness 2401) in paragraph at lines 266--266
-\OT1/cmr/m/n/8 HSPeak and LS-Peak de-scribes the mean mag-ni-tude of high-est a
-nd
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
-
- []
-
-
-Overfull \hbox (7.03987pt too wide) in paragraph at lines 266--266
-[]\OT1/cmr/m/n/8 MDFAnnHSNum| 
- []
-
-
-Overfull \hbox (5.98152pt too wide) in paragraph at lines 266--266
-[]\OT1/cmr/m/n/8 MDFAnnLSNum| 
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
-
- []
-
-
-Overfull \vbox (50.77094pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (4.27974pt too high) detected at line 266
- []
-
-
-Underfull \vbox (badness 10000) detected at line 266
- []
-
-[10
-
-] [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12
-
-]
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 300--300
-[]\OT1/cmr/m/n/8 Maximum canopy
- []
-
-
-Package natbib Warning: Citation `Leishman2000' on page 14 undefined on input l
-ine 300.
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 300--300
-\OT1/cmr/m/n/8 ent cy-cling and de-ter-mines the res-i-dency time
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 300--300
-\OT1/cmr/m/n/8 of woody de-bris in the flu-vial sys-tem mack-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--300
-[]\OT1/cmr/m/n/8 Flowering pe-riod
- []
-
-
-Underfull \vbox (badness 10000) detected at line 300
- []
-
-[14
-
-]
-
-! LaTeX Error: \begin{landscape} on input line 278 ended by \end{tiny}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.302 \end{tiny}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no é in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no – in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15
-
-]
-Overfull \hbox (0.81787pt too wide) in paragraph at lines 316--318
-[]\OT1/cmr/m/n/12 The fol-low-ing pro-cess was used to de-rive an op-ti-mal set
- of environment-diversity
- []
-
-[16] [17] [18] <speciesRichness.pdf, id=69, 597.50786pt x 486.51537pt>
-File: speciesRichness.pdf Graphic file (type pdf)
-
-<use speciesRichness.pdf>
-Package pdftex.def Info: speciesRichness.pdf used on input line 336.
-(pdftex.def)             Requested size: 513.37265pt x 418.0pt.
- [19 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/speciesRichne
-ss.pdf>]
-! Extra }, or forgotten \endgroup.
-l.341 ... interval around the regression model.}}}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-[20
-
-
-
-] [21
-
-] <FRicSES.pdf, id=130, 595.67091pt x 356.14458pt>
-File: FRicSES.pdf Graphic file (type pdf)
- <use FRicSES.pdf>
-Package pdftex.def Info: FRicSES.pdf used on input line 356.
-(pdftex.def)             Requested size: 699.15901pt x 418.0pt.
-
-Overfull \hbox (34.65901pt too wide) in paragraph at lines 356--357
+Overfull \hbox (24.51619pt too wide) in paragraph at lines 135--142
  [][] 
  []
 
-[22 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/FRicSES.pdf>]
-[23
 
-
-
-] [24
-
-] <FDisSES.pdf, id=172, 596.00168pt x 361.40018pt>
-File: FDisSES.pdf Graphic file (type pdf)
- <use FDisSES.pdf>
-Package pdftex.def Info: FDisSES.pdf used on input line 376.
-(pdftex.def)             Requested size: 689.38898pt x 418.0pt.
-
-Overfull \hbox (24.88898pt too wide) in paragraph at lines 376--377
+Overfull \hbox (19.77406pt too wide) in paragraph at lines 148--170
  [][] 
  []
 
-[25 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/FDisSES.pdf>]
-[26
 
-
-
-] [27
-
-] <exotics.pdf, id=215, 597.53188pt x 473.7348pt>
-File: exotics.pdf Graphic file (type pdf)
- <use exotics.pdf>
-Package pdftex.def Info: exotics.pdf used on input line 396.
-(pdftex.def)             Requested size: 527.2429pt x 418.0pt.
-
-[28 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/exotics.pdf>]
-[29
-
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30
-
-]
-Missing character: There is no ‘ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [31]
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [32]
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [33]
-Missing character: There is no ‘ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.bbl"
-[35] [36
-
-]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
- [37] [38]
-Underfull \hbox (badness 1953) in paragraph at lines 210--215
-\OT1/cmr/m/n/10.95 Mi-crofrag-men-ta-tion con-cept ex-plains non-positive en-vi
--ron-men-tal heterogeneity-
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+\OT1/cmr/m/it/12 (individuals Ha-
  []
 
-[39] [40]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
- [41]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ™ in font cmr10!
- [42]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
- [43] [44])
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+\OT1/cmr/m/it/12 (individuals Ha-
+ []
 
-[45]
 
-! LaTeX Error: \begin{landscape} on input line 196 ended by \end{document}.
+LaTeX Warning: Float too large for page by 79.44931pt on input line 240.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.445 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+[1{C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.aux") )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 196 (\begingroup)
-### bottom level 
+] [2]
+[3] [4]
+("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\supptest.aux") ) 
 Here is how much of TeX's memory you used:
- 7450 strings out of 493921
- 107870 string characters out of 3145277
- 228478 words of memory out of 3000000
- 10700 multiletter control sequences out of 15000+200000
- 10197 words of font info for 35 fonts, out of 3000000 for 9000
+ 7096 strings out of 493921
+ 101361 string characters out of 3145277
+ 230478 words of memory out of 3000000
+ 10361 multiletter control sequences out of 15000+200000
+ 7375 words of font info for 26 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,12n,51p,1882b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
-m/cmbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/
-Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Pro
-gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Progra
-m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program F
-iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program File
-s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on SEQLD.pdf (45 pages, 997518 bytes).
+ 38i,15n,38p,251b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+<
+C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
+rogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on supptest.pdf (4 pages, 37699 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
+ 23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
