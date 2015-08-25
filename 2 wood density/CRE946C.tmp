@@ -128,7 +128,7 @@
 %%% BEGIN DOCUMENT
 
 \begin{document}
-\doublespacing
+\onehalfspacing
 
 
 \chapter[wood density]{Hydrological conditions explain variation in wood density in riparian plants of south-eastern Australia}
@@ -298,7 +298,7 @@ Community mean wood density varied by 50\% between sites. The largest, most inte
 \tiny
 \centering
 \caption[Statistics for regression models.]{\small{Statistics for regression models comparing hydrological metrics with site mean wood density. P.adj denotes p values adjusted by the Benjamini-Hochberg method. Significant results are shown in bold. Models used are either quadratic or linear, as shown in Fig. 2 and Fig. 3. For non-significant relationships, statistics shown are for linear models.}}
-\label{Ch2_T2}
+\label{Ch5_T2}
 {\tabulinesep=1.2mm
 \begin{tabu}to \textwidth {XXXX}
 \hline

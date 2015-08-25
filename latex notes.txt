@@ -9,7 +9,7 @@ log10 subscript
 
 R2
 m2
-
+oC
 
 'following X (2008}'
 - lansgrud
@@ -23,7 +23,7 @@ san serif font for tables
 
 update how I reference supporting info
 
-
+symbols in WD map
 
 
 

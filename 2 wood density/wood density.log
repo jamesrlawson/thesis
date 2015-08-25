@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  25 AUG 2015 12:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  25 AUG 2015 13:47
 entering extended mode
 **wood*density.tex
 
@@ -622,81 +622,22 @@ Overfull \hbox (2.25397pt too wide) in paragraph at lines 146--147
 ter-mi-nants of eco-log-i-cal strat-
  []
 
-[2]
+
+Underfull \vbox (badness 3635) has occurred while \output is active []
+
+ [2]
+[3]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
-Overfull \hbox (4.18869pt too wide) in paragraph at lines 154--155
-\OT1/cmr/m/n/12 Functional trait ori-ented ap-proaches to un-der-stand-ing com-
-mu-nity as-sem-bly (McGill
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-! Misplaced alignment tab character &.
-l.156 ...turing riparian ecosystems (Poff, Allan &
-                                                   Bain 1997). Hydrological ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.156 ...l strategy in a riparian system (Naiman &
-                                                   Decamps 1997). Several au...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.158 ...ctional trait in plant ecology (Westoby &
-                                                   Wright 2006; Swenson & En...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.158 ...ecology (Westoby & Wright 2006; Swenson &
-                                                   Enquist 2007), and has be...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Underfull \vbox (badness 4518) has occurred while \output is active []
-
- [3
+ [4
 
 ]
-! Misplaced alignment tab character &.
-l.160 ...it of stem height (Falster 2006; Niklas &
-                                                   Spatz 2010). Resources no...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Underfull \vbox (badness 1189) has occurred while \output is active []
 
-! Misplaced alignment tab character &.
-l.164 ...it values (Grime 2006; Sonnier, Shipley &
-                                                   Navas 2010).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
+ [5]
 ! Misplaced alignment tab character &.
 l.165 ...istic of riparian environments (Nilsson &
                                                    Svedmark 2002). Ecologica...
@@ -707,78 +648,10 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
-l.165 ...sture is unclear. Some studies (Weimann &
-                                                   Williamson, 2002; Swenson...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
-l.165 ...es (Weimann & Williamson, 2002; Swenson &
-                                                   Enquist, 2007) found litt...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Missing character: There is no í in font cmr12!
-! Misplaced alignment tab character &.
-l.165 ...d with soil moisture (Preston, Cornwell &
-                                                   Denoyer 2006). High wood ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.165 ...e use of resources (Westoby 1998; Reich &
-                                                   Wright 2003; Swenson & En...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.165 ...toby 1998; Reich & Wright 2003; Swenson &
-                                                   Enquist 2007). Fluctuatio...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[4]
-! Misplaced alignment tab character &.
-l.167 ...able continent on the planet (Finlayson &
-                                                   McMahon 1988; Peel, McMah...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.167 ...Finlayson & McMahon 1988; Peel, McMahon &
-                                                   Finlayson 2004), Australi...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
+ [6]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ‘ in font cmr12!
@@ -788,10 +661,10 @@ Missing character: There is no ’ in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
+ [7]
 ! Misplaced alignment tab character &.
 l.173 ...lain pocket River Styles, c.f. Brierley &
-                                                   Fryirs (2005), had an int...
+                                                   Fryirs (2005) \cite{brier...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -800,50 +673,32 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no ® in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-<map.pdf, id=24, 346.31326pt x 332.48012pt>
+[8] <map.pdf, id=31, 346.31326pt x 332.48012pt>
 File: map.pdf Graphic file (type pdf)
  <use map.pdf>
 Package pdftex.def Info: map.pdf used on input line 178.
 (pdftex.def)             Requested size: 341.43306pt x 327.82207pt.
 Missing character: There is no • in font cmr10!
 Missing character: There is no • in font cmr10!
- [7 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/map.pdf
->]
+ [9] [10 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/ma
+p.pdf>]
 Missing character: There is no ö in font cmr12!
 Missing character: There is no ° in font cmr12!
 Missing character: There is no ° in font cmr12!
 
-! Undefined control sequence.
-l.195 ...ous Water Monitoring network website \urk
-                                                  {(http://realtimedata.wate...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Missing character: There is no ’ in font cmr12!
+ [11
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 195.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 195.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 195.
+Missing character: There is no ’ in font cmr12!
 Missing character: There is no – in font cmr12!
-! Misplaced alignment tab character &.
-l.195 ...ver Analysis Package (Marsh, Stewardson &
-                                                   Kennard 2003). Consistenc...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
@@ -852,11 +707,12 @@ Overfull \hbox (3.29982pt too wide) in paragraph at lines 195--196
 lated from the PINNNENA
  []
 
-[8
-
-]
 Missing character: There is no ’ in font cmr12!
- [9]
+
+Underfull \vbox (badness 1990) has occurred while \output is active []
+
+ [12]
+[13]
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
@@ -874,7 +730,7 @@ I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \vbox (64.0585pt too high) detected at line 271
+Overfull \vbox (83.72357pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
@@ -883,19 +739,19 @@ Missing character: There is no ’ in font cmr8!
 Missing character: There is no ‘ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (74.29242pt too high) detected at line 271
+Overfull \vbox (97.8905pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (52.26903pt too high) detected at line 271
+Overfull \vbox (68.00108pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (28.69008pt too high) detected at line 271
+Overfull \vbox (36.5561pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
@@ -905,7 +761,7 @@ Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (74.29242pt too high) detected at line 271
+Overfull \vbox (97.8905pt too high) detected at line 271
  []
 
 ! Misplaced \noalign.
@@ -925,7 +781,7 @@ I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \vbox (64.0585pt too high) detected at line 271
+Overfull \vbox (83.72357pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
@@ -934,19 +790,19 @@ Missing character: There is no ’ in font cmr8!
 Missing character: There is no ‘ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (74.29242pt too high) detected at line 271
+Overfull \vbox (97.8905pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (52.26903pt too high) detected at line 271
+Overfull \vbox (68.00108pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (28.69008pt too high) detected at line 271
+Overfull \vbox (36.5561pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
@@ -957,7 +813,7 @@ Missing character: There is no ’ in font cmbx8!
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (74.29242pt too high) detected at line 271
+Overfull \vbox (97.8905pt too high) detected at line 271
  []
 
 ! Misplaced \noalign.
@@ -977,7 +833,7 @@ I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \vbox (62.40327pt too high) detected at line 271
+Overfull \vbox (83.24826pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
@@ -986,19 +842,19 @@ Missing character: There is no ’ in font cmr8!
 Missing character: There is no ‘ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (72.8594pt too high) detected at line 271
+Overfull \vbox (97.6374pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (51.6138pt too high) detected at line 271
+Overfull \vbox (68.00108pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (27.25706pt too high) detected at line 271
+Overfull \vbox (36.30301pt too high) detected at line 271
  []
 
 Missing character: There is no ’ in font cmr8!
@@ -1014,16 +870,16 @@ Missing character: There is no ’ in font cmbx8!
 Missing character: There is no ’ in font cmr8!
 Missing character: There is no ’ in font cmr8!
 
-Overfull \vbox (72.8594pt too high) detected at line 271
+Overfull \vbox (97.6374pt too high) detected at line 271
  []
 
 
 Underfull \vbox (badness 10000) detected at line 271
  []
 
-[10
+[14
 
-] [11] [12]
+] [15] [16]
 
 ! LaTeX Error: \begin{landscape} on input line 200 ended by \end{tiny}.
 
@@ -1037,55 +893,28 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+
+Overfull \hbox (0.86603pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/12 from urlhttps://github.com/jamesrlawson/riparian-WD/tree/master
+/scripts. Sta-
+ []
+
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-! Misplaced alignment tab character &.
-l.282 ...n trait value of a community (Schleuter &
-                                                   Daufresne 2010). When tra...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Missing character: There is no é in font cmr12!
-! Misplaced alignment tab character &.
-l.282 ...mes of the trait range (Villéger, Mason &
-                                                   Mouillot 2008). Variance ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[13
+[17
 
 
-]
+] [18]
 Missing character: There is no ’ in font cmr12!
-
-! Misplaced alignment tab character &.
-l.289 ...ed using Moran’s I (ape package, Claude &
-                                                   Strimmer 2004).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[14]
 Missing character: There is no ’ in font cmr12!
- <Fig2.png, id=1525, 698.61pt x 839.17516pt>
+ <Fig2.png, id=1537, 698.61pt x 839.17516pt>
 File: Fig2.png Graphic file (type png)
  <use Fig2.png>
 Package pdftex.def Info: Fig2.png used on input line 336.
 (pdftex.def)             Requested size: 418.0pt x 502.11327pt.
- [15] [16 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/F
-ig2.png>]
-<Fig3.png, id=1534, 681.747pt x 1115.367pt>
+ [19]
+[20] [21 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/Fi
+g2.png>] <Fig3.png, id=1550, 681.747pt x 1115.367pt>
 File: Fig3.png Graphic file (type png)
  <use Fig3.png>
 Package pdftex.def Info: Fig3.png used on input line 348.
@@ -1203,15 +1032,15 @@ my insertion and my current dilemma will both disappear.
 
 LaTeX Warning: Float too large for page by 41.94595pt on input line 352.
 
-[17
+[22
 
-] [18 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/Fig3.
+] [23 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/Fig3.
 png>]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
- <PCAbiplot.pdf, id=1542, 515.52597pt x 415.151pt>
+ <PCAbiplot.pdf, id=1558, 515.52597pt x 415.151pt>
 File: PCAbiplot.pdf Graphic file (type pdf)
  <use PCAbiplot.pdf>
 Package pdftex.def Info: PCAbiplot.pdf used on input line 362.
@@ -1220,85 +1049,41 @@ Package pdftex.def Info: PCAbiplot.pdf used on input line 362.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19
+[24
 
-] [20 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/PCAbi
-plot.pdf>] <CWV.pdf, id=1554, 201.75375pt x 167.62625pt>
+] [25 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/PCAbi
+plot.pdf>] <CWV.pdf, id=1570, 201.75375pt x 167.62625pt>
 File: CWV.pdf Graphic file (type pdf)
  <use CWV.pdf>
 Package pdftex.def Info: CWV.pdf used on input line 374.
 (pdftex.def)             Requested size: 284.52756pt x 236.40161pt.
 
-[21
+[26
 
  <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/2 wood density/CWV.pdf>]
-! Misplaced alignment tab character &.
-l.386 ...l and subsequent bank deposition (Cadol &
-                                                   Wohl 2010), were also ass...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+! Undefined control sequence.
+l.384 ...increases.  We also found that for \texit
+                                                  {Casuarina cunninghamiana}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-! Misplaced alignment tab character &.
-l.386 ...e, extreme events (Telewski 1995; Cohen &
-                                                   Mangel 1999).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 4518) has occurred while \output is active []
-
- [22
+ [27
 
 ]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
-! Misplaced alignment tab character &.
-l.388 ...ter stress (Hacke et al. 2001; Jacobsen &
-                                                   Ewers 2005; Jacobsen et a...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Missing character: There is no í in font cmr12!
-! Misplaced alignment tab character &.
-l.390 ... would be favoured (Valladares, Gianoli &
-                                                   Gómez 2007). Environmenta...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Missing character: There is no ó in font cmr12!
-! Misplaced alignment tab character &.
-l.390 ...oping with the stress itself (Gutschick &
-                                                   BassiriRad 2003).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [23]
+ [28]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
@@ -1314,26 +1099,6 @@ might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-! Misplaced alignment tab character &.
-l.392 ...mon to the riparian environment (Naiman &
-                                                   Decamps 1997; Woolfrey & ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.392 ...onment (Naiman & Decamps 1997; Woolfrey &
-                                                   Ladd 2001). For pioneer s...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ‘ in font cmr12!
@@ -1344,142 +1109,82 @@ Overfull \hbox (0.1651pt too wide) in paragraph at lines 392--393
 ral strength fit within
  []
 
-! Misplaced alignment tab character &.
-l.394 ...d near-channel landforms (Webb, Erskine &
-                                                   Dragovich 2002). By estab...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
-l.394 ...cies (King et al. 2006; Kraft, Valencia &
-                                                   Ackerly 2008; Poorter et ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Underfull \vbox (badness 1189) has occurred while \output is active []
+
+ [29]
+! Undefined control sequence.
+l.394 ...xtit{Casuarina cunninghamiana} and \texit
+                                                  {Tristaniopsis laurina} (t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 Missing character: There is no ’ in font cmr12!
 
-Underfull \vbox (badness 1292) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
-! Misplaced alignment tab character &.
-l.396 ...ove the channel edge (Tabacchi, Correll &
-                                                   Hauer 1998), this observa...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.396 ... along a successional gradient (Falster &
-                                                   Westoby 2005). Further pa...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
+ [30]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-! Misplaced alignment tab character &.
-l.400 ...es for stressful environments) (Swenson &
-                                                   Enquist 2007). Rather tha...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
-l.400 ...petitive exclusion (Huston 1979; Naiman &
-                                                   Decamps 1997), whilst sim...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.402 ...re altering hydrology globally (Nilsson &
-                                                   Berggren 2000; Stocker et...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.402 ...dplain connectivity (Maheshwari, Walker &
-                                                   McMahon 1995; Graf 2006)....
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
+[31]
 Missing character: There is no – in font cmr12!
 Missing character: There is no ’ in font cmr12!
-! Misplaced alignment tab character &.
-l.402 ...a of research in hydroclimatology (Peel &
-                                                   Bloschl 2011) – functiona...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 Missing character: There is no – in font cmr12!
-[25] [26]
-! Misplaced alignment tab character &.
-l.411 ...doi:10.5061/dryad.72h45 (Lawson, Fryirs &
-                                                   Leishman 2015).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-[27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33]
+("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\2 wood density\wood densi
+ty.bbl" [34] [35
+
+] [36] [37] [38] [39]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 311.
+
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 311.
+ [40]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [41]
+[42] [43]) [44]
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\2 wood density\wood densi
 ty.aux") ) 
 Here is how much of TeX's memory you used:
- 7307 strings out of 493921
- 103856 string characters out of 3145277
+ 7564 strings out of 493921
+ 108825 string characters out of 3145277
  228478 words of memory out of 3000000
- 10550 multiletter control sequences out of 15000+200000
- 11049 words of font info for 39 fonts, out of 3000000 for 9000
+ 10800 multiletter control sequences out of 15000+200000
+ 11395 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,15n,47p,2229b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,15n,47p,2207b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx
 12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx8.p
-fb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
-rogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
-m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program F
-iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program File
-s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (
-x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86
-)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/mi
-ktex2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "wood density.pdf" (27 pages, 2095796 bytes).
+fb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program F
+iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program File
+s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (
+x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86
+)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/m
+iktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/mikt
+ex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2
+.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "wood density.pdf" (44 pages, 2166839 bytes).
 PDF statistics:
- 1617 PDF objects out of 1728 (max. 8388607)
+ 1685 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
