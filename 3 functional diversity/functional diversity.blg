@@ -1,5 +1,28 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: functional diversity.aux
-I found no \citation commands---while reading file functional diversity.aux
-I found no \bibdata command---while reading file functional diversity.aux
-I found no \bibstyle command---while reading file functional diversity.aux
-(There were 3 error messages)
+White space in argument---line 83 of file functional diversity.aux
+ : \citation{Rossel2014,Rossel2014a,Rossel2014b,Rossel2014c,Rossel2014d,Rossel2014e,Rossel2014f,Rossel2014g,Rossel2014h,Rossel2014i,Rossel2014j;
+ :                                                                                                                                               Wilford2014}
+I'm skipping whatever remains of this command
+The style file: apalike.bst
+Database file #1: library.bib
+Warning--I didn't find a database entry for "Tabacchi1996"
+Warning--I didn't find a database entry for "Palmer1997"
+Warning--I didn't find a database entry for "connell1978diversity"
+Warning--I didn't find a database entry for "Arthingon2012"
+Warning--I didn't find a database entry for "Diaz2001"
+Warning--I didn't find a database entry for "Leishman2000"
+Warning--I didn't find a database entry for "Vazquez2015"
+Warning--I didn't find a database entry for "Seibentritt2004"
+Warning--I didn't find a database entry for "Sottile2015"
+Warning--I didn't find a database entry for "Howell2000"
+Warning--can't use both author and editor fields in Hennessy2007
+Warning--empty journal in Rossel2014e
+Warning--empty journal in Rossel2014i
+Warning--empty journal in Rossel2014d
+Warning--empty journal in Rossel2014a
+Warning--empty journal in Rossel2014c
+Warning--empty journal in Rossel2014h
+Warning--empty journal in Rossel2014b
+Warning--empty journal in Rossel2014g
+Warning--empty journal in Rossel2014f
+(There was 1 error message)

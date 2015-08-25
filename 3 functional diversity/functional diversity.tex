@@ -215,7 +215,7 @@ Daily discharge data for each site were obtained from the PINNNENA CW 10.1 datab
 \begin{longtabu} to \linewidth {m{6.5cm}m{2.5cm}m{2.5cm}X}
 %\begin{longtabu} to \linewidth {lm{2.5cm}m{2.5cm}X}
 \caption[Description of hydrological variables.]{Hydrological parameters used as metrics of variability in high flow magnitude and frequency and predictability and consistency of water availability in the riparian environment. * - normalised by mean daily flow (ML/day)} \\
-\label{Ch3_T3}
+\label{Ch3_T2}
 \hline
 % -----------------These are headings----------------------------------%
 \textit{Parameter} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\%
@@ -272,7 +272,7 @@ CV of mean daily flow for Winter & CVMDFWinter & dimensionless & \\[0.2cm]
 \end{landscape}
 
 \subsection{Functional trait diversity analysis}
-Functional dispersion characterises the distribution of species traits at a site in multivariate trait space. We used the dbFD function from the FD package for R (Laliberté & Legendre 2010) to calculate abundance-weighted functional dispersion (FDis) from species trait values and relative abundances for each site. This package implements the method for distance-based tests for homogeneity of multivariate dispersions described by Anderson \cite{Anderson2006}.  dbFD uses Gower's method \cite{Gower1971} to generate the trait dissimilarity matrix, which can account for missing values, and automatically standardises traits by their ranges; Cailliez’s correction was applied to the matrix \cite{Cailliez1983}. Simpson’s diversity was calculated using the SYNCSA package \cite{debastiani2012syncsa}. 
+Functional dispersion characterises the distribution of species traits at a site in multivariate trait space. We used the dbFD function from the FD package for R \cite{Laliberte2010} to calculate abundance-weighted functional dispersion (FDis) from species trait values and relative abundances for each site. This package implements the method for distance-based tests for homogeneity of multivariate dispersions described by Anderson \cite{Anderson2006}.  dbFD uses Gower's method \cite{Gower1971} to generate the trait dissimilarity matrix, which can account for missing values, and automatically standardises traits by their ranges; Cailliez’s correction was applied to the matrix \cite{Cailliez1983}. Simpson’s diversity was calculated using the SYNCSA package \cite{debastiani2012syncsa}. 
 
 Only species present at >1 \% cover in plots were included in the analysis (n = 126, from a total of 327 species). Data deficient species lacking values for more than four traits could not be included in the analysis as they produced gaps in the distance matrix used to calculate functional diversity. Thus a final total of 107 species were included in the analysis. Data density exceeded 90 \% for all sites and averaged 97 \%; full data density information including trait specific values are shown in the Supporting Information S3. All trait values were transformed by log10 prior to analysis. Summary statistics for the trait dataset are also available in the Supporting Information S3.
 Following Leps et al. cite{Leps2006}, we performed principal components analysis (PCA) (stats package), \cite{RCoreTeam2015} on trait data to check for redundancy. Although not completely orthogonal, traits were well distributed across multiple principal components. Therefore we believe there is both ecological (as previously discussed) and statistical rationale to retain all six traits in the analysis.
@@ -280,7 +280,7 @@ Following Leps et al. cite{Leps2006}, we performed principal components analysis
 All statistical analyses were performed using the R statistical programming environment \cite{RCoreTeam2015}. Statistical significance was interpreted at alpha = 0.05.
 
 \subsection{Relationships between FDis, hydrological metrics and taxonomic diversity}
-Ordinary least-squares (OLS) regression models were generated for the selected metrics to determine relationships between hydrological gradients and FDis. To reduce the occurrence of Type 1 statistical error, we adjusted the resulting p values using the two-step Benjamini - Hochberg (BH) procedure \cite{RCoreTeam2015}Benjamini2006} for controlling the false discovery rate (mt.rawp2adjp function in multtest package for R) \cite{pollard2008multtest}.
+Ordinary least-squares (OLS) regression models were generated for the selected metrics to determine relationships between hydrological gradients and FDis. To reduce the occurrence of Type 1 statistical error, we adjusted the resulting p values using the two-step Benjamini - Hochberg (BH) procedure \cite{Benjamini2006} for controlling the false discovery rate (mt.rawp2adjp function in multtest package for R) \cite{pollard2008multtest}.
  
 The utility of functional diversity metrics depends on their ability to provide non-redundant information compared with measures of taxonomic diversity. We further tested relationships (using OLS regression) between FDis and species richness and Simpson’s diversity (for species used in the analysis, present at >1 \% cover), and species richness for the full set of 327 species identified in the study. 
 
@@ -363,6 +363,8 @@ We used an information theoretic procedure to select the best fitting, most pars
 \end{landscape}
 
 Model 12 was determined to be the optimal model according to AICc. Models 4, 5 and 10 were close to optimal but offered lower explanatory power according to the adjusted R2 of the model. Although Model 13 offered higher explanatory power, it was less parsimonious according to AICc and exhibited multicollinearity. Multicollinearity was determined not to be of importance for Model 12 according to variance inflation factor scores (all <3 on centred variables).  All terms in Model 12 were individually significant; a full summary of the model is given in Table 4. Notably, the coefficient of the interaction term was negative, indicating a diminishing influence on FDis when values of CVAnnHSPeak and MDFMDFSummer are both high.
+
+\newpage
 
 \begin{table}[ht]
 \tiny
