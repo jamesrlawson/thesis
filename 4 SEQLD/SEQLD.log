@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  24 AUG 2015 18:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  25 AUG 2015 18:00
 entering extended mode
 **SEQLD.tex
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.tex"
@@ -649,21 +649,43 @@ Missing character: There is no – in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
  [9]
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.266 \end{longtabu}
-                    }
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
+Overfull \vbox (6.69025pt too high) detected at line 266
+ []
 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
 l.266 \end{longtabu}
                     }
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \vbox (56.50299pt too high) detected at line 266
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.266 \end{longtabu}
+                    }
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.266 \end{longtabu}
+                    }
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \vbox (10.90065pt too high) detected at line 266
+ []
 
 
 Overfull \vbox (6.69025pt too high) detected at line 266
@@ -703,77 +725,6 @@ So I'll assume that you meant to type \cr instead.
 
 Overfull \vbox (10.90065pt too high) detected at line 266
  []
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.266 \end{longtabu}
-                    }
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.266 \end{longtabu}
-                    }
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Overfull \vbox (6.69025pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (56.50299pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (10.90065pt too high) detected at line 266
- []
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.266 \end{longtabu}
-                    }
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.266 \end{longtabu}
-                    }
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 266--266
@@ -1071,7 +1022,7 @@ gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Progra
 m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program F
 iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program File
 s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on SEQLD.pdf (45 pages, 997518 bytes).
+Output written on SEQLD.pdf (45 pages, 997501 bytes).
 PDF statistics:
  350 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
