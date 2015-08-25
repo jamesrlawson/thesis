@@ -31,12 +31,14 @@ midrule toprule bottomrule > hline
 
 use \url{} for links
 
+double spacing vs single spacing in tables (tabu vs tabularx?)
 
 
 
-'~ mm diameter' doesn't work
+'~ mm diameter' doesn't work (textcomp package for tildes, then {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
 neither do > or <>
 actually no symbols work
+ | symbol denotes controlled for
 
 
 need to make sure figures are all on right hand page!

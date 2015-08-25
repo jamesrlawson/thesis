@@ -1,0 +1,298 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tina Dissertation
+% December 2013, modified to Template June 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Documentclass Memoir 
+% check memman.pdf for help and information
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[openright,12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+\usepackage{caption}
+%\usepackage{lmodern}
+\usepackage{url} \usepackage[normalem]{ulem}
+\useunder{\uline}{\ul}{}
+\usepackage{textcomp}
+
+
+% defines new column type
+\newcolumntype{Z}{$>${\raggedright\arraybackslash}X}
+
+% add a little vertical padding to cramped tables
+\setlength{\extrarowheight}{2pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Examples of Memoir customization
+%%% enable, disable or adjust these as desired
+
+%%% PAGE DIMENSIONS
+% a4paper is by default 210mm wide and 279 mm wide
+
+% default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
+
+% size of the text area
+  \settrims{0pt}{0pt}
+  \settypeblocksize{230mm}{147mm}{*}
+  \setlength{\spinemargin}{27mm}
+  \setlength{\foremargin}{36mm}
+%\setulmargins{35mm}{45mm}{*}
+%\setlength{\marginparwidth}{0mm}
+%\setlength{\marginparsep}{0mm}
+%\setlength{\textwidth}{140mm}
+%\settrimmedsize{0.9\stockheight}{0.9\stockwidth}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+%\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
+  \setulmargins{*}{*}{1.618} % 50pt upper margins
+%\setlrmargins{*}{*}{1.3}
+%  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+  \setheaderspaces{*}{*}{1.618}
+  \checkandfixthelayout % to make sure that the layout parameters make sense
+
+%\addtolength{\textwidth}{0cm}
+%\addtolength{\textheight}{1.5cm}
+%\addtolength{\textwidth}{-2cm}
+%\addtolength{\textheight}{+0.5cm}
+
+%%% \maketitle CUSTOMISATION
+% For more than trivial changes, you may as well do it yourself in a titlepage environment
+%\pretitle{\begin{center}\sffamily\Huge\MakeUppercase}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% ToC (table of contents) APPEARANCE
+  \maxtocdepth{subsection} % include subsections
+%\renewcommand{\cftchapterpagefont}{}
+%\renewcommand{\cftchapterfont}{}     % no bold!
+
+%%% HEADERS & FOOTERS
+  \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
+
+%%% CHAPTERS
+  \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+
+  \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+  \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+
+%%% TABLES
+  \newcolumntype{C}[1]{$>${\centering}m{#1}} % defines the default layout of the tables (C$=$centerling, L$=$left)
+  \newcolumntype{L}[1]{$>${\centering}m{#1}}
+
+%%% SECTIONS
+%\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+  \maxsecnumdepth{section} % number subsections
+
+  \setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+  \setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+%%% Abstract
+  \setlength{\absleftindent}{0mm}
+  \setlength{\absrightindent}{0mm}
+
+  \renewcommand{\absnamepos}{center}
+  \setlength{\abstitleskip}{+0cm}
+
+%%% Captions
+
+%\DeclareCaptionFont{tiny}{\tiny}
+%\captionsetup{font$=$tiny, labelfont$=$tiny}
+%\usepackage[font$=${tiny}, labelfont$=${tiny}]{caption}
+%\usepackage[font$=$sf, labelfont$=${sf,bf}, margin$=$1cm]{caption}
+%\captionsetup{font$=$scriptsize,labelfont$=$scriptsize}
+
+%\usepackage[textfont$=${tiny}, labelfont$=${tiny}]{caption}
+
+ % \captionnamefont{\tiny}
+ %\captiontitlefont{\tiny}
+
+%% END Memoir customization
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEGIN DOCUMENT
+
+\begin{document}
+\doublespacing
+
+\begin{landscape}
+\begin{table}[ht]
+\doublespacing
+\tiny
+\centering
+\caption[Traits included in functional diversity analysis.]{\small{Justification for inclusion of traits in the functional diversity analysis.}} \\
+\label{Ch3_T1}
+{\tabulinesep=1.2mm
+%\begin{tabu} to \linewidth {m{3.2cm}m{5cm}X}
+\begin{tabu} to \linewidth {lp{5cm}X}
+
+\hline
+\textit{Trait} & \textit{Definition} & \textit{Ecological strategies and trade-offs captured by trait} \\ \hline
+Specific leaf area & Ratio of one-sided leaf area to oven dry mass (cm2 g-1). & Indicates species position along the leaf economics spectrum (Wright et al. 2004). \newline Associated with trade-off between rapid leaf construction and ability to tolerate stress (Reich \&amp; Wright 2003). \\
+Maximum canopy height & Height above ground of apical meristem (m). & Integrates trade-off between competition for light and cost of construction and maintenance of support structures (Falster 2006). \\
+Seed mass & Combined mass of the seed coat, endosperm and embryo (g). Does not include dispersal structures. & Indicates maternal investment in individual offspring (Leishman et al. 2000). \newline Influences hydrochory (via seed buoyancy) (Carthey et al. unpublished data), and ability to establish in different soil moisture conditions (Leishman et al. 2000). \\
+Wood density & Oven dry mass divided by green volume (g cm-3) & Confers mechanical strength to stems but costly to construct. \newline Associated with slower relative growth rates (Chave et al. 2009) but greater ability to tolerate water stress and disturbance (Telewski 1995; Preston, Cornwell \&amp; Denoyer 2006; Lawson et al. 2015). \\
+Flowering period length & Proportion of the year spent in flower (proportion, dimensionless) & Indicates species ability to respond reproductively to favourable conditions. \\
+Leaf narrowness & Ratio of average leaf width to average length (ratio, dimensionless) & Narrow leaves present less photosynthetically active tissue but can regulate temperature more efficiently and thus maintain photosynthesis in hot, dry or highly insolated (i.e. disturbed) conditions (Cornelissen et al. 2003). \newline Strongly indicative of rheophyty, the trait syndrome shared by plants adapted to growing near swift flowing, frequently flooded streams (van Steenis 1981). \\ \\
+\hline
+\end{tabu}}
+\end{table}
+\clearpage
+\end{landscape}
+
+
+
+
+
+\begin{landscape}
+\begin{tiny}
+{\tabulinesep=1.2mm
+\begin{longtabu} to \linewidth {m{6.5cm}m{2.5cm}m{2.5cm}X}
+%\begin{longtabu} to \linewidth {lm{2.5cm}m{2.5cm}X}
+\caption[Description of hydrological variables.]{Hydrological parameters used as metrics of variability in high flow magnitude and frequency and predictability and consistency of water availability in the riparian environment. * - normalised by mean daily flow (ML/day)} \\
+\label{Ch3_T3}
+\hline
+% -----------------These are headings----------------------------------%
+\textit{Parameter} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\%
+\endfirsthead
+%
+%\multicolumn{4}{c}%
+%{{\bfseries  Continued from previous page}} \\
+%\hline
+%
+\hline
+\textit{Parameter} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\ \hline
+\endhead
+%
+%\hline \multicolumn{4}{|r|}{{Continued on next page}} \\ \hline
+%\endfoot
+%
+%\hline
+%\multicolumn{4}{|r|}{{Concluded}} \\ \hline
+%\endlastfoot
+%-----------Headings end---------------------------------
+\hline
+\multicolumn{4}{l}{\textbf{Flood frequency and magnitude}} \\
+Mean magnitude of high spells * & HSPeak & dimensionless & \multirow{1}{*}{\parbox{10cm}{Together, these metrics characterise patterns of flooding intensity and frequency. High spells are periods of flow above the 95th percentile on the flow duration curve. HSPeak describes the mean magnitude of peak flows during high spells throughout the record. MDFAnnHSNum describes the mean annual frequency of high spell periods. The coefficients of variation of these metrics between years characterise hydrological variability as it pertains to patterns of high flows. 20 year average return interval (ARI) floods are larger flow events with the potential to be geomorphically effective and rework the fluvial landscape.}} \\
+CV of all years’ mean high spell magnitude & CVAnnHSPeak & dimensionless &  \\
+20 year ARI flood magnitude * & AS20YrARI & dimensionless &  \\
+Mean of all years’ number of high spells & MDFAnnHSNum & year-1 &  \\
+CV of all years’ number of high spells & CVAnnHSNum & dimensionless &  \\[1cm] 
+\hline
+\multicolumn{4}{l}{\textbf{Rise and fall rates}} \\
+Mean rate of rise * & MRateRise & day-1 & \multirow{1}{*}{\parbox{10cm}{Flow rise and fall rates describe the shape of high flow curves. Interannual variability within these metrics captures the diversity of peak flow shapes within a system. Unfortunately, these metrics are constrained to daily resolution by the limitations of historical discharge records.}} \\
+Mean rate of fall * & MRateFall & day-1 &  \\
+CV of all years’ mean rate of rise & CVAnnMRateRise & dimensionless &  \\
+CV of all years’ mean rate of fall & CVAnnMRateFall & dimensionless &  \\[0.2cm]
+\hline
+\newpage
+\multicolumn{4}{l}{\textbf{Colwell's indices}} \\
+Constancy of monthly mean daily flow & C\_MDFM & dimensionless & \multirow{1}{*}{\parbox{10cm}{Colwell's indices provide a measure of the seasonal predictability of flow events and therefore water availability within the riparian zone. Constancy (C)  measures uniformity of flow across seasons, and is maximised when flow conditions do not differ between seasons. Contingency (M) is a measure of interannual uniformity in seasonal flow patterns, and is maximized when seasonal patterns of flow are consistent between years.  We generated Colwell's indices for both average flow conditions and minimum flows conditions.}} \\
+Contingency of monthly mean daily flow & M\_MDFM & dimensionless &  \\
+Constancy based on monthly minimum daily flow & C\_MinM & dimensionless &  \\
+Contingency based on monthly minimum daily flow & M\_MinM & dimensionless &  \\[0.7cm]
+\hline
+\multicolumn{4}{l}{\textbf{Flow seasonality}} \\
+Average mean daily flow for Spring * & MDFMDFSpring & dimensionless & \multirow{1}{*}{\parbox{10cm}{These metrics describe the average magnitude and variability within mean daily flows for each season. Averages and coefficients of variation are calculated across yearly means. Seasonal average mean daily flows were standardised by overall mean daily flow, so actually represent the ratio of mean daily flow in a given season to the total mean daily flow.}} \\
+Average mean daily flow for Summer * & MDFMDFSummer & dimensionless &  \\
+Average mean daily flow for Autumn * & MDFMDFAutumn & dimensionless &  \\
+Average mean daily flow for Winter * & MDFMDFWinter & dimensionless &  \\
+CV of mean daily flow for Spring & CVMDFSpring & dimensionless &  \\
+CV of mean daily flow for Summer & CVMDFSummer & dimensionless &  \\
+CV of mean daily flow for Autumn & CVMDFAutumn & dimensionless &  \\
+CV of mean daily flow for Winter & CVMDFWinter & dimensionless & \\[0.2cm]
+\hline
+\end{longtabu}}
+\clearpage
+\end{landscape}
+
+\begin{landscape}
+\begin{table}[ht]
+\tiny
+\centering
+\caption[Multiple regression models with associated fitting parameters.]{\small{Multiple regression models with associated fitting parameters. * in the model formula denotes both summation as well as interaction between variables. R2 values have been adjusted for multiple regression for models using more than one variable. The optimal model according to AICc is indicated by bold typeface.}}
+\label{Ch3_T3}
+{\tabulinesep=1.2mm
+\begin{tabu}to \linewidth {lp{12cm}XXX}
+\hline
+\textit{\#} & \textit{Model} & \textit{adj. R2} & \textit{AICc} & \textit{delta AIC} \\ \hline
+1 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum & 0.296 & -46.14 & 12.78 \\
+2 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSPeak & 0.577 & -53.79 & 5.13 \\
+3 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} MDFMDFSummer & 0.503 & -51.37 & 7.56 \\
+4 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum + CVAnnHSPeak & 0.636 & -54.52 & 4.40 \\
+5 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum + MDFMDFSummer & 0.681 & -56.50 & 2.42 \\
+6 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSPeak + MDFMDFSummer & 0.561 & -51.71 & 7.21 \\
+7 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum * CVAnnHSPeak & 0.655 & -51.95 & 6.97 \\
+8 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum* MDFMDFSummer & 0.665 & -52.40 & 6.53 \\
+9 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSPeak * MDFMDFSummer & 0.566 & -48.54 & 10.39 \\
+10 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum + CVAnnHSPeak + MDFMDFSummer & 0.704 & -54.25 & 4.68 \\
+11 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum * CVAnnHSPeak + MDFMDFSummer & 0.709 & -50.14 & 8.79 \\
+12 & \textbf{FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum + CVAnnHSPeak * MDFMDFSummer} & 0.838 & -58.92 & 0 \\
+13 & FDis {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}} CVAnnHSNum * CVAnnHSPeak * MDFMDFSummer & 0.944 & -48.62 & 10.30 \\ \\
+\hline
+\end{tabu}}
+\end{table}
+\end{landscape}
+
+\begin{table}[ht]
+\tiny
+\centering
+\caption[Regression summary for Model 12.]{\small{Regression summary for Model 12. Beta values are regression coefficents (B) standardised by the standard deviation of the term.}}
+\label{Ch3_T4}
+{\tabulinesep=1.2mm
+\begin{tabu}to \textwidth {p{6cm}XXXXX}
+\hline
+& \textit{B} &	\textit{SE} &	\textit{beta} &	\textit{t}	 & \textit{p} \\
+\hline
+CVAnnHSNum	& 0.240 & 	0.054&	0.540&	4.414&	0.001 \\
+CVAnnHSPeak&	0.071&	0.026&	0.498&	2.773&	0.020 \\
+MDFMDFSummer&	0.074&	0.024&	0.506&	3.056&	0.012 \\
+CVAnnHSPeak * MDFMDFSummer&	-0.190&	0.060&	-0.459&	-3.186&	0.001 \\ \\ \hline 
+\end{tabu}}
+\end{table}
+
+
+\begin{table}[ht]
+\tiny
+\centering
+\caption[Partioning of variance in FDis as explained by optimal hydrological and climatic models.]{\small{Partioning of variance in FDis as explained by optimal hydrological and climatic models. The ‘|’ symbol denotes ‘controlled for’; that is, variation explained non-redundantly by a fraction.}}
+\label{Ch3_T5}
+{\tabulinesep=1.2mm
+\begin{tabu}to \textwidth {p{6cm}XX}
+\hline
+\textbf{Combined fractions:}	& \textit{df}&	\textit{adjusted R2} \\
+a + b (hydrology)&	4&	0.838 \\
+b + c (climate)&	2&	0.629\\
+a + b + c (hydrology + climate)&	6&	0.854\\
+\hline
+\textbf{Individual fractions:}& & 		\\
+a (hydrology | climate)&	4&	0.226\\
+b (shared variation)&	0&	0.612\\
+c (climate | hydrology)&	2&	0.016\\
+d (unexplained variation)& &		0.46\\
+\hline
+\end{tabu}}
+\end{table}
+\clearpage
+
+
+
+
+
+
+\end{document}
