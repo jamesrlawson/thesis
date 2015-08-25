@@ -29,6 +29,8 @@ update how I reference supporting info
 
 midrule toprule bottomrule > hline
 
+use \url{} for links
+
 
 
 
