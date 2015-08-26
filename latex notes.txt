@@ -14,7 +14,7 @@ oC
 'following X (2008}'
 - lansgrud
 
-'although see Kogawara"
+'although see Kogawara" (search for et al. and e.g.)
 
 
 use labels and references for all Figures and Tables
@@ -25,7 +25,9 @@ update how I reference supporting info
 
 symbols in WD map
 
+figure centering??
 
+page numbers are on the bottom on chapter pages but top on the rest
 
 midrule toprule bottomrule > hline
 

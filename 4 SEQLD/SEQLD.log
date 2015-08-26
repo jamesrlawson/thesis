@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  25 AUG 2015 18:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  26 AUG 2015 11:16
 entering extended mode
 **SEQLD.tex
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.tex"
@@ -542,6 +542,87 @@ Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: threeparttable package is loaded.
 )
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -563,18 +644,26 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 128.
+
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 128.
 
 ("C:\Program Files (x86)\miktex2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -610,104 +699,62 @@ Underfull \vbox (badness 1292) has occurred while \output is active []
 
  [4]
 Missing character: There is no ñ in font cmr12!
-Missing character: There is no ∫ in font cmr12!
-Missing character: There is no ∫ in font cmr12!
-Missing character: There is no ∫ in font cmr12!
-Missing character: There is no ∫ in font cmr12!
 
 [5]
+Missing character: There is no ∫ in font cmr12!
+Missing character: There is no ∫ in font cmr12!
+Missing character: There is no ∫ in font cmr12!
+Missing character: There is no ∫ in font cmr12!
 Missing character: There is no ñ in font cmr12!
 Missing character: There is no ñ in font cmr12!
- <map.png, id=20, 405.76593pt x 581.92406pt>
-File: map.png Graphic file (type png)
- <use map.png>
-Package pdftex.def Info: map.png used on input line 174.
-(pdftex.def)             Requested size: 341.43306pt x 489.67418pt.
+ <map2.png, id=20, 439.6425pt x 620.67885pt>
+File: map2.png Graphic file (type png)
+ <use map2.png>
+Package pdftex.def Info: map2.png used on input line 177.
+(pdftex.def)             Requested size: 341.43306pt x 482.04398pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 181.
+(Font)              <12> on input line 184.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 181.
+(Font)              <8> on input line 184.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 181.
-
+(Font)              <6> on input line 184.
+[6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
+ [7 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/map2.png>]
 Missing character: There is no ñ in font cmr12!
-
-[7 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/map.png>]
 Missing character: There is no í in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no ñ in font cmr12!
 Missing character: There is no ñ in font cmr12!
-
-[8]
+ [8]
 Missing character: There is no ¨ in font cmr12!
 Missing character: There is no ¨ in font cmr12!
  [9]
-Overfull \vbox (6.69025pt too high) detected at line 266
+Overfull \vbox (6.69025pt too high) detected at line 270
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.266 \end{longtabu}
+l.270 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (56.50299pt too high) detected at line 266
+Overfull \vbox (56.50299pt too high) detected at line 270
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (10.90065pt too high) detected at line 266
- []
-
-
-Overfull \vbox (6.69025pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \vbox (56.50299pt too high) detected at line 266
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.266 \end{longtabu}
+l.270 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -716,64 +763,103 @@ So I'll assume that you meant to type \cr instead.
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.266 \end{longtabu}
+l.270 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (10.90065pt too high) detected at line 266
+Overfull \vbox (10.90065pt too high) detected at line 270
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Overfull \vbox (6.69025pt too high) detected at line 270
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.270 \end{longtabu}
+                    }
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \vbox (56.50299pt too high) detected at line 270
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.270 \end{longtabu}
+                    }
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.270 \end{longtabu}
+                    }
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \vbox (10.90065pt too high) detected at line 270
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 266--266
+Underfull \hbox (badness 2401) in paragraph at lines 270--270
 \OT1/cmr/m/n/8 HSPeak and LS-Peak de-scribes the mean mag-ni-tude of high-est a
 nd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 
  []
 
 
-Overfull \hbox (7.03987pt too wide) in paragraph at lines 266--266
+Overfull \hbox (7.03987pt too wide) in paragraph at lines 270--270
 []\OT1/cmr/m/n/8 MDFAnnHSNum| 
  []
 
 
-Overfull \hbox (5.98152pt too wide) in paragraph at lines 266--266
+Overfull \hbox (5.98152pt too wide) in paragraph at lines 270--270
 []\OT1/cmr/m/n/8 MDFAnnLSNum| 
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.266 \end{longtabu}
+l.270 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 
  []
 
 
-Overfull \vbox (50.77094pt too high) detected at line 266
+Overfull \vbox (50.77094pt too high) detected at line 270
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.266 \end{longtabu}
+l.270 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -782,18 +868,18 @@ So I'll assume that you meant to type \cr instead.
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.266 \end{longtabu}
+l.270 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (4.27974pt too high) detected at line 266
+Overfull \vbox (4.27974pt too high) detected at line 270
  []
 
 
-Underfull \vbox (badness 10000) detected at line 266
+Underfull \vbox (badness 10000) detected at line 270
  []
 
 [10
@@ -804,45 +890,77 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [12
 
 ]
+
+Package natbib Warning: Citation `KEWseed' on page 13 undefined on input line 2
+81.
+
+
+Package natbib Warning: Citation `plantnet' on page 13 undefined on input line 
+281.
+
+
+Package natbib Warning: Citation `zanne2009global' on page 13 undefined on inpu
+t line 281.
+
+
+Package natbib Warning: Citation `Wright2000' on page 13 undefined on input lin
+e 281.
+
+
+Package natbib Warning: Citation `Fonseca2000' on page 13 undefined on input li
+ne 281.
+
+
+Package natbib Warning: Citation `Kooyman2013' on page 13 undefined on input li
+ne 281.
+
+
+Package natbib Warning: Citation `Gleason2012' on page 13 undefined on input li
+ne 281.
+
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 300--300
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
 []\OT1/cmr/m/n/8 Maximum canopy
  []
 
 
 Package natbib Warning: Citation `Leishman2000' on page 14 undefined on input l
-ine 300.
+ine 305.
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 300--300
+Package natbib Warning: Citation `Carthey2015' on page 14 undefined on input li
+ne 305.
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 305--305
 \OT1/cmr/m/n/8 ent cy-cling and de-ter-mines the res-i-dency time
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 300--300
+Underfull \hbox (badness 3375) in paragraph at lines 305--305
 \OT1/cmr/m/n/8 of woody de-bris in the flu-vial sys-tem mack-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--300
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
 []\OT1/cmr/m/n/8 Flowering pe-riod
  []
 
 
-Underfull \vbox (badness 10000) detected at line 300
+Underfull \vbox (badness 10000) detected at line 305
  []
 
 [14
 
 ]
 
-! LaTeX Error: \begin{landscape} on input line 278 ended by \end{tiny}.
+! LaTeX Error: \begin{landscape} on input line 283 ended by \end{tiny}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.302 \end{tiny}
+l.307 \end{tiny}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -852,27 +970,28 @@ Missing character: There is no È in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no ñ in font cmr12!
+Missing character: There is no È in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15
 
 ]
-Overfull \hbox (0.81787pt too wide) in paragraph at lines 316--318
+Overfull \hbox (0.81787pt too wide) in paragraph at lines 322--324
 []\OT1/cmr/m/n/12 The fol-low-ing pro-cess was used to de-rive an op-ti-mal set
  of environment-diversity
  []
 
-[16] [17] [18] <speciesRichness.pdf, id=69, 597.50786pt x 486.51537pt>
+[16] [17] [18] <speciesRichness.pdf, id=71, 597.50786pt x 486.51537pt>
 File: speciesRichness.pdf Graphic file (type pdf)
 
 <use speciesRichness.pdf>
-Package pdftex.def Info: speciesRichness.pdf used on input line 336.
+Package pdftex.def Info: speciesRichness.pdf used on input line 342.
 (pdftex.def)             Requested size: 513.37265pt x 418.0pt.
  [19 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/speciesRichne
 ss.pdf>]
 ! Extra }, or forgotten \endgroup.
-l.341 ... interval around the regression model.}}}
+l.347 ... interval around the regression model.}}}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -886,13 +1005,13 @@ deleted material, e.g., by typing `I$}'.
 
 ] [21
 
-] <FRicSES.pdf, id=130, 595.67091pt x 356.14458pt>
+] <FRicSES.pdf, id=132, 595.67091pt x 356.14458pt>
 File: FRicSES.pdf Graphic file (type pdf)
  <use FRicSES.pdf>
-Package pdftex.def Info: FRicSES.pdf used on input line 356.
+Package pdftex.def Info: FRicSES.pdf used on input line 362.
 (pdftex.def)             Requested size: 699.15901pt x 418.0pt.
 
-Overfull \hbox (34.65901pt too wide) in paragraph at lines 356--357
+Overfull \hbox (34.65901pt too wide) in paragraph at lines 362--363
  [][] 
  []
 
@@ -903,13 +1022,13 @@ Overfull \hbox (34.65901pt too wide) in paragraph at lines 356--357
 
 ] [24
 
-] <FDisSES.pdf, id=172, 596.00168pt x 361.40018pt>
+] <FDisSES.pdf, id=174, 596.00168pt x 361.40018pt>
 File: FDisSES.pdf Graphic file (type pdf)
  <use FDisSES.pdf>
-Package pdftex.def Info: FDisSES.pdf used on input line 376.
+Package pdftex.def Info: FDisSES.pdf used on input line 382.
 (pdftex.def)             Requested size: 689.38898pt x 418.0pt.
 
-Overfull \hbox (24.88898pt too wide) in paragraph at lines 376--377
+Overfull \hbox (24.88898pt too wide) in paragraph at lines 382--383
  [][] 
  []
 
@@ -920,10 +1039,10 @@ Overfull \hbox (24.88898pt too wide) in paragraph at lines 376--377
 
 ] [27
 
-] <exotics.pdf, id=215, 597.53188pt x 473.7348pt>
+] <exotics.pdf, id=217, 597.53188pt x 473.7348pt>
 File: exotics.pdf Graphic file (type pdf)
  <use exotics.pdf>
-Package pdftex.def Info: exotics.pdf used on input line 396.
+Package pdftex.def Info: exotics.pdf used on input line 402.
 (pdftex.def)             Requested size: 527.2429pt x 418.0pt.
 
 [28 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/exotics.pdf>]
@@ -952,23 +1071,24 @@ Underfull \vbox (badness 1292) has occurred while \output is active []
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.bbl"
+[34] ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.bbl"
 [35] [36
 
 ]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [37] [38]
-Underfull \hbox (badness 1953) in paragraph at lines 210--215
+ [37]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ê in font cmr10!
+ [38] [39]
+Underfull \hbox (badness 1953) in paragraph at lines 216--221
 \OT1/cmr/m/n/10.95 Mi-crofrag-men-ta-tion con-cept ex-plains non-positive en-vi
 -ron-men-tal heterogeneity-
  []
 
-[39] [40]
+[40]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -987,13 +1107,13 @@ Package natbib Warning: There were undefined citations.
 
 [45]
 
-! LaTeX Error: \begin{landscape} on input line 196 ended by \end{document}.
+! LaTeX Error: \begin{landscape} on input line 199 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.445 \end{document}
+l.451 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1002,29 +1122,31 @@ or  <return>  to continue without it.
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.aux") )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 196 (\begingroup)
+### semi simple group (level 1) entered at line 199 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7450 strings out of 493921
- 107870 string characters out of 3145277
- 228478 words of memory out of 3000000
- 10700 multiletter control sequences out of 15000+200000
- 10197 words of font info for 35 fonts, out of 3000000 for 9000
+ 7934 strings out of 493921
+ 115294 string characters out of 3145277
+ 228489 words of memory out of 3000000
+ 11172 multiletter control sequences out of 15000+200000
+ 11177 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,12n,51p,1882b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,51p,1994b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
-m/cmbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/
-Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Pro
-gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Progra
-m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program F
-iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program File
-s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on SEQLD.pdf (45 pages, 997501 bytes).
+m/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/c
+mbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Pro
+gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Progra
+m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program F
+iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files
+ (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x
+86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)
+/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on SEQLD.pdf (45 pages, 1257212 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
+ 358 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
