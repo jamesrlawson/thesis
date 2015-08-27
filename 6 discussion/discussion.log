@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  26 AUG 2015 18:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  26 AUG 2015 19:20
 entering extended mode
 **discussion.tex
 
@@ -516,34 +516,6 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-
-Class memoir Warning: You are using the caption package with the memoir class. 
-To prepare we will now reset all captioning macros and configurations to kernel
- defaults, and then let the caption package take over. Please remember to use t
-he caption package interfaces in order to configure your captions. .
-
-("C:\Program Files (x86)\miktex2.9\tex\latex\caption\caption.sty"
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
-
-("C:\Program Files (x86)\miktex2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen170
-\captionmargin@=\dimen171
-\captionwidth=\dimen172
-\caption@tempdima=\dimen173
-\caption@indent=\dimen174
-\caption@parindent=\dimen175
-\caption@hangindent=\dimen176
-)
-\c@ContinuedFloat=\count161
-Package caption Info: longtable package is loaded.
-
-("C:\Program Files (x86)\miktex2.9\tex\latex\caption\ltcaption.sty"
-Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
-)
-Package caption Info: threeparttable package is loaded.
-)
 ("C:\Program Files (x86)\miktex2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -553,26 +525,13 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \UL@hyphenbox=\box66
 \UL@skip=\skip194
 \UL@hook=\toks26
-\UL@height=\dimen177
-\UL@pe=\count162
-\UL@pixel=\dimen178
+\UL@height=\dimen170
+\UL@pe=\count161
+\UL@pixel=\dimen171
 \ULC@box=\box67
 Package: ulem 2012/05/18
-\ULdepth=\dimen179
+\ULdepth=\dimen172
 )
-
-! Class memoir Error: The combination of argument values is ambiguous.
-(memoir)              The lengths will be set to zero.
-
-See the memoir class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \setulmargins{35mm}{45mm}{*}
-                                 
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -610,21 +569,18 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
  ("C:\Program Files (x86)\miktex2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count163
-\scratchdimen=\dimen180
+\scratchcounter=\count162
+\scratchdimen=\dimen173
 \scratchbox=\box68
-\nofMPsegments=\count164
-\nofMParguments=\count165
+\nofMPsegments=\count163
+\nofMParguments=\count164
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count166
-\MPscratchDim=\dimen181
-\MPnumerator=\count167
-\makeMPintoPDFobject=\count168
+\MPscratchCnt=\count165
+\MPscratchDim=\dimen174
+\MPnumerator=\count166
+\makeMPintoPDFobject=\count167
 \everyMPtoPDFconversion=\toks28
-)
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
- [1
+) [1
 
 
 {C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -641,24 +597,7 @@ Overfull \hbox (8.78168pt too wide) in paragraph at lines 149--150
 ed pri-mar-ily along coastally
  []
 
-[3]
-
-Package natbib Warning: Citation `Knopf1988' on page 4 undefined on input line 
-151.
-
-
-Package natbib Warning: Citation `Fleischner1994' on page 4 undefined on input 
-line 151.
-
-
-Package natbib Warning: Citation `Wasson1994' on page 4 undefined on input line
- 151.
-
-
-Package natbib Warning: Citation `Brierley1999' on page 4 undefined on input li
-ne 151.
-
-<map.png, id=16, 322.806pt x 555.87675pt>
+[3] <map.png, id=16, 322.806pt x 555.87675pt>
 File: map.png Graphic file (type png)
  <use map.png>
 Package pdftex.def Info: map.png used on input line 158.
@@ -677,17 +616,6 @@ Missing character: There is no ™ in font cmr12!
  [6
 
 ]
-! Misplaced alignment tab character &.
-l.172 ...berg2010, Stromberg2013}. In Chapters 3 &
-                                                   4 I derived quantitative,...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
 
@@ -756,17 +684,6 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-! Misplaced alignment tab character &.
-l.204 ...re (Catford et al. 2011; Greet, Cousens &
-                                                   Webb 2012). Catchment lan...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -782,11 +699,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\6 discussion\discussion.b
 bl" [15] [16
 
-] [17] [18] [19]
+] [17] [18] [19] [20]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [20]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -795,7 +711,7 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [22])
+ [22] [23])
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
@@ -805,34 +721,34 @@ either increase the head height or redesign the header
 
 Package natbib Warning: There were undefined citations.
 
-[23]
+[24]
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\6 discussion\discussion.a
-ux"
+ux") )
+(\end occurred inside a group at level 2)
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) ) 
+### simple group (level 2) entered at line 176 ({)
+### simple group (level 1) entered at line 170 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 7386 strings out of 493921
- 106217 string characters out of 3145277
- 200478 words of memory out of 3000000
- 10632 multiletter control sequences out of 15000+200000
+ 6349 strings out of 493921
+ 87197 string characters out of 3145277
+ 179908 words of memory out of 3000000
+ 9604 multiletter control sequences out of 15000+200000
  9949 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,11n,38p,2422b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
-ram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program F
-iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program File
-s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (
-x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86
-)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/m
-iktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on discussion.pdf (23 pages, 11739166 bytes).
+ 31i,11n,24p,2422b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:
+/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Pr
+ogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Progr
+am Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program 
+Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on discussion.pdf (24 pages, 11741754 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

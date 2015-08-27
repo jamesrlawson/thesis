@@ -7,14 +7,42 @@ units -1 etc. not superscript
 sensu not italics
 log10 subscript
 
+= % > < / ( ) |
+
 R2
 m2
 oC
 
+'~ mm diameter' doesn't work (textcomp package for tildes, then {\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+neither do > or <>
+actually no symbols work
+ | symbol denotes controlled for
+symbols in WD map
+
+
+
 'following X (2008}'
 - lansgrud
 
-'although see Kogawara" (search for et al. and e.g.)
+'although see Kogawara" (search for et al. sensu c.f.  e.g.)
+
+
+FDIV
+-framework described by Villger, Mason & Mouillot
+-(e.g. (Biswas and Mallik, 2010; Clark et al., 2012; Pakeman, 2011; Savage and Cavender-Bares, 2012)).
+Catford et al. (Catford et al., 2011) analysed univariate functional trait
+Australian riversdescribed by Kennard et al.
+
+subtracting the mean value (after (Robinson and Schu-macker, 2009)).
+partial regression following \cite{Legendre2007}
+limiting process sensu (Huston, 1979).
+but see (Nepstad et al., 2007).
+This nding is consis-tent with the assertion of (Mouillot et al., 2013)
+
+
+SEQLD
+species richness are commonly described, e.g. (Bendix, 1997; Bendix
+responses to flow modifcation, Poff and Zimmerman
 
 
 use labels and references for all Figures and Tables
@@ -23,7 +51,7 @@ san serif font for tables
 
 update how I reference supporting info
 
-symbols in WD map
+
 
 figure centering??
 
@@ -34,6 +62,9 @@ midrule toprule bottomrule > hline
 use \url{} for links
 
 double spacing vs single spacing in tables (tabu vs tabularx?)
+
+
+\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
 
 
 
@@ -62,6 +93,11 @@ pagestyle (changes headers and footers?), chapterstyle (e.g. southall)
 
 renewcommand to change chapter title font
 
+all chapters on new page?
 
 
 
+
+wilford2014 is a problem
+palmer1997 may be a problem
+leishman2000 is problem

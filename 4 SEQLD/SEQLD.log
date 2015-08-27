@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  26 AUG 2015 11:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  27 AUG 2015 17:03
 entering extended mode
 **SEQLD.tex
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\4 SEQLD\SEQLD.tex"
@@ -701,10 +701,12 @@ Underfull \vbox (badness 1292) has occurred while \output is active []
 Missing character: There is no – in font cmr12!
 
 [5]
-Missing character: There is no º in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no º in font cmr12!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 168.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 168.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 168.
 Missing character: There is no – in font cmr12!
 Missing character: There is no – in font cmr12!
  <map2.png, id=20, 439.6425pt x 620.67885pt>
@@ -716,22 +718,24 @@ Package pdftex.def Info: map2.png used on input line 177.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 184.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 184.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 184.
 [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/map2.png>]
-Missing character: There is no – in font cmr12!
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ’ in font cmr12!
+
+! Undefined control sequence.
+l.192 ...(DNRM) Water Monitoring Data Portal (\url
+                                                  {https://www.dnrm.qld.gov....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no – in font cmr12!
-Missing character: There is no – in font cmr12!
- [8]
+[8]
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
  [9]
@@ -919,79 +923,49 @@ Package natbib Warning: Citation `Gleason2012' on page 13 undefined on input li
 ne 281.
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
-[]\OT1/cmr/m/n/8 Maximum canopy
- []
-
 
 Package natbib Warning: Citation `Leishman2000' on page 14 undefined on input l
-ine 305.
+ine 304.
 
 
 Package natbib Warning: Citation `Carthey2015' on page 14 undefined on input li
-ne 305.
+ne 304.
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 305--305
-\OT1/cmr/m/n/8 ent cy-cling and de-ter-mines the res-i-dency time
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 305--305
-\OT1/cmr/m/n/8 of woody de-bris in the flu-vial sys-tem mack-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
-[]\OT1/cmr/m/n/8 Flowering pe-riod
- []
-
-
-Underfull \vbox (badness 10000) detected at line 305
+Underfull \vbox (badness 10000) detected at line 304
  []
 
 [14
 
 ]
-
-! LaTeX Error: \begin{landscape} on input line 283 ended by \end{tiny}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.307 \end{tiny}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Missing character: There is no é in font cmr12!
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-Missing character: There is no – in font cmr12!
 Missing character: There is no é in font cmr12!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1810) has occurred while \output is active []
 
  [15
 
 ]
-Overfull \hbox (0.81787pt too wide) in paragraph at lines 322--324
+Overfull \hbox (0.81787pt too wide) in paragraph at lines 321--323
 []\OT1/cmr/m/n/12 The fol-low-ing pro-cess was used to de-rive an op-ti-mal set
  of environment-diversity
  []
 
-[16] [17] [18] <speciesRichness.pdf, id=71, 597.50786pt x 486.51537pt>
+[16] [17] [18] <speciesRichness.pdf, id=73, 597.50786pt x 486.51537pt>
 File: speciesRichness.pdf Graphic file (type pdf)
 
 <use speciesRichness.pdf>
-Package pdftex.def Info: speciesRichness.pdf used on input line 342.
+Package pdftex.def Info: speciesRichness.pdf used on input line 341.
 (pdftex.def)             Requested size: 513.37265pt x 418.0pt.
  [19 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/speciesRichne
 ss.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 346.
+
 ! Extra }, or forgotten \endgroup.
-l.347 ... interval around the regression model.}}}
+l.346 ... interval around the regression model.}}}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1005,13 +979,13 @@ deleted material, e.g., by typing `I$}'.
 
 ] [21
 
-] <FRicSES.pdf, id=132, 595.67091pt x 356.14458pt>
+] <FRicSES.pdf, id=134, 595.67091pt x 356.14458pt>
 File: FRicSES.pdf Graphic file (type pdf)
  <use FRicSES.pdf>
-Package pdftex.def Info: FRicSES.pdf used on input line 362.
+Package pdftex.def Info: FRicSES.pdf used on input line 361.
 (pdftex.def)             Requested size: 699.15901pt x 418.0pt.
 
-Overfull \hbox (34.65901pt too wide) in paragraph at lines 362--363
+Overfull \hbox (34.65901pt too wide) in paragraph at lines 361--362
  [][] 
  []
 
@@ -1022,13 +996,13 @@ Overfull \hbox (34.65901pt too wide) in paragraph at lines 362--363
 
 ] [24
 
-] <FDisSES.pdf, id=174, 596.00168pt x 361.40018pt>
+] <FDisSES.pdf, id=176, 596.00168pt x 361.40018pt>
 File: FDisSES.pdf Graphic file (type pdf)
  <use FDisSES.pdf>
-Package pdftex.def Info: FDisSES.pdf used on input line 382.
+Package pdftex.def Info: FDisSES.pdf used on input line 381.
 (pdftex.def)             Requested size: 689.38898pt x 418.0pt.
 
-Overfull \hbox (24.88898pt too wide) in paragraph at lines 382--383
+Overfull \hbox (24.88898pt too wide) in paragraph at lines 381--382
  [][] 
  []
 
@@ -1039,10 +1013,10 @@ Overfull \hbox (24.88898pt too wide) in paragraph at lines 382--383
 
 ] [27
 
-] <exotics.pdf, id=217, 597.53188pt x 473.7348pt>
+] <exotics.pdf, id=219, 597.53188pt x 473.7348pt>
 File: exotics.pdf Graphic file (type pdf)
  <use exotics.pdf>
-Package pdftex.def Info: exotics.pdf used on input line 402.
+Package pdftex.def Info: exotics.pdf used on input line 401.
 (pdftex.def)             Requested size: 527.2429pt x 418.0pt.
 
 [28 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/4 SEQLD/exotics.pdf>]
@@ -1113,7 +1087,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.451 \end{document}
+l.450 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1125,28 +1099,30 @@ or  <return>  to continue without it.
 ### semi simple group (level 1) entered at line 199 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7934 strings out of 493921
- 115294 string characters out of 3145277
- 228489 words of memory out of 3000000
- 11172 multiletter control sequences out of 15000+200000
- 11177 words of font info for 40 fonts, out of 3000000 for 9000
+ 7942 strings out of 493921
+ 115502 string characters out of 3145277
+ 228526 words of memory out of 3000000
+ 11179 multiletter control sequences out of 15000+200000
+ 11961 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,12n,51p,1994b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,14n,51p,2092b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/c
-mbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
-Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Pro
-gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Progra
-m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program F
-iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files
- (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x
-86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)
-/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on SEQLD.pdf (45 pages, 1257212 bytes).
+mbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
+:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Pro
+gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program 
+Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fil
+es (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files 
+(x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x8
+6)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/m
+iktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/mikt
+ex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2
+.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on SEQLD.pdf (45 pages, 1274159 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
+ 366 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

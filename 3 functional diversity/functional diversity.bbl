@@ -10,6 +10,13 @@ Anderson, M.~J., Ellingsen, K.~E., and McArdle, B.~H. (2006).
 \newblock {Multivariate dispersion as a measure of beta diversity.}
 \newblock {\em Ecology letters}, 9(6):683--93.
 
+\bibitem[Arthington et~al., 2012]{Arthington2012}
+Arthington, A., Mackay, S., James, C., Rolls, R., Sternberg, D., Barnes, A.,
+  and Capon, S. (2012).
+\newblock {Ecological limits of hydrologic alteration: a test of the ELoHA
+  framework in south-east Queensland. Waterlines Report Series No. 75}.
+\newblock {\em National Water Commission, Canberra, Australia}.
+
 \bibitem[Arthington et~al., 2010]{Arthington2010}
 Arthington, A.~H., Naiman, R.~J., McClain, M.~E., and Nilsson, C. (2010).
 \newblock {Preserving the biodiversity and ecological services of rivers: new
@@ -304,6 +311,12 @@ Lawson, J., Fryirs, K., and Leishman, M. (2015).
   riparian plants of south-eastern Australia}.
 \newblock {\em Journal of Ecology}, 103(4):945--956.
 
+\bibitem[Legendre, 2007]{Legendre2007}
+Legendre, P. (2007).
+\newblock {Studying beta diversity: ecological variation partitioning by
+  multiple regression and canonical analysis}.
+\newblock {\em Journal of Plant Ecology}, 1(1):3--8.
+
 \bibitem[Lite et~al., 2005]{Lite2005}
 Lite, S., Bagstad, K., and Stromberg, J. (2005).
 \newblock {Riparian plant species richness along lateral and longitudinal
@@ -534,11 +547,24 @@ Schleuter, D. and Daufresne, M. (2010).
 \newblock {A user's guide to functional diversity indices}.
 \newblock {\em Ecological Monographs}, 80(3):469--484.
 
+\bibitem[Siebentritt et~al., 2004]{Siebentritt2004}
+Siebentritt, M.~A., Ganf, G.~G., and Walker, K.~F. (2004).
+\newblock {Effects of an enhanced flood on riparian plants of the River Murray,
+  South Australia}.
+\newblock {\em River Research and Applications}, 20(7):765--774.
+
 \bibitem[Singer, 2007]{Singer2007}
 Singer, M. (2007).
 \newblock {The influence of major dams on hydrology through the drainage
   network of the Sacramento River basin, California}.
 \newblock {\em River Research and Applications}, 72(October 2006):55--72.
+
+\bibitem[Sottile et~al., 2015]{sottile2015disturbance}
+Sottile, G.~D., Meretta, P.~E., Tonello, M.~S., Bianchi, M.~M., and Mancini,
+  M.~V. (2015).
+\newblock {Disturbance induced changes in species and functional diversity in
+  southern Patagonian forest-steppe ecotone}.
+\newblock {\em Forest Ecology and Management}.
 
 \bibitem[Standish et~al., 2014]{Standish2014}
 Standish, R.~J., Hobbs, R.~J., Mayfield, M.~M., Bestelmeyer, B.~T., Suding,
@@ -559,6 +585,12 @@ Swaine, M.~D. and Grace, J. (2007).
 \newblock {Lianas may be favoured by low rainfall: evidence from Ghana}.
 \newblock {\em Plant Ecology}, 192(2):271--276.
 
+\bibitem[Tabacchi et~al., 1998]{Tabacchi1998}
+Tabacchi, E., Correll, D., and Hauer, R. (1998).
+\newblock {Development, maintenance and role of riparian vegetation in the
+  river landscape}.
+\newblock {\em Freshwater Biology}, 40(3):497--516.
+
 \bibitem[Telewski, 1995]{telewski1995wind}
 Telewski, F.~W. (1995).
 \newblock {Wind-induced physiological and developmental responses in trees}.
@@ -576,6 +608,12 @@ van Steenis, C. G. G.~J. (1981).
 \newblock {\em {Rheophytes of the world: an account of the flood-resistant
   flowering plants and ferns and the theory of autonomous evolution}}.
 \newblock Sijthoff \& Noordhoff Alphen aan den Rijn, Netherlands.
+
+\bibitem[V\'{a}zquez-Rivera and Currie, 2015]{Vazquez-Rivera2015}
+V\'{a}zquez-Rivera, H. and Currie, D.~J. (2015).
+\newblock {Contemporaneous climate directly controls broad-scale patterns of
+  woody plant diversity: a test by natural experiment over 14,000 years}.
+\newblock {\em Unpublished}, pages 1--30.
 
 \bibitem[Vill\'{e}ger et~al., 2008]{Villeger2008}
 Vill\'{e}ger, S., Mason, N. W.~H., and Mouillot, D. (2008).
