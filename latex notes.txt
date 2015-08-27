@@ -44,6 +44,12 @@ SEQLD
 species richness are commonly described, e.g. (Bendix, 1997; Bendix
 responses to flow modifcation, Poff and Zimmerman
 
+INTRO
+Merritt et al. \citep{Merritt2010} outlined a framework
+
+DISCUSSION
+standardised eect size FDis (FDis.SES), sensu (Mason et al.,2013)
+
 
 use labels and references for all Figures and Tables
 
@@ -98,6 +104,7 @@ all chapters on new page?
 
 
 
-wilford2014 is a problem
-palmer1997 may be a problem
-leishman2000 is problem
+Wilford2014 is a problem
+Palmer1997 is a problem
+Leishman2000 is problem
+Brooks2007
