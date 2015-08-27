@@ -28,7 +28,7 @@
 \usepackage{url} 
 \usepackage[normalem]{ulem}
 \useunder{\uline}{\ul}{}
-
+\usepackage[sectionbib]{chapterbib}
 \usepackage{amssymb}
 
 
@@ -175,7 +175,7 @@ Five sites per hydrological class were selected based on the following criteria:
 %%%% FIGURE 1
 \begin{figure}[ht]
 \begin{center}
-\includegraphics[width=12cm,keepaspectratio=true]{map.pdf} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=12cm,keepaspectratio=true]{Ch2map.pdf} % figures can be in pdf, png, jpeg or eps format
 \caption[Location of fifteen field study sites across south-eastern Australia.]{\small{Location of fifteen field study sites across south-eastern Australia chosen to represent the three major hydrological classes of south-east Australia. Hydrological class membership is denoted by:  $\blacksquare$ stable winter baseflow, $\blacktriangle$ unpredictable baseflow, \textbullet  unpredictable intermittent.}}
 \label{fig:Ch2_F1} % label for cross-referencing
 \end{center}
@@ -334,7 +334,7 @@ MDFAnnHSNum     & 0.747 & 0.747 & 0.008 \\[0.1cm] \hline
 %%%% FIGURE 2
 \begin{figure}[ht]
 \begin{center}
-\includegraphics[width=\textwidth,keepaspectratio=true]{Fig2.png} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=\textwidth,keepaspectratio=true]{Ch2Fig2.png} % figures can be in pdf, png, jpeg or eps format
 \caption[Relationships between wood density and flood magnitude and frequency.]{\small{Relationships between community weighted mean wood density and hydrological metrics describing a.) mean high flow magnitude (HSPeak), b.) magnitude of the 20 year average return interval flood (AS20YrARI), c.) mean rate of flow rise (MRateRise), d.) interannual variability in flood rise rates (CVAnnMRateRise), e.) interannual variability in flood fall rates (CVAnnMRateFall). Fitted lines depict ordinary least squares regression models. d. is a quadratic fit, all other models are linear fits. Shaded areas depict the smoothed 95 \% confidence interval around the regression model.}}
 \label{fig:Ch2_F2} % label for cross-referencing
 \end{center}
@@ -346,7 +346,7 @@ We found denser woody tissues were increasingly favoured as baseflow index decre
 No significant pattern of spatial autocorrelation was detected within values of CWM (P = 0.228). 
 \begin{figure}[ht]
 \begin{center}
-\includegraphics[height=0.85\textheight,keepaspectratio=true]{Fig3.png} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[height=0.85\textheight,keepaspectratio=true]{Ch2Fig3.png} % figures can be in pdf, png, jpeg or eps format
 \caption[Relationships between wood density and variability in water availability]{\small{Relationships between community weighted mean wood density and hydrological metrics describing a.) baseflow index (BFI), b.) contingency of monthly mean daily flow (M\_MDFM), c.) constancy of monthly mean daily flow (C\_MDFM), d.) constancy of monthly minimum daily flow (C\_MinM), e.) interannual variability in baseflow index (CVAnnBFI), f.) mean low flow magnitude (LSPeak), g.) mean flow during driest week of the year (MA.7days.MinMean), h.) annual frequency of low flows (MDFAnnLSNum). c. – e. are quadratic fits, all other models are linear fits. Shaded areas depict the 95 \% confidence interval around the regression model}}
 \label{fig:Ch2_F3} % label for cross-referencing
 \end{center}
@@ -360,24 +360,23 @@ PC1 represents a gradient of environmental harshness that integrates baseflow ch
 
 \begin{figure}[h]
 \begin{center}
-\includegraphics[width=12cm]{PCAbiplot.pdf} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=12cm]{Ch2PCAbiplot.pdf} % figures can be in pdf, png, jpeg or eps format
 \caption[PCA biplot of sites according to significant hydrological relationships with wood density.]{\small{Biplot of sites ordinated across the first two principal components as determined from Principal Components Analysis of hydrological metrics displaying significant relationships with mean wood density across 15 sites in south eastern Australia. Points represent individual sites. PC1 explains 80.3 \% of the variation in hydrology among the sites and represents a gradient of harshness of environmental conditions.}}
 \label{fig:Ch2_F4} % label for cross-referencing
 \end{center}
 \end{figure}   
-\clearpage
 
 \subsection{Is there a relationship between hydrological disturbance and within-community dispersion of wood density?}
 No individual metrics describing hydrological disturbance showed significant relationships with CWV following p-value adjustment. The relationship between the PC1 axis and CWV in wood density could be significantly explained by a quadratic model, however (R2 = 0.450, P = 0.037) (Fig. \ref{fig:Ch2_F5}). The fitted curve shows a peak in CWV at intermediate values of PC1, which correspond to intermediate values of hydrological disturbance and variability. No significant pattern of spatial autocorrelation was detected within values of CWV (P = 0.786).
 
 \begin{figure}[ht]
 \begin{center}
-\includegraphics[width=10cm]{CWV.pdf} % figures can be in pdf, png, jpeg or eps format
+\includegraphics[width=9cm]{Ch2CWV.pdf} % figures can be in pdf, png, jpeg or eps format
 \caption[Unimodal relationship between wood density CWV and PC1.]{\small{Quadratic relationship between community weighted variance in wood density and site scores for the first principal coordinate (PC1) of a Principal Components Analysis of hydrological metrics displaying significant relationships with mean wood density (see Fig. 4), (R2 = 0.450, P = 0.037). Variance peaks at intermediate values of hydrological disturbance, as described by the PC1 axis. Shaded areas depict the 95 \% confidence interval around the regression model.}}
 \label{fig:Ch2_F5} % label for cross-referencing
 \end{center}
 \end{figure}   
-\clearpage
+\
 
 \section{Discussion}
 We sought to understand how hydrology might influence wood density, a key plant functional trait. We asked whether mean wood density could be explained by the degree of flooding disturbance or hydrological unpredictability in the riparian zone, and whether dispersion of wood density peaks in intermediately disturbed communities. To summarise, we found evidence that mean riparian wood density is positively related to flood magnitude and flow rise and fall rates, as well as to unpredictability in flow conditions over daily, seasonal and annual timescales. We also found evidence for divergence in wood density strategy at intermediate levels of disturbance.  While wood density is a complex trait that integrates trade-offs between multiple selection pressures, we believe the strong relationships between mean wood density and hydrology demonstrated here are evidence that hydrological conditions powerfully influence plant ecological strategy in the riparian environment. 
@@ -410,6 +409,7 @@ Tanja Lenz gave invaluable advice and support throughout the project. Saskia Gro
 
 \section{Data availability}
 Data are available through DataDryad, doi:10.5061/dryad.72h45 \citep{Lawson2015}.
+\clearpage
 
 %%%%% REFERENCES % this is in a new chapter due to the memoir format
 \renewcommand\bibname{{References}} 

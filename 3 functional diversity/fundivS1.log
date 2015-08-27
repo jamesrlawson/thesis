@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  25 AUG 2015 18:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  27 AUG 2015 18:25
 entering extended mode
 **fundivS1.tex
 
@@ -700,7 +700,10 @@ LaTeX Font Info:    ... okay on input line 130.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+ [1
 
+
+{C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -708,65 +711,64 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 ... and characteristics of field sites.}} \\
+l.139 ... and characteristics of field sites.}} \\
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 141.
+(Font)              <8> on input line 143.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 141.
+(Font)              <6> on input line 143.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 141.
-[1{C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.170 ... explanatory variables in this study.}}\\
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.188 ...rological metrics used in this study.}}\\
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.226 ...maximum, mean and standard deviation.}}\\
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+(Font)              <5> on input line 143.
 [2
 
+]
 
-] [3] [4
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 ... explanatory variables in this study.}}\\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...rological metrics used in this study.}}\\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ...maximum, mean and standard deviation.}}\\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3
+
+
+] [4] [5
 
 ]
 Missing character: There is no â in font cmr10!
@@ -783,35 +785,41 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330 \newline
+l.332 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 332.
-[5]
+(Font)              <10.95> on input line 334.
+[6]
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\3 functional diversity\fu
-ndivS1.aux") ) 
+ndivS1.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7692 strings out of 493921
- 110104 string characters out of 3145277
+ 7703 strings out of 493921
+ 110252 string characters out of 3145277
  224478 words of memory out of 3000000
- 10937 multiletter control sequences out of 15000+200000
- 8270 words of font info for 30 fonts, out of 3000000 for 9000
+ 10946 multiletter control sequences out of 15000+200000
+ 8875 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,16n,38p,264b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
-rogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Progr
-am Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on fundivS1.pdf (5 pages, 109910 bytes).
+ 38i,16n,38p,264b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program 
+Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
+ (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x
+86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)
+/miktex2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/mik
+tex2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on fundivS1.pdf (6 pages, 130526 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

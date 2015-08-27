@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  27 AUG 2015 16:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  27 AUG 2015 18:23
 entering extended mode
 **functional*diversity.tex
 
@@ -642,10 +642,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [3
 
 ]
-
-Package natbib Warning: Citation `Arthington2012' on page 4 undefined on input 
-line 155.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -657,6 +653,7 @@ Missing character: There is no © in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+
 [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -668,7 +665,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 169.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [6]
 [7]
@@ -872,58 +869,49 @@ Missing character: There is no ô in font cmr12!
 
 [14]
 
-Package natbib Warning: Citation `Vazquez-Rivera2015' on page 15 undefined on i
-nput line 287.
-
-
 Package natbib Warning: Citation `Rossel2014j; Wilford2014' on page 15 undefine
 d on input line 287.
-
-
-Package natbib Warning: Citation `Legendre2007' on page 15 undefined on input l
-ine 287.
 
 
 Underfull \vbox (badness 2932) has occurred while \output is active []
 
  [15]
-[16] <fig1.png, id=65, 423.984pt x 489.38835pt>
-File: fig1.png Graphic file (type png)
- <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 298.
+[16] <Ch3fig1.png, id=65, 423.984pt x 489.38835pt>
+File: Ch3fig1.png Graphic file (type png)
+ <use Ch3fig1.png>
+Package pdftex.def Info: Ch3fig1.png used on input line 298.
 (pdftex.def)             Requested size: 418.0pt x 482.49467pt.
- [17] [18 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/3 functional div
-ersity/fig1.png>] <fig2.png, id=74, 422.65906pt x 482.40225pt>
-File: fig2.png Graphic file (type png)
- <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 311.
+ [17]
+[18 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/3 functional diversity
+/Ch3fig1.png>] <Ch3fig2.png, id=74, 422.65906pt x 482.40225pt>
+File: Ch3fig2.png Graphic file (type png)
+
+<use Ch3fig2.png>
+Package pdftex.def Info: Ch3fig2.png used on input line 311.
 (pdftex.def)             Requested size: 418.0pt x 477.08652pt.
  [19
 
 ] [20 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/3 functional diversi
-ty/fig2.png>]
-<fig3.png, id=83, 414.5889pt x 483.4863pt>
-File: fig3.png Graphic file (type png)
- <use fig3.png>
-Package pdftex.def Info: fig3.png used on input line 321.
+ty/Ch3fig2.png>]
+<Ch3fig3.png, id=83, 414.5889pt x 483.4863pt>
+File: Ch3fig3.png Graphic file (type png)
+ <use Ch3fig3.png>
+Package pdftex.def Info: Ch3fig3.png used on input line 321.
 (pdftex.def)             Requested size: 418.0pt x 487.49103pt.
  [21
 
 ] [22 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/3 functional diversi
-ty/fig3.png>]
+ty/Ch3fig3.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-[23
+ [23
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 337.
  [24
 
-] [25
-
 ]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -949,7 +937,12 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [26]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25
+
+]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -958,22 +951,16 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
 
-Package natbib Warning: Citation `Tabacchi1998' on page 27 undefined on input l
-ine 413.
-
-
-Package natbib Warning: Citation `Palmer1997' on page 27 undefined on input lin
-e 413.
+Package natbib Warning: Citation `Palmer1997' on page 26 undefined on input lin
+e 410.
 
 
 Underfull \vbox (badness 1112) has occurred while \output is active []
 
- [27
-
-]
+ [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [27]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -981,62 +968,54 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
+Underfull \vbox (badness 1189) has occurred while \output is active []
 
-Package natbib Warning: Citation `Siebentritt2004' on page 29 undefined on inpu
-t line 417.
-
-
+ [28]
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [29]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [30]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
+
+
+Package natbib Warning: Citation `Howell2000' on page 31 undefined on input lin
+e 428.
+
 
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [31]
-
-Package natbib Warning: Citation `sottile2015disturbance' on page 32 undefined 
-on input line 429.
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-Package natbib Warning: Citation `Howell2000' on page 32 undefined on input lin
-e 431.
-
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [32]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-Overfull \hbox (1.4012pt too wide) in paragraph at lines 435--436
+Overfull \hbox (1.4012pt too wide) in paragraph at lines 432--433
 \OT1/cmr/m/n/12 High func-tional di-ver-sity com-mu-ni-ties en-com-pass a broad
  range of eco-log-i-cal strate-
  []
@@ -1044,30 +1023,30 @@ Overfull \hbox (1.4012pt too wide) in paragraph at lines 435--436
 
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
- [33]
+ [32]
 
-Package natbib Warning: Citation `Palmer1997' on page 34 undefined on input lin
-e 437.
+Package natbib Warning: Citation `Palmer1997' on page 33 undefined on input lin
+e 434.
 
 
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\3 functional diversity\fu
 nctional diversity.bbl"
 Underfull \vbox (badness 7238) has occurred while \output is active []
 
- [34]
-[35] [36
+ [33]
+[34] [35
 
-] [37] [38] [39] [40] [41] [42] [43] [44]
-Underfull \hbox (badness 1057) in paragraph at lines 471--476
+] [36] [37] [38] [39] [40] [41] [42]
+Underfull \hbox (badness 1057) in paragraph at lines 484--489
 \OT1/cmr/m/n/10.95 (2014c).  Soil and Land-scape Grid Na-tional Soil At-tribute
  Maps - Ef-fec-tive
  []
 
-[45] [46])
+[43] [44] [45])
 
 Package natbib Warning: There were undefined citations.
 
-[47]
+[46]
 
 ! LaTeX Error: \begin{landscape} on input line 209 ended by \end{document}.
 
@@ -1075,7 +1054,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.452 \end{document}
+l.449 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1083,19 +1062,23 @@ or  <return>  to continue without it.
 
 
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\3 functional diversity\fu
-nctional diversity.aux") )
+nctional diversity.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 209 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7615 strings out of 493921
- 110178 string characters out of 3145277
+ 7623 strings out of 493921
+ 110487 string characters out of 3145277
  223478 words of memory out of 3000000
- 10853 multiletter control sequences out of 15000+200000
+ 10861 multiletter control sequences out of 15000+200000
  12416 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,18n,47p,2145b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,18n,47p,2145b,641s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/c
 mbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi1
@@ -1106,16 +1089,17 @@ gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program
 Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fil
 es (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files 
 (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x8
-6)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/m
-iktex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/mikte
-x2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2.
-9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/f
-onts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/miktex2.9/fonts
-/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/typ
-e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "functional diversity.pdf" (47 pages, 1483358 bytes).
+6)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+miktex2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/mikt
+ex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/miktex2.
+9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2.9/f
+onts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/font
+s/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/miktex2.9/fonts/ty
+pe1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/
+public/amsfonts/cm/cmtt12.pfb>
+Output written on "functional diversity.pdf" (46 pages, 1491698 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 230 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
