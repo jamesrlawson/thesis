@@ -1,9 +1,109 @@
-\contentsline {chapter}{\chapternumberline {1}Abstract}{1}
 \gdef \the@ipfilectr {@-1}
-\contentsline {chapter}{\chapternumberline {2}Introduction}{3}
-\contentsline {section}{\numberline {2.1}The importance of flow regime to riparian plant communities}{5}
-\contentsline {section}{\numberline {2.2}The intersection between hydroecology and functional ecology}{6}
-\contentsline {section}{\numberline {2.3}Anthropogenic impacts on riparian plant communities}{7}
-\contentsline {section}{\numberline {2.4}Research questions}{10}
-\contentsline {section}{\numberline {2.5}{References}}{11}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{3}
+\contentsline {section}{\numberline {1.1}The importance of flow regime to riparian plant communities}{5}
+\contentsline {section}{\numberline {1.2}The intersection between hydroecology and functional ecology}{6}
+\contentsline {section}{\numberline {1.3}Anthropogenic impacts on riparian plant communities}{7}
+\contentsline {section}{\numberline {1.4}Research questions}{10}
+\contentsline {section}{\numberline {1.5}{References}}{11}
 \gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\chapternumberline {2}Hydrological conditions explain variation in wood density in riparian plants of south-eastern Australia}{19}
+\contentsline {section}{\numberline {2.1}Introduction}{22}
+\contentsline {section}{\numberline {2.2}Materials and methods}{26}
+\contentsline {subsection}{Study site selection}{26}
+\contentsline {subsection}{Species abundance and trait data collection}{28}
+\contentsline {subsection}{Hydrological analysis}{29}
+\contentsline {subsection}{Wood density analysis}{34}
+\contentsline {subsubsection}{Characterising community-level variation in wood density}{34}
+\contentsline {subsubsection}{Testing relationships between wood density and hydrological conditions}{35}
+\contentsline {section}{\numberline {2.3}Results}{36}
+\contentsline {subsection}{How does mean wood density change over hydrological gradients?}{36}
+\contentsline {subsection}{What are the principal components of variation in hydrological conditions that explain variation in wood density?}{41}
+\contentsline {subsection}{Is there a relationship between hydrological disturbance and within-community dispersion of wood density?}{41}
+\contentsline {section}{\numberline {2.4}Discussion}{42}
+\contentsline {section}{\numberline {2.5}{References}}{51}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{\chapternumberline {3}Heterogeneous flows foster heterogeneous assemblages: relationships between functional diversity and hydrological heterogeneity in riparian plant communities}{61}
+\contentsline {section}{\numberline {3.1}Introduction}{63}
+\contentsline {section}{\numberline {3.2}Methods}{67}
+\contentsline {subsection}{Study sites}{67}
+\contentsline {subsection}{Rationale for trait selection}{67}
+\contentsline {subsection}{Trait dataset assembly}{69}
+\contentsline {subsection}{Hydrological analysis}{70}
+\contentsline {subsection}{Functional trait diversity analysis}{73}
+\contentsline {subsection}{Relationships between FDis, hydrological metrics and taxonomic diversity}{74}
+\contentsline {subsection}{Assessing the influence of other environmental variables}{75}
+\contentsline {section}{\numberline {3.3}Results}{76}
+\contentsline {subsection}{Is functional diversity related to the frequency and magnitude of flooding disturbance?}{76}
+\contentsline {subsection}{Is functional diversity related to variability in seasonal water availability in the riparian zone?}{79}
+\contentsline {subsection}{Comparisons with measures of taxonomic diversity}{83}
+\contentsline {subsection}{A minimal multiple regression model to explain functional diversity according to hydrology}{83}
+\contentsline {subsection}{Do climatic or edaphic conditions explain variation in FDis that is unaccounted for by hydrological metrics?}{86}
+\contentsline {section}{\numberline {3.4}Discussion}{86}
+\contentsline {section}{\numberline {3.5}{References}}{95}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\contentsline {chapter}{\chapternumberline {4}Environmental drivers of taxonomic and functional diversity of riparian plant communities in a modified landscape}{107}
+\contentsline {section}{\numberline {4.1}Introduction}{110}
+\contentsline {section}{\numberline {4.2}Regional setting and hydrology}{114}
+\contentsline {section}{\numberline {4.3}Methods}{115}
+\contentsline {subsection}{Site selection and vegetation sampling}{115}
+\contentsline {subsection}{Describing stream hydrology and quantifying flow regulation}{117}
+\contentsline {subsection}{Other environmental variables}{122}
+\contentsline {subsection}{Trait selection and dataset assembly}{123}
+\contentsline {subsection}{Calculating functional diversity, species richness and proportional abundance of exotics}{127}
+\contentsline {subsection}{Constructing variance partitioning models}{128}
+\contentsline {section}{\numberline {4.4}Results}{129}
+\contentsline {subsection}{Environmental drivers of variation in species richness}{129}
+\contentsline {subsection}{Environmental drivers of functional richness (FRic.SES)}{134}
+\contentsline {subsection}{Environmental drivers of functional divergence (FDis.SES)}{137}
+\contentsline {subsection}{Environmental drivers of variation in proportional abundance of exotic species}{140}
+\contentsline {section}{\numberline {4.5}Discussion}{144}
+\contentsline {section}{\numberline {4.6}{References}}{152}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\contentsline {chapter}{\chapternumberline {5}Interactive effects of waterlogging and atmospheric CO\textsubscript {2} concentration on gas exchange, growth and functional traits of Australian riparian tree seedlings}{165}
+\contentsline {section}{\numberline {5.1}Introduction}{167}
+\contentsline {section}{\numberline {5.2}Methods}{170}
+\contentsline {subsection}{Experimental procedure}{172}
+\contentsline {subsection}{Data analysis}{174}
+\contentsline {section}{\numberline {5.3}Results}{175}
+\contentsline {subsection}{Gas exchange and water-use efficiency}{178}
+\contentsline {subsection}{Biomass production and allocation}{179}
+\contentsline {subsection}{Functional traits}{180}
+\contentsline {section}{\numberline {5.4}Discussion}{182}
+\contentsline {section}{\numberline {5.5}Conclusion}{187}
+\contentsline {section}{\numberline {5.6}{References}}{188}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{195}
+\contentsline {section}{\numberline {6.1}Summary of findings}{196}
+\contentsline {section}{\numberline {6.2}Biogeographic context}{197}
+\contentsline {section}{\numberline {6.3}Ecological responses of riparian plant communities to fluvial hydrology}{200}
+\contentsline {subsection}{Outstanding questions about the role of hydrological heterogeneity in structuring communities}{203}
+\contentsline {section}{\numberline {6.4}Responses of riparian plant communities to anthropogenic environmental change}{205}
+\contentsline {subsection}{How might riparian plant communities respond to climate change?}{205}
+\contentsline {subsection}{Could environmental flows be a useful tool for river rehabilitation in south-eastern Australia?}{207}
+\contentsline {section}{\numberline {6.5}Conclusion}{209}
+\contentsline {section}{\numberline {6.6}{References}}{210}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-7}
+\contentsline {chapter}{Appendix 1}{217}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\contentsline {chapter}{Appendix 2a}{223}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-9}
+\contentsline {chapter}{Appendix 2b}{229}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-10}
+\contentsline {chapter}{Appendix 2c}{233}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-11}
+\contentsline {chapter}{Appendix 3a}{235}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-12}
+\contentsline {chapter}{Appendix 3b}{239}
+\gdef \the@ipfilectr {}
+\contentsline {chapter}{Appendix 3c}{245}

@@ -85,6 +85,11 @@
 
 %%% HEADERS & FOOTERS
   \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
+	\clearmark{section}
+	
+	\makeatletter
+\createmark{chapter}{both}{shownumber}{\@chapapp\ }{. \ }  % display Chapter names in headers only
+\makeatother
 
 %%% CHAPTERS
   \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
@@ -110,14 +115,7 @@
   \renewcommand{\absnamepos}{center}
   \setlength{\abstitleskip}{+0cm}
 	
-		\makeatletter
-	\newcommand{\unchapter}[1]{%
-		\begingroup
-		\let\@makechapterhead\@gobble % make \@makechapterhead do nothing
-		\chapter{#1}
-		\endgroup
-	}
-	\makeatother
+
 
 
 %% END Memoir customization
@@ -255,14 +253,14 @@ Finally, I am grateful for the financial support provided by Macquarie Universit
 % MAIN BODY OF THESIS
 \mainmatter
 %\pagenumbering{arabic}
-\chapter[Abstract]{Abstract} % /chapter is a command used on the documentclass book or memoir
+\chapter*[Abstract]{Abstract} % /chapter is a command used on the documentclass book or memoir
 %\unchapter*[Abstract]{Abstract}
 %\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
 
 %\clearpage
-\renewcommand{\abstractname}{Abstract}
-\setlength{\absparindent}{5mm}
-
+%\renewcommand{\abstractname}{}
+%\setlength{\absparindent}{5mm}
+\renewcommand{\abstractname}{\vspace{-\baselineskip}}
 
 \begin{abstract}
 %\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
@@ -286,27 +284,27 @@ This work highlights the importance of natural hydrological heterogeneity and an
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 2
-%\include{wooddensity}
+\include{wooddensity}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 3
-%\include{functionaldiversity}
+\include{functionaldiversity}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 4
-%\include{SEQLD}
+\include{SEQLD}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 5
-%\include{glasshouse}
+\include{glasshouse}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 6
-%\include{discussion}
+\include{discussion}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -314,32 +312,32 @@ This work highlights the importance of natural hydrological heterogeneity and an
 % Annexes
 \backmatter
 
-%\include{WDsupp}
+\include{WDsupp}
 \clearpage
 
-%\include{fundivsupp1}
+\include{fundivsupp1}
 \clearpage
 
-%\include{fundivsupp2}
+\include{fundivsupp2}
 \clearpage
 
-%\include{fundivsupp3}
+\include{fundivsupp3}
 \clearpage
 
-%\include{SEQLDsupp}
+\include{SEQLDsupp}
 \clearpage
 
-%\include{SEQLDsuppb}
+\include{SEQLDsuppb}
 \clearpage
 
-%\chapter[Appendix 3c]{Appendix 3c (Supplementary to Chapter 4)}
-%\includepdf[pages=-]{Ch4Bibliography_.pdf}
+\chapter[Appendix 3c]{Appendix 3c (Supplementary to Chapter 4)}
+\includepdf[pages=-]{Ch4Bibliography_.pdf}
 \clearpage
 
-%\includepdf[pages=-]{lawson2015a.pdf}
+\includepdf[pages=-]{lawson2015a.pdf}
 \clearpage
 
-%\includepdf[pages=-]{lawson2015b.pdf}
+\includepdf[pages=-]{lawson2015b.pdf}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
