@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  27 AUG 2015 21:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  28 AUG 2015 01:12
 entering extended mode
 **SEQLD1.tex
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\SEQLD1.tex
@@ -696,221 +696,32 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
 [2]
-
-Package natbib Warning: Citation `Naiman1993' on page 3 undefined on input line
- 151.
-
-
-Package natbib Warning: Citation `Palmer2009' on page 3 undefined on input line
- 151.
-
-
-Package natbib Warning: Citation `Nilsson2002' on page 3 undefined on input lin
-e 151.
-
-
-Package natbib Warning: Citation `Nilsson2000' on page 3 undefined on input lin
-e 151.
-
-
-Package natbib Warning: Citation `Stromberg2007' on page 3 undefined on input l
-ine 151.
-
-
-Package natbib Warning: Citation `Cooper2013' on page 3 undefined on input line
- 151.
-
-
-Package natbib Warning: Citation `Richardson2007' on page 3 undefined on input 
-line 151.
-
-
-Package natbib Warning: Citation `Costanza2011' on page 3 undefined on input li
-ne 153.
-
-
-Package natbib Warning: Citation `Stein2014' on page 3 undefined on input line 
-153.
-
-
-Package natbib Warning: Citation `Chesson2000' on page 3 undefined on input lin
-e 153.
-
-
-Package natbib Warning: Citation `Violle2007' on page 3 undefined on input line
- 153.
-
-
-Package natbib Warning: Citation `Adler2013' on page 3 undefined on input line 
-153.
-
-
-Package natbib Warning: Citation `Hillebrand2009' on page 3 undefined on input 
-line 153.
-
-
-Package natbib Warning: Citation `Poff1997' on page 3 undefined on input line 1
-55.
-
-
-Package natbib Warning: Citation `Bendix2000' on page 3 undefined on input line
- 155.
-
-
-Package natbib Warning: Citation `Naiman2005' on page 3 undefined on input line
- 155.
-
-
-Package natbib Warning: Citation `Corenblit2007' on page 3 undefined on input l
-ine 155.
-
-
-Package natbib Warning: Citation `fryirs2012geomorphic' on page 3 undefined on 
-input line 155.
-
-
-Package natbib Warning: Citation `Hughes1997' on page 3 undefined on input line
- 155.
-
-
-Package natbib Warning: Citation `Corenblit2009' on page 3 undefined on input l
-ine 155.
-
-
-Package natbib Warning: Citation `Nilsson2002' on page 3 undefined on input lin
-e 155.
-
-
 Underfull \vbox (badness 4518) has occurred while \output is active []
 
  [3
 
 ]
-
-Package natbib Warning: Citation `Bendix1997' on page 4 undefined on input line
- 157.
-
-
-Package natbib Warning: Citation `Bendix2000' on page 4 undefined on input line
- 157.
-
-
-Package natbib Warning: Citation `Lite2005' on page 4 undefined on input line 1
-57.
-
-
-Package natbib Warning: Citation `Corenblit2007' on page 4 undefined on input l
-ine 157.
-
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-
-Package natbib Warning: Citation `Tamme2010' on page 4 undefined on input line 
-157.
-
-
-Package natbib Warning: Citation `Lawson2015a' on page 4 undefined on input lin
-e 157.
-
 Missing character: There is no ’ in font cmr12!
 
-Package natbib Warning: Citation `Nilsson2000' on page 4 undefined on input lin
-e 159.
-
-
-Package natbib Warning: Citation `Nilsson2005' on page 4 undefined on input lin
-e 159.
-
-
-Package natbib Warning: Citation `Mackay2014' on page 4 undefined on input line
- 159.
-
-
-Package natbib Warning: Citation `Graf2006' on page 4 undefined on input line 1
-59.
-
-
-Package natbib Warning: Citation `Singer2007' on page 4 undefined on input line
- 159.
-
-
-Package natbib Warning: Citation `Lloyd2004' on page 4 undefined on input line 
-159.
-
-
-Package natbib Warning: Citation `Poff2010' on page 4 undefined on input line 1
-59.
-
-
-Package natbib Warning: Citation `Stokes2008' on page 4 undefined on input line
- 159.
-
-
-Package natbib Warning: Citation `Merritt2010' on page 4 undefined on input lin
-e 159.
-
-
-Package natbib Warning: Citation `Catford2011' on page 4 undefined on input lin
-e 159.
-
-
-Package natbib Warning: Citation `Poff2010' on page 4 undefined on input line 1
-59.
-
-
-Package natbib Warning: Citation `Vitousek1997' on page 4 undefined on input li
-ne 161.
-
-
-Package natbib Warning: Citation `Gerstner2014' on page 4 undefined on input li
-ne 161.
-
-
-Package natbib Warning: Citation `Vitousek1996' on page 4 undefined on input li
-ne 161.
-
-
-Package natbib Warning: Citation `Davis2003' on page 4 undefined on input line 
-161.
-
-
-Package natbib Warning: Citation `Catford2012a' on page 4 undefined on input li
-ne 161.
-
-
-Package natbib Warning: Citation `Laliberte2010' on page 4 undefined on input l
-ine 161.
+Underfull \vbox (badness 1292) has occurred while \output is active []
 
 
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
 [4]
-
-Package natbib Warning: Citation `Poff2010a' on page 5 undefined on input line 
-163.
-
 Missing character: There is no – in font cmr12!
+ [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 168.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 168.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 168.
-[5]
-
-Package natbib Warning: Citation `Rustomji2009' on page 6 undefined on input li
-ne 170.
-
-
-Package natbib Warning: Citation `Kennard2010' on page 6 undefined on input lin
-e 170.
-
 Missing character: There is no – in font cmr12!
 Missing character: There is no – in font cmr12!
-
-Package natbib Warning: Citation `Mackay2014' on page 6 undefined on input line
- 172.
 
 
 LaTeX Warning: File `map2.png' not found on input line 177.
@@ -933,27 +744,13 @@ If that doesn't work, type  X <return>  to quit.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Package natbib Warning: Citation `Arthington2012' on page 6 undefined on input 
-line 184.
-
-
-Package natbib Warning: Citation `RCoreTeam2015' on page 6 undefined on input l
-ine 184.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
-[6]
+[6] [7]
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
-Underfull \vbox (badness 7326) has occurred while \output is active []
-
- [7]
 ! Undefined control sequence.
 l.192 ...(DNRM) Water Monitoring Data Portal (\url
                                                   {https://www.dnrm.qld.gov....
@@ -964,16 +761,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Missing character: There is no – in font cmr12!
-
-Package natbib Warning: Citation `marsh2003river' on page 8 undefined on input 
-line 192.
-
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
-
-Package natbib Warning: Citation `simons1996iqqm' on page 8 undefined on input 
-line 196.
-
 
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
@@ -1057,14 +846,6 @@ Overfull \vbox (10.90065pt too high) detected at line 270
  []
 
 
-Package natbib Warning: Citation `Lawson2015a' on page 10 undefined on input li
-ne 270.
-
-
-Package natbib Warning: Citation `Lawson2015a' on page 10 undefined on input li
-ne 270.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 270--270
 
  []
@@ -1141,162 +922,12 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 [10
 
 ] [11]
-
-Package natbib Warning: Citation `witte2006mapping' on page 12 undefined on inp
-ut line 275.
-
-
-Package natbib Warning: Citation `BRS2002' on page 12 undefined on input line 2
-75.
-
-
-Package natbib Warning: Citation `Hutchinson2014' on page 12 undefined on input
- line 277.
-
-
-Package natbib Warning: Citation `busby1991bioclim' on page 12 undefined on inp
-ut line 277.
-
-
-Package natbib Warning: Citation `Rossel2014' on page 12 undefined on input lin
-e 277.
-
-
-Package natbib Warning: Citation `Rossel2014a' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014b' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014c' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014d' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014e' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014f' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014g' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014h' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014i' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Rossel2014j' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `Wilford2014' on page 12 undefined on input li
-ne 277.
-
-
-Package natbib Warning: Citation `KEWseed' on page 12 undefined on input line 2
-82.
-
-
-Package natbib Warning: Citation `plantnet' on page 12 undefined on input line 
-282.
-
-
-Package natbib Warning: Citation `zanne2009global' on page 12 undefined on inpu
-t line 282.
-
-
-Package natbib Warning: Citation `Wright2000' on page 12 undefined on input lin
-e 282.
-
-
-Package natbib Warning: Citation `Fonseca2000' on page 12 undefined on input li
-ne 282.
-
-
-Package natbib Warning: Citation `Gallagher2012a' on page 12 undefined on input
- line 282.
-
-
-Package natbib Warning: Citation `Kooyman2013' on page 12 undefined on input li
-ne 282.
-
-
-Package natbib Warning: Citation `Gleason2012' on page 12 undefined on input li
-ne 282.
-
-
-Package natbib Warning: Citation `Penone2014' on page 12 undefined on input lin
-e 282.
-
-
-Package natbib Warning: Citation `Stekhoven2012' on page 12 undefined on input 
-line 282.
-
-
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
 [12
 
 ] [13]
-
-Package natbib Warning: Citation `Wright2004' on page 14 undefined on input lin
-e 305.
-
-
-Package natbib Warning: Citation `Wright2004' on page 14 undefined on input lin
-e 305.
-
-
-Package natbib Warning: Citation `Cornelissen2003' on page 14 undefined on inpu
-t line 305.
-
-
-Package natbib Warning: Citation `Westoby2006' on page 14 undefined on input li
-ne 305.
-
-
-Package natbib Warning: Citation `Falster2006' on page 14 undefined on input li
-ne 305.
-
-
-Package natbib Warning: Citation `Leishman2000' on page 14 undefined on input l
-ine 305.
-
-
-Package natbib Warning: Citation `Carthey2015' on page 14 undefined on input li
-ne 305.
-
-
-Package natbib Warning: Citation `telewski1995wind' on page 14 undefined on inp
-ut line 305.
-
-
-Package natbib Warning: Citation `Preston2006' on page 14 undefined on input li
-ne 305.
-
-
-Package natbib Warning: Citation `Lawson2015' on page 14 undefined on input lin
-e 305.
-
-
-Package natbib Warning: Citation `mackensen2003decomposition' on page 14 undefi
-ned on input line 305.
-
-
 Underfull \vbox (badness 10000) detected at line 305
  []
 
@@ -1307,73 +938,16 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 [14
 
 ]
-
-Package natbib Warning: Citation `Villeger2008' on page 15 undefined on input l
-ine 311.
-
 Missing character: There is no é in font cmr12!
-
-Package natbib Warning: Citation `Pavoine2011' on page 15 undefined on input li
-ne 311.
-
-
-Package natbib Warning: Citation `Mason2012' on page 15 undefined on input line
- 311.
-
-
-Package natbib Warning: Citation `Laliberte2010' on page 15 undefined on input 
-line 313.
-
 Missing character: There is no ’ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-
-Package natbib Warning: Citation `Gotelli2002' on page 15 undefined on input li
-ne 313.
-
-
-Package natbib Warning: Citation `Miklos2004' on page 15 undefined on input lin
-e 313.
-
-
-Package natbib Warning: Citation `kembel2010picante' on page 15 undefined on in
-put line 313.
-
-
-Package natbib Warning: Citation `eastman2011spacodir' on page 15 undefined on 
-input line 313.
-
 Missing character: There is no é in font cmr12!
 
-Package natbib Warning: Citation `Mason2013' on page 15 undefined on input line
- 313.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1810) has occurred while \output is active []
 
  [15
 
 ]
-
-Package natbib Warning: Citation `Legendre2007' on page 16 undefined on input l
-ine 322.
-
-
-Package natbib Warning: Citation `barton2012mumin' on page 16 undefined on inpu
-t line 323.
-
-
-Package natbib Warning: Citation `burnham2002model' on page 16 undefined on inp
-ut line 323.
-
-
-Package natbib Warning: Citation `Oksanen2013' on page 16 undefined on input li
-ne 323.
-
-
-Package natbib Warning: Citation `Peres-Neto2006' on page 16 undefined on input
- line 323.
-
-
 Overfull \hbox (0.81787pt too wide) in paragraph at lines 322--324
 []\OT1/cmr/m/n/12 The fol-low-ing pro-cess was used to de-rive an op-ti-mal set
  of environment-diversity
@@ -1387,7 +961,7 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
-[18] <Ch4speciesRichness.pdf, id=71, 597.50786pt x 486.51537pt>
+[18] <Ch4speciesRichness.pdf, id=70, 597.50786pt x 486.51537pt>
 File: Ch4speciesRichness.pdf Graphic file (type pdf)
 
 <use Ch4speciesRichness.pdf>
@@ -1417,7 +991,7 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 ] [21
 
-] <Ch4FRicSES.pdf, id=132, 595.67091pt x 356.14458pt>
+] <Ch4FRicSES.pdf, id=131, 595.67091pt x 356.14458pt>
 File: Ch4FRicSES.pdf Graphic file (type pdf)
 
 <use Ch4FRicSES.pdf>
@@ -1443,7 +1017,7 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 [24
 
-] <Ch4FDisSES.pdf, id=174, 596.00168pt x 361.40018pt>
+] <Ch4FDisSES.pdf, id=173, 596.00168pt x 361.40018pt>
 File: Ch4FDisSES.pdf Graphic file (type pdf)
  <use Ch4FDisSES.pdf>
 Package pdftex.def Info: Ch4FDisSES.pdf used on input line 382.
@@ -1464,7 +1038,7 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 ] [27
 
-] <Ch4exotics.pdf, id=217, 597.53188pt x 473.7348pt>
+] <Ch4exotics.pdf, id=216, 597.53188pt x 473.7348pt>
 File: Ch4exotics.pdf Graphic file (type pdf)
 
 <use Ch4exotics.pdf>
@@ -1480,19 +1054,6 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
 ]
-
-Package natbib Warning: Citation `Poff1997' on page 30 undefined on input line 
-413.
-
-
-Package natbib Warning: Citation `Poff2010' on page 30 undefined on input line 
-413.
-
-
-Package natbib Warning: Citation `Mackay2014' on page 30 undefined on input lin
-e 416.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1502,61 +1063,12 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 [30
 
 ]
-
-Package natbib Warning: Citation `Tabacchi1998' on page 31 undefined on input l
-ine 418.
-
-
-Package natbib Warning: Citation `Bendix2000' on page 31 undefined on input lin
-e 418.
-
-
-Package natbib Warning: Citation `Jardine2015' on page 31 undefined on input li
-ne 418.
-
-
-Package natbib Warning: Citation `Lundholm2009' on page 31 undefined on input l
-ine 418.
-
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-
-Package natbib Warning: Citation `Mason2013' on page 31 undefined on input line
- 420.
-
-
-Package natbib Warning: Citation `Mason2013' on page 31 undefined on input line
- 420.
-
-
-Package natbib Warning: Citation `Mouchet2010' on page 31 undefined on input li
-ne 420.
-
-
-Package natbib Warning: Citation `Laanisto2013' on page 31 undefined on input l
-ine 420.
-
 
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
  [31]
-
-Package natbib Warning: Citation `Mason2013' on page 32 undefined on input line
- 422.
-
-
-Package natbib Warning: Citation `Lawson2015a' on page 32 undefined on input li
-ne 424.
-
-
-Package natbib Warning: Citation `Foster2003' on page 32 undefined on input lin
-e 424.
-
-
-Package natbib Warning: Citation `Kraft2015' on page 32 undefined on input line
- 424.
-
-
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
 
@@ -1564,45 +1076,11 @@ Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
 [32]
+Underfull \vbox (badness 1292) has occurred while \output is active []
 
-Package natbib Warning: Citation `Catford2011' on page 33 undefined on input li
-ne 426.
-
-
-Package natbib Warning: Citation `Greet2012c' on page 33 undefined on input lin
-e 426.
-
-
-Package natbib Warning: Citation `Mouillot2011' on page 33 undefined on input l
-ine 429.
-
-
-Package natbib Warning: Citation `Laliberte2010' on page 33 undefined on input 
-line 429.
-
-
-Package natbib Warning: Citation `Hennessy2008' on page 33 undefined on input l
-ine 431.
-
-
-Package natbib Warning: Citation `Lawson2015a' on page 33 undefined on input li
-ne 431.
-
-[33]
-
-Package natbib Warning: Citation `Lawson2015a' on page 34 undefined on input li
-ne 435.
-
+ [33]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-
-Package natbib Warning: Citation `Jardine2015' on page 34 undefined on input li
-ne 435.
-
-
-Package natbib Warning: Citation `Lundholm2009' on page 34 undefined on input l
-ine 435.
-
 
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
@@ -1643,41 +1121,33 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 451.
 
-
-Package natbib Warning: There were undefined citations.
-
-[46] (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\SEQLD1.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) ) 
+[46] (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\SEQLD1.aux) ) 
 Here is how much of TeX's memory you used:
- 7955 strings out of 493921
- 115905 string characters out of 3145277
- 228478 words of memory out of 3000000
- 11192 multiletter control sequences out of 15000+200000
- 11961 words of font info for 43 fonts, out of 3000000 for 9000
+ 7953 strings out of 493921
+ 115884 string characters out of 3145277
+ 228819 words of memory out of 3000000
+ 11191 multiletter control sequences out of 15000+200000
+ 11654 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,14n,49p,2093b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/
-Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
-gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
- Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x
-86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/m
-iktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/mikt
-ex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/miktex2
-.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)/miktex2.9/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/miktex2.9/font
-s/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2.9/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type
-1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/pu
-blic/amsfonts/cm/cmtt12.pfb>
-Output written on SEQLD1.pdf (46 pages, 1023633 bytes).
+ 39i,14n,51p,2093b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
+<
+C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
+rogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Prog
+ram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
+Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
+6)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/mi
+ktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/mikte
+x2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/miktex2.
+9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)/miktex2.9/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/miktex2.9/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2.9/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1
+/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/pub
+lic/amsfonts/cm/cmtt12.pfb>
+Output written on SEQLD1.pdf (46 pages, 1016310 bytes).
 PDF statistics:
- 370 PDF objects out of 1000 (max. 8388607)
+ 366 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

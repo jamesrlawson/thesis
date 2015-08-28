@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  27 AUG 2015 21:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  28 AUG 2015 09:49
 entering extended mode
 **discussion1.tex
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\discussion1.tex
@@ -594,7 +594,64 @@ Overfull \hbox (8.78168pt too wide) in paragraph at lines 149--150
 ed pri-mar-ily along coastally
  []
 
-[3] <Ch6map.png, id=16, 322.806pt x 555.87675pt>
+[3]
+
+Package natbib Warning: Citation `Nilsson1989' on page 4 undefined on input lin
+e 151.
+
+
+Package natbib Warning: Citation `Naiman1997' on page 4 undefined on input line
+ 151.
+
+
+Package natbib Warning: Citation `Tabacchi1998' on page 4 undefined on input li
+ne 151.
+
+
+Package natbib Warning: Citation `Naiman2005' on page 4 undefined on input line
+ 151.
+
+
+Package natbib Warning: Citation `Corenblit2007' on page 4 undefined on input l
+ine 151.
+
+
+Package natbib Warning: Citation `Peel2004' on page 4 undefined on input line 1
+51.
+
+
+Package natbib Warning: Citation `Rustomji2009' on page 4 undefined on input li
+ne 151.
+
+
+Package natbib Warning: Citation `Ford1979' on page 4 undefined on input line 1
+51.
+
+
+Package natbib Warning: Citation `Knopf1988' on page 4 undefined on input line 
+151.
+
+
+Package natbib Warning: Citation `Fleischner1994' on page 4 undefined on input 
+line 151.
+
+
+Package natbib Warning: Citation `Wasson1994' on page 4 undefined on input line
+ 151.
+
+
+Package natbib Warning: Citation `Brierley1999' on page 4 undefined on input li
+ne 151.
+
+
+Package natbib Warning: Citation `Lloyd2004' on page 4 undefined on input line 
+151.
+
+
+Package natbib Warning: Citation `Graf2006' on page 4 undefined on input line 1
+51.
+
+<Ch6map.png, id=16, 322.806pt x 555.87675pt>
 File: Ch6map.png Graphic file (type png)
  <use Ch6map.png>
 Package pdftex.def Info: Ch6map.png used on input line 158.
@@ -604,15 +661,105 @@ Package pdftex.def Info: Ch6map.png used on input line 158.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
+
+
+Package natbib Warning: Citation `MacArthur1961' on page 6 undefined on input l
+ine 166.
+
+
+Package natbib Warning: Citation `Stein2014' on page 6 undefined on input line 
+166.
+
+
+Package natbib Warning: Citation `Poff1997' on page 6 undefined on input line 1
+66.
+
+
+Package natbib Warning: Citation `Naiman2005' on page 6 undefined on input line
+ 166.
+
+
+Package natbib Warning: Citation `Chave2009' on page 6 undefined on input line 
+170.
+
+
+Package natbib Warning: Citation `Niklas2010' on page 6 undefined on input line
+ 170.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [6
+
+Package natbib Warning: Citation `Reich2014a' on page 6 undefined on input line
+ 170.
+
+
+Package natbib Warning: Citation `Mori2013' on page 6 undefined on input line 1
+70.
+
+
+Package natbib Warning: Citation `Harmon1986' on page 6 undefined on input line
+ 170.
+
+
+Package natbib Warning: Citation `Gurnell2002' on page 6 undefined on input lin
+e 170.
+
+
+Package natbib Warning: Citation `Cadol2010' on page 6 undefined on input line 
+170.
+
+
+Package natbib Warning: Citation `Grime2006' on page 6 undefined on input line 
+170.
+
+
+Package natbib Warning: Citation `Sonnier2010' on page 6 undefined on input lin
+e 170.
+
+
+Package natbib Warning: Citation `Falster2006' on page 6 undefined on input lin
+e 170.
+
+[6
 
 ]
+
+Package natbib Warning: Citation `Brinson1993' on page 7 undefined on input lin
+e 172.
+
+
+Package natbib Warning: Citation `Stromberg2010' on page 7 undefined on input l
+ine 172.
+
+
+Package natbib Warning: Citation `Stromberg2013' on page 7 undefined on input l
+ine 172.
+
+
+Package natbib Warning: Citation `Lavorel2002' on page 7 undefined on input lin
+e 172.
+
+
+Package natbib Warning: Citation `Suding2008' on page 7 undefined on input line
+ 172.
+
+
+Package natbib Warning: Citation `Mason2013' on page 7 undefined on input line 
+172.
+
+
+Package natbib Warning: Citation `Tilman1997' on page 7 undefined on input line
+ 172.
+
+
+Package natbib Warning: Citation `Diaz1998' on page 7 undefined on input line 1
+72.
+
+
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
 
@@ -627,39 +774,143 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
+Package natbib Warning: Citation `Naiman1997' on page 8 undefined on input line
+ 176.
+
+[8]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
+
+
+Package natbib Warning: Citation `Peel2004' on page 9 undefined on input line 1
+81.
+
+
+Package natbib Warning: Citation `Rustomji2009' on page 9 undefined on input li
+ne 181.
+
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
+
+Package natbib Warning: Citation `Laliberte2010' on page 9 undefined on input l
+ine 183.
+
+
+Package natbib Warning: Citation `Mason2013' on page 9 undefined on input line 
+183.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1189) has occurred while \output is active []
 
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [9]
+
+Package natbib Warning: Citation `Jardine2015' on page 10 undefined on input li
+ne 185.
+
+
+Package natbib Warning: Citation `Lundholm2009' on page 10 undefined on input l
+ine 185.
+
+
+Package natbib Warning: Citation `Nilsson2000' on page 10 undefined on input li
+ne 190.
+
+
+Package natbib Warning: Citation `Hennessy2008' on page 10 undefined on input l
+ine 190.
+
+
+Package natbib Warning: Citation `Brooks2007' on page 10 undefined on input lin
+e 190.
+
+
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [10]
+
+Package natbib Warning: Citation `IPCC2014' on page 11 undefined on input line 
+193.
+
+
+Package natbib Warning: Citation `Capon2013' on page 11 undefined on input line
+ 193.
+
+
+Package natbib Warning: Citation `Poorter2003a' on page 11 undefined on input l
+ine 193.
+
+
+Package natbib Warning: Citation `Norby2011' on page 11 undefined on input line
+ 193.
+
+
+Package natbib Warning: Citation `Poorter2011' on page 11 undefined on input li
+ne 193.
+
+
+Package natbib Warning: Citation `Reich2014' on page 11 undefined on input line
+ 193.
+
+
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [11]
+
+Package natbib Warning: Citation `Megonigal2005' on page 12 undefined on input 
+line 197.
+
+
+Package natbib Warning: Citation `Shimono2012' on page 12 undefined on input li
+ne 197.
+
+
+Package natbib Warning: Citation `Arenque2014' on page 12 undefined on input li
+ne 197.
+
+
+Package natbib Warning: Citation `Reich2014' on page 12 undefined on input line
+ 197.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 
+Package natbib Warning: Citation `Hennessy2008' on page 12 undefined on input l
+ine 199.
+
+
+Package natbib Warning: Citation `stocker2013climate' on page 12 undefined on i
+nput line 199.
+
+
+Package natbib Warning: Citation `Lawson2015' on page 12 undefined on input lin
+e 199.
+
+
+Package natbib Warning: Citation `Lawson2015a' on page 12 undefined on input li
+ne 199.
+
+
 Underfull \vbox (badness 1189) has occurred while \output is active []
 
  [12]
+
+Package natbib Warning: Citation `Catford2012a' on page 13 undefined on input l
+ine 201.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
@@ -667,13 +918,62 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
+Package natbib Warning: Citation `Poff1997' on page 13 undefined on input line 
+204.
+
+
+Package natbib Warning: Citation `Nilsson2000' on page 13 undefined on input li
+ne 204.
+
+
+Package natbib Warning: Citation `Lytle2004' on page 13 undefined on input line
+ 204.
+
+
+Package natbib Warning: Citation `Catford2011' on page 13 undefined on input li
+ne 204.
+
+
+Package natbib Warning: Citation `Greet2012c' on page 13 undefined on input lin
+e 204.
+
+
+Package natbib Warning: Citation `Arthington2012' on page 13 undefined on input
+ line 206.
+
+
+Package natbib Warning: Citation `Poff2010a' on page 13 undefined on input line
+ 206.
+
+
+Package natbib Warning: Citation `Stromberg2007' on page 13 undefined on input 
+line 206.
+
+
+Package natbib Warning: Citation `Shafroth2010' on page 13 undefined on input l
+ine 206.
+
+
+Package natbib Warning: Citation `Richter2007' on page 13 undefined on input li
+ne 206.
+
+
+Package natbib Warning: Citation `Poff2010a' on page 13 undefined on input line
+ 206.
+
+
+Package natbib Warning: Citation `Meitzen2013' on page 13 undefined on input li
+ne 206.
+
+
+Package natbib Warning: Citation `McDonald2009' on page 13 undefined on input l
+ine 206.
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
+[13] [14]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\discussion1.bbl
 [15] [16
 
@@ -696,32 +996,41 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 219.
 
+
+Package natbib Warning: There were undefined citations.
+
 [24]
-(C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\discussion1.aux) )
+(C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\discussion1.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) )
 (\end occurred inside a group at level 2)
 
 ### simple group (level 2) entered at line 176 ({)
 ### simple group (level 1) entered at line 170 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6351 strings out of 493921
- 87245 string characters out of 3145277
- 178987 words of memory out of 3000000
- 9607 multiletter control sequences out of 15000+200000
- 9642 words of font info for 34 fonts, out of 3000000 for 9000
+ 6353 strings out of 493921
+ 87266 string characters out of 3145277
+ 177856 words of memory out of 3000000
+ 9608 multiletter control sequences out of 15000+200000
+ 9949 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,11n,24p,2428b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,11n,23p,2428b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:
-/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Pr
-ogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
-am Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on discussion1.pdf (24 pages, 11734675 bytes).
+m/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:
+/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Pr
+ogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Progr
+am Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program 
+Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on discussion1.pdf (24 pages, 11741265 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

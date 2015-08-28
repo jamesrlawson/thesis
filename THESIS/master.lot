@@ -1,29 +1,3 @@
 \gdef \the@ipfilectr {@-1}
 \addvspace {10pt}
 \gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-2}
-\addvspace {10pt}
-\contentsline {table}{\numberline {2.1}{\ignorespaces Description of hydrological variables.}}{34}
-\contentsline {table}{\numberline {2.2}{\ignorespaces Statistics for regression models.}}{40}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-3}
-\addvspace {10pt}
-\contentsline {table}{\numberline {3.1}{\ignorespaces Traits included in functional diversity analysis.}}{72}
-\contentsline {table}{\numberline {3.2}{\ignorespaces Description of hydrological variables.}}{75}
-\contentsline {table}{\numberline {3.3}{\ignorespaces Multiple regression models with associated fitting parameters.}}{88}
-\contentsline {table}{\numberline {3.4}{\ignorespaces Regression summary for Model 12.}}{89}
-\contentsline {table}{\numberline {3.5}{\ignorespaces Partioning of variance in FDis as explained by optimal hydrological and climatic models.}}{89}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-4}
-\addvspace {10pt}
-\contentsline {table}{\numberline {4.1}{\ignorespaces Description of hydrological variables.}}{123}
-\contentsline {table}{\numberline {4.2}{\ignorespaces Traits included in functional diversity analysis.}}{129}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-5}
-\addvspace {10pt}
-\contentsline {table}{\numberline {5.1}{\ignorespaces Biological and ecological attributes of study species.}}{173}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Treatment means, standard deviations and significance of ANOVA models.}}{179}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-6}
-\addvspace {10pt}
-\gdef \the@ipfilectr {}

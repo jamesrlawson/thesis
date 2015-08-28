@@ -24,6 +24,9 @@
 \usepackage[sectionbib]{chapterbib}
 \usepackage{amssymb}
 \usepackage{textcomp}
+\usepackage{pdfpages} % to include pdf documents (for example CV in the end)
+\usepackage{geometry}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -61,7 +64,9 @@
 %\setlrmargins{*}{*}{1.3}
 %  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
   \setheaderspaces{*}{*}{1.618}
+	%\geometry{voffset=10pt}
   \checkandfixthelayout % to make sure that the layout parameters make sense
+
 
 %\addtolength{\textwidth}{0cm}
 %\addtolength{\textheight}{1.5cm}
@@ -104,6 +109,15 @@
 
   \renewcommand{\absnamepos}{center}
   \setlength{\abstitleskip}{+0cm}
+	
+		\makeatletter
+	\newcommand{\unchapter}[1]{%
+		\begingroup
+		\let\@makechapterhead\@gobble % make \@makechapterhead do nothing
+		\chapter{#1}
+		\endgroup
+	}
+	\makeatother
 
 
 %% END Memoir customization
@@ -116,26 +130,24 @@
 
 \begin{document}
 \doublespacing
+\pagenumbering{roman}
 
 %%%%% TITLEPAGE 
 \begin{titlingpage}
 \centering
-
+\begin{onehalfspacing}
 \vspace{60mm} % vspace = vertical space between upper margin and main title
-\fontsize{20}{30} Environmental controls on the functional ecology of riparian plant communities \\
+\LARGE{\textbf{ENVIRONMENTAL CONTROLS ON THE FUNCTIONAL ECOLOGY OF RIPARIAN PLANT COMMUNITIES}} \\
 % fontsize can be adjusted to your gusto
+\vspace{45mm}
+\includegraphics[width=12cm,keepaspectratio=true]{river.jpg} \\
+\vspace{15mm}
+\large{\textbf{James R. Lawson}}\\
+\small{Department of Biological Sciences, Macquarie University}\\
 \vspace{30mm}
-\includegraphics[width=12cm,keepaspectratio=true]{river.jpg}
-
-\centering
-\large Thesis submitted to \vspace{2mm} \\ Name of University \\
-for the degree of \\ \textit{Doctor in Science} \\
-\vspace{10mm}
-presented by \vspace{2mm} \\
-Name Surname \\
-
-Date
-\end{titlingpage}
+\small{\textit{Thesis submitted for the degree of Doctor of Philosophy, September 2015}}\\
+\end{onehalfspacing}
+\end{tilingpage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
@@ -148,10 +160,31 @@ Date
 \setlength{\absparindent}{0mm}
 
 \begin{abstract} % Normally used for abstracts, but in this case here, we use it for citation and acknowledgments page. May not be the neatest way to do it, but it works. 
+\vspace{50mm}
+\begin{center}
+\textit{For Noel.}
+\end{center}
+\end{abstract}
+
+\clearpage % newpage
+\renewcommand{\abstractname}{Certificate}
+\setlength{\absparindent}{0mm}
+\begin{abstract} % Normally used for abstracts, but in this case here, we use it for citation and acknowledgments page. May not be the neatest way to do it, but it works. 
+This thesis constitutes an original contribution and has not been submitted, in any form, for a higher degree at any other university or institution. \\
+
+The work of others has been used to prepare some aspects of this thesis and their contribution is clearly acknowledged in each chapter. \\
+
+For Chapter 4, Cassandra James provided vegetation survey data, and Rachael Gallagher provided the majority of the trait data. I initiated and led the project, curated the trait dataset, performed the analysis and wrote the manuscript. \\
+
+All other projects described here were designed, carried out, analysed and prepared for publication by me. \\
+
+I certify that all information sources and literature used are cited in this thesis. \\
+
+The research presented here did not require the approval of the Macquarie University Ethics Review Committee. \\
+
+
 \begin{flushright} % align to the right of the page
-\vspace{150mm}
-Wissenschaft (...) ist die gemeinschaftliche Suche nach wahren, verlässlichen Erkenntnissen über die Welt einschliesslich unserer selbst.\\
-Manfred Spitzer, 2012
+James R. Lawson
 \end{flushright}
 \end{abstract}
 
@@ -162,27 +195,48 @@ Manfred Spitzer, 2012
 \setlength{\absparindent}{0mm}
 
 \begin{abstract}
-This thesis would not have been possible without the help and support of many kind, skilled and wonderful people. My profound thanks go to all of them. 
-\vspace{0.4cm}
+My heartfelt thanks goes to my supervisor Michelle Leishman. You made a leap of faith and took me under your wing. You were always kind but objective, never overbearing, and you showed me that it's possible to do great science and have a full life outside work at the same time. You have set an example that I will always strive to follow. \\
 
-Thanks
-\vspace{0.4cm}
+Thanks also to Kirstie Fryirs, my associate supervisor and friend, for sharing your enthusiasm and profound knowledge of river systems. \\
 
-Thanks
-\vspace{0.4cm}
+Rachael Gallagher, you met with me to chat about my project on one of my first days as a new PhD student. We were instant friends, and your mentorship and friendship has been invaluable to me. \\ 
 
-Thanks
-\vspace{0.4cm}
+Tanja Lenz, you taught me how to be a botanist, and became a dear friend. \\
 
-Thanks
-\vspace{0.4cm}
+Anthony Manea, my supervisor-brother, the trip wouldn't have been half what it was without you. \\
 
-Thanks
-\vspace{0.4cm}
+To PIREL members, past and present: Julia, Christina, Jess, Claire, Samiya, Laura. You made our lab a wonderful place to be in every day, and I am deeply grateful that I could have such kind and inspiring friends at work. Thanks also to many more wonderful people in the Department of Biological Sciences who gave advice or helped me. \\
 
-Thanks
+Thank you to Ashley Vey and Julia Atkinson who assisted in the field. I also wish to thank the New South Wales Parks and Wildlife Service and Parks Victoria and their dedicated officers who provided logistical advice and support. Thanks also to the landowners who were kind enough to let us work on their properties and invited us into their homes. \\
 
+Thanks to Ross Ulbricht, for helping me to understand n-dimensional space. \\
+
+Thanks to my dear friends Emma, Juli, Koos, Laura, Marina, Pato, Saskia, Tina and Toni, for the fantastic journey we have shared together. No matter where in the world you may be in the future, you will be in my heart. \\ 
+
+Thanks to Mum, Dad, Anna and Mike. I couldn't be who I am without you, and your love and support means everything to me. \\
+
+To Urvashi, my deepest gratitude. For working long hot days in the field and well into the night in our tent. For your endless belief in me. For your unfailing love. I could not have done this without you at my side. \\
+
+Finally, I am grateful for the financial support provided by Macquarie University, and the Australian Government for providing the stipend for my candidature. \\
 \end{abstract}
+
+%\clearpage
+
+%\renewcommand{\abstractname}{Abstract}
+%\setlength{\absparindent}{5mm}
+%\begin{abstract}
+%\addcontentsline{toc}{Abstract} % to add this chapter title to table of contents
+
+%Riparian ecosystems are biophysically complex, highly biodiverse and provide a broad array of essential ecosystem services to both humans and surrounding landscapes. Extensive catchment modification and alteration of natural river flows have resulted in widespread degradation of riparian ecosystems worldwide, with human population expansion and climatic change likely to exacerbate this situation over the next century. Basic information about the ecology of riparian plant communities in Australia is needed to inform riparian conservation and rehabilitation efforts.
+
+%In this thesis, I used a functional trait approach to investigate how hydrology and other environmental variables template the ecology of riparian plant communities in temperate and subtropical eastern Australia. Functional traits such as wood density or seed mass provide fundamental information about the ecological strategies of plants, and facilitate comparison of communities in terms of how component species respond to and influence their environment.
+
+%Chapters 2 and 3 present the findings of a field campaign across south-eastern Australia, and describe the role of fluvial disturbance and flow variability in determining functional trait composition and diversity in riparian plant communities. Chapter 4 investigates the role of environmental heterogeneity as a control on taxonomic and functional trait diversity in riparian plant communities of south-eastern Queensland, with an emphasis on the impacts of flow modification and land-use intensification. Chapter 5 describes a manipulative glasshouse experiment on the interactive effects of inundation and elevated atmospheric CO2 on gas exchange, growth, and functional traits of three riparian tree species native to south-eastern Australia. 
+
+%In south-eastern Australia (Chapters 2 and 3), community wood density and functional trait diversity increased strongly with metrics describing flood magnitude and flow heterogeneity. In south-eastern Queensland (Chapter 4), species richness decreased and abundance of exotic species increased as hydrological conditions became more heterogeneous. Flow homogenisation by dams increased species richness, contrary to expectation. Functional trait diversity was associated with only a limited set of hydrological metrics, and was not influenced by flow modification or catchment land use. I found differing effects of atmospheric CO\textsubscript{2} concentration and waterlogging status on growth, gas exchange and functional traits between species (Chapter 5).
+
+%This work highlights the importance of natural hydrological heterogeneity and anthropogenic alteration of flows availability as determinants of diversity in riparian vegetation communities.
+%\end{abstract}
 
 
 \cleardoublepage
@@ -191,34 +245,37 @@ Thanks
 \tableofcontents* % the asterisk means that the contents itself isn't put into the ToC.
 \clearpage % new page
 
-\listoffigures* % this only works if all figures have been referenced with \label{}
-\clearpage
+%\listoffigures* % this only works if all figures have been referenced with \label{}
+%\clearpage
 
-\listoftables* % this only works if all tables have been referenced with \label{}
-\clearpage
+%\listoftables* % this only works if all tables have been referenced with \label{}
+%\clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % MAIN BODY OF THESIS
 \mainmatter
-\chapter*[Summaries]{Summaries} % /chapter is a command used on the documentclass book or memoir
-\addcontentsline{toc}{chapter}{Summaries} % to add this chapter title to table of contents
+%\pagenumbering{arabic}
+\chapter[Abstract]{Abstract} % /chapter is a command used on the documentclass book or memoir
+%\unchapter*[Abstract]{Abstract}
+%\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
 
-\clearpage
-\renewcommand{\abstractname}{Summary}
+%\clearpage
+\renewcommand{\abstractname}{Abstract}
 \setlength{\absparindent}{5mm}
 
+
 \begin{abstract}
+%\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
 Riparian ecosystems are biophysically complex, highly biodiverse and provide a broad array of essential ecosystem services to both humans and surrounding landscapes. Extensive catchment modification and alteration of natural river flows have resulted in widespread degradation of riparian ecosystems worldwide, with human population expansion and climatic change likely to exacerbate this situation over the next century. Basic information about the ecology of riparian plant communities in Australia is needed to inform riparian conservation and rehabilitation efforts.
 
 In this thesis, I used a functional trait approach to investigate how hydrology and other environmental variables template the ecology of riparian plant communities in temperate and subtropical eastern Australia. Functional traits such as wood density or seed mass provide fundamental information about the ecological strategies of plants, and facilitate comparison of communities in terms of how component species respond to and influence their environment.
 
-Chapters 2 and 3 present the findings of a field campaign across south-eastern Australia, and describe the role of fluvial disturbance and flow variability in determining functional trait composition and diversity in riparian plant communities. Chapter 4 investigates the role of environmental heterogeneity as a control on taxonomic and functional trait diversity in riparian plant communities of south-eastern Queensland, with an emphasis on the impacts of flow modification and land-use intensification. Chapter 5 describes a manipulative glasshouse experiment on the interactive effects of inundation and elevated atmospheric CO2 on gas exchange, growth, and functional traits of three riparian tree species native to south-eastern Australia. 
+Chapters 2 and 3 present the findings of a field campaign across south-eastern Australia, and describe the role of fluvial disturbance and flow variability in determining functional trait composition and diversity in riparian plant communities. Chapter 4 investigates the role of environmental heterogeneity as a control on taxonomic and functional trait diversity in riparian plant communities of south-eastern Queensland, with an emphasis on the impacts of flow modification and land-use intensification. Chapter 5 describes a manipulative glasshouse experiment on the interactive effects of inundation and elevated atmospheric CO\textsubscript{2} on gas exchange, growth, and functional traits of three riparian tree species native to south-eastern Australia. 
 
 In south-eastern Australia (Chapters 2 and 3), community wood density and functional trait diversity increased strongly with metrics describing flood magnitude and flow heterogeneity. In south-eastern Queensland (Chapter 4), species richness decreased and abundance of exotic species increased as hydrological conditions became more heterogeneous. Flow homogenisation by dams increased species richness, contrary to expectation. Functional trait diversity was associated with only a limited set of hydrological metrics, and was not influenced by flow modification or catchment land use. I found differing effects of atmospheric CO\textsubscript{2} concentration and waterlogging status on growth, gas exchange and functional traits between species (Chapter 5).
 
 This work highlights the importance of natural hydrological heterogeneity and anthropogenic alteration of flows availability as determinants of diversity in riparian vegetation communities.
 \end{abstract}
-
 \clearpage
 
 
@@ -229,41 +286,61 @@ This work highlights the importance of natural hydrological heterogeneity and an
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 2
-\include{wooddensity}
+%\include{wooddensity}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 3
-\include{functionaldiversity}
+%\include{functionaldiversity}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 4
-\include{SEQLD}
+%\include{SEQLD}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 5
-\include{glasshouse}
+%\include{glasshouse}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CHAPTER 6
-\include{discussion}
+%\include{discussion}
 \clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % BACKMATTER
 % Annexes
-%\backmatter
+\backmatter
 
-%\chapter*[Annex]{Annex}
+%\include{WDsupp}
+\clearpage
 
-%\include{Annex1_ListofPub} % This can be a pdf-file
+%\include{fundivsupp1}
+\clearpage
 
-%\include{Annex2_Presentations}  % This can be a pdf-file
+%\include{fundivsupp2}
+\clearpage
 
-%\include{Annex3_CV}  % This can be a pdf-file
+%\include{fundivsupp3}
+\clearpage
+
+%\include{SEQLDsupp}
+\clearpage
+
+%\include{SEQLDsuppb}
+\clearpage
+
+%\chapter[Appendix 3c]{Appendix 3c (Supplementary to Chapter 4)}
+%\includepdf[pages=-]{Ch4Bibliography_.pdf}
+\clearpage
+
+%\includepdf[pages=-]{lawson2015a.pdf}
+\clearpage
+
+%\includepdf[pages=-]{lawson2015b.pdf}
+\clearpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
