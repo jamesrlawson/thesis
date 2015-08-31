@@ -1,0 +1,362 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Preamble and packages
+
+\documentclass[openright,12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+\usepackage{caption}
+\usepackage{url} 
+\usepackage[normalem]{ulem}
+\useunder{\uline}{\ul}{}
+\usepackage[sectionbib]{chapterbib}
+\usepackage{amssymb}
+\usepackage{textcomp}
+\usepackage{pdfpages} % to include pdf documents (for example CV in the end)
+\usepackage{geometry}
+\usepackage{titlesec}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% defines new column type
+\newcolumntype{Z}{$$>$${\raggedright\arraybackslash}X}
+
+% add a little vertical padding to cramped tables
+\setlength{\extrarowheight}{2pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Examples of Memoir customization
+%%% enable, disable or adjust these as desired
+
+%%% PAGE DIMENSIONS
+% a4paper is by default 210mm wide and 279 mm wide
+
+% default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
+
+\usepackage[a4paper,width=150mm,top=25mm,bottom=15mm, bindingoffset=3mm]{geometry}
+
+
+% size of the text area
+ % \settrims{0pt}{0pt}
+ % \settypeblocksize{230mm}{147mm}{*}
+%  \setlength{\spinemargin}{27mm}
+%  \setlength{\foremargin}{36mm}
+%	  \setlength{\spinemargin}{35mm}
+%  \setlength{\foremargin}{27mm}
+
+% \setulmargins{45mm}{30mm}{*}
+%\setulmargins{35mm}{45mm}{*}
+%\setlength{\footskip}{3.0\baselineskip}
+%\setlength{\marginparwidth}{0mm}
+%\setlength{\marginparsep}{0mm}
+%\setlength{\textwidth}{140mm}
+%\settrimmedsize{0.9\stockheight}{0.9\stockwidth}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+%\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
+ % \setulmargins{*}{*}{1.618} % 50pt upper margins
+%\setlrmargins{*}{*}{1.3}
+%  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+  \setheaderspaces{*}{*}{1.618}
+	%\geometry{voffset=10pt}
+  %\checkandfixthelayout % to make sure that the layout parameters make sense
+
+	\raggedbottom
+%\titlespacing*{\chapter}{0pt}{-50pt}{60pt}
+%\titleformat{\chapter}[frame]{}{\thechapter}{0pt}{}
+%\titlespacing*{\chapter}{0cm}{-\topskip}{0pt}[0pt]
+
+%\addtolength{\textwidth}{0cm}
+%\addtolength{\textheight}{1.5cm}
+%\addtolength{\textwidth}{-2cm}
+%\addtolength{\textheight}{+0.5cm}
+
+%%% \maketitle CUSTOMISATION
+% For more than trivial changes, you may as well do it yourself in a titlepage environment
+%\pretitle{\begin{center}\sffamily\Huge\MakeUppercase}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% ToC (table of contents) APPEARANCE
+  \maxtocdepth{subsection} % include subsections
+%\renewcommand{\cftchapterpagefont}{}
+%\renewcommand{\cftchapterfont}{}     % no bold!
+
+%%% HEADERS & FOOTERS
+  \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
+	\clearmark{section}
+	
+	\makeatletter
+\createmark{chapter}{both}{shownumber}{\@chapapp\ }{. \ }  % display Chapter names in headers only
+\makeatother
+
+%%% CHAPTERS
+  \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+
+  \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+  \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+	
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
+
+%%% TABLES
+  \newcolumntype{C}[1]{$$>$${\centering}m{#1}} % defines the default layout of the tables (C$=$centerling, L$=$left)
+  \newcolumntype{L}[1]{$$>$${\centering}m{#1}}
+
+%%% SECTIONS
+%\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+  \maxsecnumdepth{section} % number subsections
+
+  \setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+  \setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+%%% Abstract
+  \setlength{\absleftindent}{0mm}
+  \setlength{\absrightindent}{0mm}
+
+  \renewcommand{\absnamepos}{center}
+  \setlength{\abstitleskip}{+0cm}
+	
+
+
+
+%% END Memoir customization
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEGIN DOCUMENT
+
+\begin{document}
+\doublespacing
+\pagenumbering{roman}
+
+%%%%% TITLEPAGE 
+\begin{titlingpage}
+\centering
+\begin{onehalfspacing}
+\vspace{40mm} % vspace = vertical space between upper margin and main title
+\LARGE{\textbf{ENVIRONMENTAL CONTROLS ON THE FUNCTIONAL ECOLOGY OF RIPARIAN PLANT COMMUNITIES}} \\
+% fontsize can be adjusted to your gusto
+\vspace{25mm}
+\includegraphics[width=12cm,keepaspectratio=true]{flood.jpg} \\
+\vspace{15mm}
+\large{\textbf{James R. Lawson}}\\
+\small{Department of Biological Sciences, Macquarie University}\\
+\vspace{20mm}
+\small{\textit{Thesis submitted for the degree of Doctor of Philosophy, September 2015}}\\
+\end{onehalfspacing}
+\end{titlingpage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+% FRONTMATTER
+% includes citation, acknowledgements, Table of contents, table of figures
+% page numbering with roman numbers 
+\frontmatter
+\clearpage % newpage
+\renewcommand{\abstractname}{}
+\setlength{\absparindent}{0mm}
+
+\begin{abstract} % Normally used for abstracts, but in this case here, we use it for citation and acknowledgments page. May not be the neatest way to do it, but it works. 
+\vspace{50mm}
+\begin{center}
+\textit{For Noel.}
+\end{center}
+\end{abstract}
+
+\clearpage % newpage
+\renewcommand{\abstractname}{Certificate}
+\setlength{\absparindent}{0mm}
+\begin{abstract} % Normally used for abstracts, but in this case here, we use it for citation and acknowledgments page. May not be the neatest way to do it, but it works. 
+This thesis constitutes an original contribution and has not been submitted, in any form, for a higher degree at any other university or institution. \\
+
+The work of others has been used to prepare some aspects of this thesis and their contribution is clearly acknowledged in each chapter. \\
+
+For Chapter 4, Cassandra James provided vegetation survey data, and Rachael Gallagher provided the majority of the trait data. I initiated and led the project, curated the trait dataset, performed the analysis and wrote the manuscript. \\
+
+All other projects described here were designed, carried out, analysed and prepared for publication by me. \\
+
+I certify that all information sources and literature used are cited in this thesis. \\
+
+The research presented here did not require the approval of the Macquarie University Ethics Review Committee. \\
+
+
+\begin{flushright} % align to the right of the page
+James R. Lawson
+\end{flushright}
+\end{abstract}
+
+\cleardoublepage % ends the page and makes sure that all tables, figures etc up to this point are printed before juming to a new page. This is especially useful when floating figures are included.
+
+
+\renewcommand{\abstractname}{Acknowledgements} 
+\setlength{\absparindent}{0mm}
+
+\begin{abstract}
+My heartfelt thanks goes to my supervisor Michelle Leishman. You made a leap of faith and took me under your wing. You were always kind but objective, never overbearing, and you showed me that it's possible to do great science and have a full life outside work at the same time. You have set an example that I will always strive to follow. \\
+
+Thanks also to Kirstie Fryirs, my associate supervisor and friend, for sharing your enthusiasm and profound knowledge of river systems. \\
+
+Rachael Gallagher, you met with me to chat about my project on one of my first days as a new PhD student. We were instant friends, and your mentorship and friendship has been invaluable to me. \\ 
+
+Tanja Lenz, you taught me how to be a botanist, and became a dear friend. \\
+
+Anthony Manea, my supervisor-brother, the trip wouldn't have been half what it was without you. \\
+
+To PIREL members, past and present: Julia, Christina, Jess, Claire, Samiya, Laura. You made our lab a wonderful place to be in every day, and I am deeply grateful that I could have such kind and inspiring friends at work. Thanks also to many more wonderful people in the Department of Biological Sciences who gave advice or helped me. \\
+
+Thank you to Ashley Vey and Julia Atkinson who assisted in the field. I also wish to thank the New South Wales Parks and Wildlife Service and Parks Victoria and their dedicated officers who provided logistical advice and support. Thanks also to the landowners who were kind enough to let us work on their properties and invited us into their homes. \\
+
+Thanks to Ross Ulbricht, for helping me to understand n-dimensional space. \\
+
+Thanks to my friends Emma, Juli, Koos, Laura, Marina, Pato, Saskia, Tina and Toni, for the fantastic journey we have shared together. No matter where in the world you may be in the future, you will be in my heart. \\ 
+
+Thanks to Mum, Dad, Anna and Mike. I couldn't be who I am without you, and your love and support means everything to me. \\
+
+To Urvashi, my deepest gratitude. For working long hot days in the field and well into the night in our tent. For your endless belief in me. For your unfailing love. I could not have done this without you at my side. \\
+
+Finally, I am grateful for the financial support provided by Macquarie University, and the Australian Government for providing the stipend for my candidature. \\
+\end{abstract}
+
+%\clearpage
+
+%\renewcommand{\abstractname}{Abstract}
+%\setlength{\absparindent}{5mm}
+%\begin{abstract}
+%\addcontentsline{toc}{Abstract} % to add this chapter title to table of contents
+
+%Riparian ecosystems are biophysically complex, highly biodiverse and provide a broad array of essential ecosystem services to both humans and surrounding landscapes. Extensive catchment modification and alteration of natural river flows have resulted in widespread degradation of riparian ecosystems worldwide, with human population expansion and climatic change likely to exacerbate this situation over the next century. Basic information about the ecology of riparian plant communities in Australia is needed to inform riparian conservation and rehabilitation efforts.
+
+%In this thesis, I used a functional trait approach to investigate how hydrology and other environmental variables template the ecology of riparian plant communities in temperate and subtropical eastern Australia. Functional traits such as wood density or seed mass provide fundamental information about the ecological strategies of plants, and facilitate comparison of communities in terms of how component species respond to and influence their environment.
+
+%Chapters 2 and 3 present the findings of a field campaign across south-eastern Australia, and describe the role of fluvial disturbance and flow variability in determining functional trait composition and diversity in riparian plant communities. Chapter 4 investigates the role of environmental heterogeneity as a control on taxonomic and functional trait diversity in riparian plant communities of south-eastern Queensland, with an emphasis on the impacts of flow modification and land-use intensification. Chapter 5 describes a manipulative glasshouse experiment on the interactive effects of inundation and elevated atmospheric CO2 on gas exchange, growth, and functional traits of three riparian tree species native to south-eastern Australia. 
+
+%In south-eastern Australia (Chapters 2 and 3), community wood density and functional trait diversity increased strongly with metrics describing flood magnitude and flow heterogeneity. In south-eastern Queensland (Chapter 4), species richness decreased and abundance of exotic species increased as hydrological conditions became more heterogeneous. Flow homogenisation by dams increased species richness, contrary to expectation. Functional trait diversity was associated with only a limited set of hydrological metrics, and was not influenced by flow modification or catchment land use. I found differing effects of atmospheric CO\textsubscript{2} concentration and waterlogging status on growth, gas exchange and functional traits between species (Chapter 5).
+
+%This work highlights the importance of natural hydrological heterogeneity and anthropogenic alteration of flows availability as determinants of diversity in riparian vegetation communities.
+%\end{abstract}
+
+
+\cleardoublepage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\tableofcontents* % the asterisk means that the contents itself isn't put into the ToC.
+\clearpage % new page
+
+%\listoffigures* % this only works if all figures have been referenced with \label{}
+%\clearpage
+
+%\listoftables* % this only works if all tables have been referenced with \label{}
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MAIN BODY OF THESIS
+\mainmatter
+%\pagenumbering{arabic}
+\chapter*[Abstract]{Abstract} % /chapter is a command used on the documentclass book or memoir
+%\unchapter*[Abstract]{Abstract}
+%\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
+
+%\clearpage
+%\renewcommand{\abstractname}{}
+%\setlength{\absparindent}{5mm}
+\renewcommand{\abstractname}{\vspace{-\baselineskip}}
+
+\begin{abstract}
+\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
+Riparian ecosystems are biophysically complex, highly biodiverse and provide a broad array of essential ecosystem services to both humans and surrounding landscapes. Extensive catchment modification and alteration of natural river flows have resulted in widespread degradation of riparian ecosystems worldwide, with human population expansion and climatic change likely to exacerbate this situation over the next century. Basic information about the ecology of riparian plant communities in Australia is needed to inform riparian conservation and rehabilitation efforts.
+
+In this thesis, I used a functional trait approach to investigate how hydrology and other environmental variables template the ecology of riparian plant communities in temperate and subtropical eastern Australia. Functional traits such as wood density or seed mass provide fundamental information about the ecological strategies of plants, and facilitate comparison of communities in terms of how component species respond to and influence their environment.
+
+Chapters 2 and 3 present the findings of a field campaign across south-eastern Australia, and describe the role of fluvial disturbance and flow variability in determining functional trait composition and diversity in riparian plant communities. Chapter 4 investigates the role of environmental heterogeneity as a control on taxonomic and functional trait diversity in riparian plant communities of south-eastern Queensland, with an emphasis on the impacts of flow modification and land-use intensification. Chapter 5 describes a manipulative glasshouse experiment on the interactive effects of inundation and elevated atmospheric CO\textsubscript{2} on gas exchange, growth, and functional traits of three riparian tree species native to south-eastern Australia. 
+
+In south-eastern Australia (Chapters 2 and 3), community wood density and functional trait diversity increased strongly with metrics describing flood magnitude and flow heterogeneity. In south-eastern Queensland (Chapter 4), species richness decreased and abundance of exotic species increased as hydrological conditions became more heterogeneous. Flow homogenisation by dams increased species richness, contrary to expectation. Functional trait diversity was associated with only a limited set of hydrological metrics, and was not influenced by flow modification or catchment land use. I found differing effects of atmospheric CO\textsubscript{2} concentration and waterlogging status on growth, gas exchange and functional traits between species (Chapter 5).
+
+This work highlights the importance of natural hydrological heterogeneity and anthropogenic alteration of flows availability as determinants of diversity in riparian vegetation communities.
+\end{abstract}
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 1
+\include{introduction} % this includes a separate .tex file called Ch1_Intro. This way, individual chapters can be kept in separate files. 
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 2
+\include{wooddensity}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 3
+\include{functionaldiversity}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 4
+\include{SEQLD}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 5
+\include{glasshouse}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHAPTER 6
+\include{discussion}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BACKMATTER
+% Annexes
+\backmatter
+
+\include{WDsupp}
+\clearpage
+
+\include{fundivsupp1}
+\clearpage
+
+\include{fundivsupp2}
+\clearpage
+
+\include{fundivsupp3}
+\clearpage
+
+\include{SEQLDsupp}
+\clearpage
+
+\include{SEQLDsuppb}
+\clearpage
+
+\chapter[Appendix 3c]{Appendix 3c (Supplementary to Chapter 4)}
+\includepdf[pages=-]{Ch4Bibliography_.pdf}
+\clearpage
+
+\includepdf[pages=-]{lawson2015a.pdf}
+\clearpage
+
+\includepdf[pages=-]{lawson2015b.pdf}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

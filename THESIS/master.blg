@@ -24,11 +24,11 @@ Illegal, another \bibdata command---line 149 of file functionaldiversity.aux
  :         {library.bib}
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: SEQLD.aux
-Illegal, another \bibstyle command---line 134 of file SEQLD.aux
+Illegal, another \bibstyle command---line 136 of file SEQLD.aux
  : \bibstyle
  :          {apalike}
 I'm skipping whatever remains of this command
-Illegal, another \bibdata command---line 135 of file SEQLD.aux
+Illegal, another \bibdata command---line 137 of file SEQLD.aux
  : \bibdata
  :         {library.bib}
 I'm skipping whatever remains of this command

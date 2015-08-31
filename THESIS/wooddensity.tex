@@ -54,18 +54,18 @@ Proportional cover of all woody species was assessed within three strata: shrub 
 
 Wood samples were collected from woody species present within the plot at $>$1\% cover in shrub, sub canopy or canopy strata, and which had trunks robust enough to core. A 100 mm wood sample from each of two individuals per species was extracted using a 5.15 mm diameter, triple threaded increment borer (Haglöf Sweden). Samples were extracted from the base of the main trunk, 10 cm above the leaf litter level, and air-dried at 20-45 \textsuperscript{o}C. On return to the laboratory, samples were rehydrated to saturation in deionised water and 10 mm sections of mature heartwood were cut flush with a razor, using visual inspection of vessel occlusion as an indicator of maturity. Sections were measured (x, y and z dimensions) to the nearest 0.01 mm with callipers (Mitutoyo America, Illinois USA) to calculate wet volume, then oven-dried at 80 \textsuperscript{o}C for 48 hours and weighed using a microbalance (Mettler Toledo, Greifensee, Switzerland). Wood density was then calculated as the ratio of oven dry mass to wet volume (g/cm\textsuperscript{3}).
 
-Species which were present in plots but which could not be cored due to small size were assigned averaged values of wood density from the same species measured at other sites, where possible. Remaining species were assigned values from peer-reviewed literature sources. Appendix S1 contains further details about the dataset, including data density information.
+Species which were present in plots but which could not be cored due to small size were assigned averaged values of wood density from the same species measured at other sites, where possible. Remaining species were assigned values from peer-reviewed literature sources. Appendix 1a contains further details about the dataset, including data density information.
 
 \subsection{Hydrological analysis}
 Daily discharge data pertaining to each field site were collated from the PINNENA CW 10.1 database (NSW Office of Water, Department of Primary Industries) and the NSW Office of Water Continuous Water Monitoring network website \url{(http://realtimedata.water.nsw.gov.au/water.stm)} for NSW sites, and the Victoria State Government’s Water Measurement Information System website \url{(http://data.water.vic.gov.au/monitoring.htm)} for Victorian sites. Where possible, 30 year time series were obtained, spanning years 1983 – 2012. Records were truncated for three sites, spanning 15, 19 and 28 years. Missing data were approximated using the Time Series Manager module in River Analysis Package \citep{marsh2003river}. Consistency of the resulting outputs were checked by visual inspection of hydrographs. For Mammy Johnson’s River, Mann River, Sportsman’s Creek and Wallagaraugh River, multiple linear regression was chosen as the most appropriate method for estimating missing data values. Linear interpolation was used for Jilliby Creek data. Daily discharge data for the remaining sites were complete.
 
-A set of 24 hydrological metrics was pared from the full set described by \citet{Kennard2010}.  These metrics were chosen to be representative of variability in high flow magnitude and frequency as well as predictability and consistency of water availability in the riparian environment (see Table \ref{tab:Ch2_T1} for a description). We used the Time Series Analysis module in River Analysis Package to generate these metrics. Means and coefficients of variation were calculated for most metrics to indicate central tendency as well as spread within the data. Low and high spell metrics were thresholded at the 5th and 95th percentiles, respectively, with a flood independence criterion of 7 days between peak events. Twenty year average return interval (ARI) flood magnitude was also calculated with a flood independence value of 7 days between peaks. Colwell's Indices were calculated using mean flow values over monthly time periods and a class distribution of 11 flow classes. Metrics of flow magnitude which had units ML / day were normalised by mean daily flow to allow for comparison between different sizes of river. Some metrics were correlated (see Appendix S1 for correlation analysis).
+A set of 24 hydrological metrics was pared from the full set described by \citet{Kennard2010}.  These metrics were chosen to be representative of variability in high flow magnitude and frequency as well as predictability and consistency of water availability in the riparian environment (see Table \ref{tab:Ch2_T1} for a description). We used the Time Series Analysis module in River Analysis Package to generate these metrics. Means and coefficients of variation were calculated for most metrics to indicate central tendency as well as spread within the data. Low and high spell metrics were thresholded at the 5th and 95th percentiles, respectively, with a flood independence criterion of 7 days between peak events. Twenty year average return interval (ARI) flood magnitude was also calculated with a flood independence value of 7 days between peaks. Colwell's Indices were calculated using mean flow values over monthly time periods and a class distribution of 11 flow classes. Metrics of flow magnitude which had units ML / day were normalised by mean daily flow to allow for comparison between different sizes of river. Some metrics were correlated (see Appendix 1a for correlation analysis).
 
 
 \begin{landscape}
 \begin{tiny}
 {\tabulinesep=1.2mm
-\begin{longtabu} to \linewidth {m{5.5cm}m{4cm}m{2.5cm}X} 
+\begin{longtabu} to \linewidth {m{5.5cm}m{3.7cm}m{2.0cm}X} 
 \caption[Description of hydrological variables.]{Hydrological parameters used as metrics of variability in high flow magnitude and frequency and predictability and consistency of water availability in the riparian environment. * - normalised by mean daily flow (ML/day)} \\
 \label{tab:Ch2_T1} \\
 \hline
@@ -91,30 +91,30 @@ A set of 24 hydrological metrics was pared from the full set described by \citet
 %\endlastfoot
 \hline
 \multicolumn{4}{l}{\textbf{Flood frequency and magnitude}} \\
-Mean magnitude of high spells * & HSPeak & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{High spells are periods of flow above the 95th percentile on the flow duration curve. We were interested in how frequently these conditions occurred over the time series as well as the mean magnitude of peak flows during these periods. 20 year average return interval (ARI) floods are extreme flow events that have the potential to re-work the fluvial landscape. Together, these metrics indicate the intensity and frequency of mechanical stress experienced by plants in the riparian zone.}} \\
+Mean magnitude of high spells * & HSPeak & dimensionless & \multirow{1}{*}{\parbox{8.2cm}{High spells are periods of flow above the 95th percentile on the flow duration curve. We were interested in how frequently these conditions occurred over the time series as well as the mean magnitude of peak flows during these periods. 20 year average return interval (ARI) floods are extreme flow events that have the potential to re-work the fluvial landscape. Together, these metrics indicate the intensity and frequency of mechanical stress experienced by plants in the riparian zone.}} \\
 CV of all years' mean high spell magnitude & CVAnnHSPeak & dimensionless &  \\
 20 year ARI flood magnitude * & AS20YrARI & dimensionless &  \\
 Mean of all years' number of high spells & MDFAnnHSNum & year\textsuperscript{-1} &  \\
-CV of all years' number of high spells & CVAnnHSNum & dimensionless &  \\[0.4cm]
+CV of all years' number of high spells & CVAnnHSNum & dimensionless &  \\[0.6cm]
 %\tabularnewline
 \hline
 \multicolumn{4}{l}{\textbf{Rise and fall rates}} \\
-Mean rate of rise * & MRateRise & day\textsuperscript{-1} & \multirow{1}{*}{\parbox{9.5cm}{Rise and fall rates represent flow ‘flashiness’. Fast rise rates are associated with flood waves and intense mechanical stress to plant stems. Slow fall rates keep exposed substrate moist for longer periods, which may produce favourable conditions for germination. Historical discharge records are unfortunately limited to daily resolution, so are unable to fully capture flood discharge shapes. High variability between years indicates the occurrence of extreme events which may not have been captured by the mean value.}} \\
+Mean rate of rise * & MRateRise & day\textsuperscript{-1} & \multirow{1}{*}{\parbox{8.2cm}{Rise and fall rates represent flow ‘flashiness’. Fast rise rates are associated with flood waves and intense mechanical stress to plant stems. Slow fall rates keep exposed substrate moist for longer periods, which may produce favourable conditions for germination. Historical discharge records are unfortunately limited to daily resolution, so are unable to fully capture flood discharge shapes. High variability between years indicates the occurrence of extreme events which may not have been captured by the mean value.}} \\
 Mean rate of fall * & MRateFall & day\textsuperscript{-1} &  \\
 CV of all years' mean rate of rise & CVAnnMRateRise & dimensionless &  \\
-CV of all years' mean rate of fall & CVAnnMRateFall & dimensionless &  \\[0.9cm] 
+CV of all years' mean rate of fall & CVAnnMRateFall & dimensionless &  \\[1.1cm] 
 %\tabularnewline
 %\tabularnewline
 \hline
 \newpage
 \multicolumn{4}{l}{\textbf{Baseflow index}} \\
-Baseflow index & BFI & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{Baseflow index is calculated using the ratio of flow during average conditions to total flow. It is a useful metric of consistency of water availability, in that it is maximised when average flow conditions dominate, and minimised when total flow is dominated by above average flow events. Intra-annual variability in baseflow index measures how predictable baseflow index is between years.}} \\
-CV of all years' Baseflow Index & CVAnnBFI & dimensionless &  \\[1cm]
+Baseflow index & BFI & dimensionless & \multirow{1}{*}{\parbox{8.2cm}{Baseflow index is calculated using the ratio of flow during average conditions to total flow. It is a useful metric of consistency of water availability, in that it is maximised when average flow conditions dominate, and minimised when total flow is dominated by above average flow events. Intra-annual variability in baseflow index measures how predictable baseflow index is between years.}} \\
+CV of all years' Baseflow Index & CVAnnBFI & dimensionless &  \\[1.2cm]
 %& & & & \\
 %\tabularnewline
 \hline
 \multicolumn{4}{l}{\textbf{Low flow magnitude, frequency and duration}} \\
-CV of all years' mean low spell magnitude & LSPeak & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{Low spells are periods of flow below the 5th percentile on the flow duration curve. We were interested in how frequently these conditions occurred over the time series as well as the mean and interannual variability in magnitude and duration of low flows.}} \\
+CV of all years' mean low spell magnitude & LSPeak & dimensionless & \multirow{1}{*}{\parbox{8.2cm}{Low spells are periods of flow below the 5th percentile on the flow duration curve. We were interested in how frequently these conditions occurred over the time series as well as the mean and interannual variability in magnitude and duration of low flows.}} \\
 Mean magnitude of low spells & CVAnnLSPeak & dimensionless &  \\
 Mean of all years' number of low spells & MDFAnnLSNum & year\textsuperscript{-1} &  \\
 CV of all years' number of low spells & CVAnnLSNum & dimensionless &  \\
@@ -127,10 +127,10 @@ CV of all years' days per year under 0.1ML/day flow & CVAnnMDFAnnUnder0.1 & dime
 \hline
 \newpage
 \multicolumn{4}{l}{\textbf{Colwell's indices}} \\
-Constancy of monthly mean daily flow & C\_MDFM & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{Colwell's indices provide a measure of the seasonal predictability of flow events and therefore water availability within the riparian zone. Constancy (C) measures uniformity of flow across seasons, and is maximised when flow conditions do not differ between seasons. Contingency (M) is a measure of interannual uniformity in seasonal flow patterns, and is maximized when seasonal patterns of flow are consistent between years.  We generated Colwell's indices for both average flow conditions and minimum flows conditions.}} \\
+Constancy of monthly mean daily flow & C\_MDFM & dimensionless & \multirow{1}{*}{\parbox{8.2cm}{Colwell's indices provide a measure of the seasonal predictability of flow events and therefore water availability within the riparian zone. Constancy (C) measures uniformity of flow across seasons, and is maximised when flow conditions do not differ between seasons. Contingency (M) is a measure of interannual uniformity in seasonal flow patterns, and is maximized when seasonal patterns of flow are consistent between years.  We generated Colwell's indices for both average flow conditions and minimum flows conditions.}} \\
 Contingency of monthly mean daily flow & M\_MDFM & dimensionless &  \\
 Constancy based on monthly minimum daily flow & C\_MinM & dimensionless &  \\
-Contingency based on monthly minimum daily flow & M\_MinM & dimensionless & \\[0.7cm]
+Contingency based on monthly minimum daily flow & M\_MinM & dimensionless & \\[0.9cm]
 %\tabularnewline
 \hline
 \end{longtabu}}
@@ -139,7 +139,7 @@ Contingency based on monthly minimum daily flow & M\_MinM & dimensionless & \\[0
 \clearpage
 
 \subsection{Wood density analysis}
-All statistical analyses were performed using the R statistical programming environment \citep{RCoreTeam2015}. The R code used for these analyses can be retrieved from url{https://github.com/jamesrlawson/riparian-WD/tree/master/scripts}. Statistical significance was interpreted at alpha = 0.05. 
+All statistical analyses were performed using the R statistical programming environment \citep{RCoreTeam2015}. The R code used for these analyses can be retrieved from \url{https://github.com/jamesrlawson/riparian-WD/tree/master/scripts}. Statistical significance was interpreted at alpha = 0.05. 
 
 \subsubsection{Characterising community-level variation in wood density}
 To investigate variation in wood density across hydrological gradients at the community level, community weighted means (CWM) of wood density were generated for each site. Species relative abundance was compiled from records of percent cover at the shrub (1-4 m), sub canopy (4-8 m) and canopy ($>$8 m) strata.  Wood density values were then weighted according to species relative abundance and summed to produce the CWM. This method integrates particular trait values with their real world abundance as a measure of ‘performance’, while providing a useful reduction in data dimensionality. Wood density varies only over one order of magnitude, while exhibiting relatively high intra-species plasticity. As such, CWMs work well for environmental gradient studies of wood density because the focus is maintained on the functional characteristics of the community, rather than on species \textit{per se}.

@@ -26,6 +26,7 @@
 \usepackage{textcomp}
 \usepackage{pdfpages} % to include pdf documents (for example CV in the end)
 \usepackage{geometry}
+\usepackage{titlesec}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -46,12 +47,20 @@
 
 % default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
 
+\usepackage[a4paper,width=150mm,top=25mm,bottom=15mm, bindingoffset=3mm]{geometry}
+
+
 % size of the text area
-  \settrims{0pt}{0pt}
-  \settypeblocksize{230mm}{147mm}{*}
-  \setlength{\spinemargin}{27mm}
-  \setlength{\foremargin}{36mm}
+ % \settrims{0pt}{0pt}
+ % \settypeblocksize{230mm}{147mm}{*}
+%  \setlength{\spinemargin}{27mm}
+%  \setlength{\foremargin}{36mm}
+%	  \setlength{\spinemargin}{35mm}
+%  \setlength{\foremargin}{27mm}
+
+% \setulmargins{45mm}{30mm}{*}
 %\setulmargins{35mm}{45mm}{*}
+%\setlength{\footskip}{3.0\baselineskip}
 %\setlength{\marginparwidth}{0mm}
 %\setlength{\marginparsep}{0mm}
 %\setlength{\textwidth}{140mm}
@@ -60,13 +69,17 @@
 %\setlength{\trimedge}{0pt}
 %\addtolength{\trimedge}{-\paperwidth}
 %\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
-  \setulmargins{*}{*}{1.618} % 50pt upper margins
+ % \setulmargins{*}{*}{1.618} % 50pt upper margins
 %\setlrmargins{*}{*}{1.3}
 %  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
   \setheaderspaces{*}{*}{1.618}
 	%\geometry{voffset=10pt}
-  \checkandfixthelayout % to make sure that the layout parameters make sense
+  %\checkandfixthelayout % to make sure that the layout parameters make sense
 
+	\raggedbottom
+%\titlespacing*{\chapter}{0pt}{-50pt}{60pt}
+%\titleformat{\chapter}[frame]{}{\thechapter}{0pt}{}
+%\titlespacing*{\chapter}{0cm}{-\topskip}{0pt}[0pt]
 
 %\addtolength{\textwidth}{0cm}
 %\addtolength{\textheight}{1.5cm}
@@ -96,6 +109,9 @@
 
   \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
   \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+	
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
 
 %%% TABLES
   \newcolumntype{C}[1]{$$>$${\centering}m{#1}} % defines the default layout of the tables (C$=$centerling, L$=$left)
@@ -134,18 +150,18 @@
 \begin{titlingpage}
 \centering
 \begin{onehalfspacing}
-\vspace{60mm} % vspace = vertical space between upper margin and main title
+\vspace{40mm} % vspace = vertical space between upper margin and main title
 \LARGE{\textbf{ENVIRONMENTAL CONTROLS ON THE FUNCTIONAL ECOLOGY OF RIPARIAN PLANT COMMUNITIES}} \\
 % fontsize can be adjusted to your gusto
-\vspace{45mm}
-\includegraphics[width=12cm,keepaspectratio=true]{river.jpg} \\
+\vspace{25mm}
+\includegraphics[width=12cm,keepaspectratio=true]{flood.jpg} \\
 \vspace{15mm}
 \large{\textbf{James R. Lawson}}\\
 \small{Department of Biological Sciences, Macquarie University}\\
-\vspace{30mm}
+\vspace{20mm}
 \small{\textit{Thesis submitted for the degree of Doctor of Philosophy, September 2015}}\\
 \end{onehalfspacing}
-\end{tilingpage}
+\end{titlingpage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
@@ -209,7 +225,7 @@ Thank you to Ashley Vey and Julia Atkinson who assisted in the field. I also wis
 
 Thanks to Ross Ulbricht, for helping me to understand n-dimensional space. \\
 
-Thanks to my dear friends Emma, Juli, Koos, Laura, Marina, Pato, Saskia, Tina and Toni, for the fantastic journey we have shared together. No matter where in the world you may be in the future, you will be in my heart. \\ 
+Thanks to my friends Emma, Juli, Koos, Laura, Marina, Pato, Saskia, Tina and Toni, for the fantastic journey we have shared together. No matter where in the world you may be in the future, you will be in my heart. \\ 
 
 Thanks to Mum, Dad, Anna and Mike. I couldn't be who I am without you, and your love and support means everything to me. \\
 
@@ -263,7 +279,7 @@ Finally, I am grateful for the financial support provided by Macquarie Universit
 \renewcommand{\abstractname}{\vspace{-\baselineskip}}
 
 \begin{abstract}
-%\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
+\addcontentsline{toc}{chapter}{Abstract} % to add this chapter title to table of contents
 Riparian ecosystems are biophysically complex, highly biodiverse and provide a broad array of essential ecosystem services to both humans and surrounding landscapes. Extensive catchment modification and alteration of natural river flows have resulted in widespread degradation of riparian ecosystems worldwide, with human population expansion and climatic change likely to exacerbate this situation over the next century. Basic information about the ecology of riparian plant communities in Australia is needed to inform riparian conservation and rehabilitation efforts.
 
 In this thesis, I used a functional trait approach to investigate how hydrology and other environmental variables template the ecology of riparian plant communities in temperate and subtropical eastern Australia. Functional traits such as wood density or seed mass provide fundamental information about the ecological strategies of plants, and facilitate comparison of communities in terms of how component species respond to and influence their environment.

@@ -50,31 +50,31 @@
 \contentsline {section}{\numberline {4.3}Methods}{115}
 \contentsline {subsection}{Site selection and vegetation sampling}{115}
 \contentsline {subsection}{Describing stream hydrology and quantifying flow regulation}{117}
-\contentsline {subsection}{Other environmental variables}{122}
-\contentsline {subsection}{Trait selection and dataset assembly}{123}
-\contentsline {subsection}{Calculating functional diversity, species richness and proportional abundance of exotics}{127}
-\contentsline {subsection}{Constructing variance partitioning models}{128}
-\contentsline {section}{\numberline {4.4}Results}{129}
-\contentsline {subsection}{Environmental drivers of variation in species richness}{129}
-\contentsline {subsection}{Environmental drivers of functional richness (FRic.SES)}{134}
-\contentsline {subsection}{Environmental drivers of functional divergence (FDis.SES)}{137}
-\contentsline {subsection}{Environmental drivers of variation in proportional abundance of exotic species}{140}
-\contentsline {section}{\numberline {4.5}Discussion}{144}
-\contentsline {section}{\numberline {4.6}{References}}{152}
+\contentsline {subsection}{Other environmental variables}{121}
+\contentsline {subsection}{Trait selection and dataset assembly}{122}
+\contentsline {subsection}{Calculating functional diversity, species richness and proportional abundance of exotics}{126}
+\contentsline {subsection}{Constructing variance partitioning models}{127}
+\contentsline {section}{\numberline {4.4}Results}{128}
+\contentsline {subsection}{Environmental drivers of variation in species richness}{128}
+\contentsline {subsection}{Environmental drivers of functional richness (FRic.SES)}{133}
+\contentsline {subsection}{Environmental drivers of functional divergence (FDis.SES)}{136}
+\contentsline {subsection}{Environmental drivers of variation in proportional abundance of exotic species}{139}
+\contentsline {section}{\numberline {4.5}Discussion}{143}
+\contentsline {section}{\numberline {4.6}{References}}{151}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-5}
-\contentsline {chapter}{\chapternumberline {5}Interactive effects of waterlogging and atmospheric CO\textsubscript {2} concentration on gas exchange, growth and functional traits of Australian riparian tree seedlings}{165}
-\contentsline {section}{\numberline {5.1}Introduction}{167}
-\contentsline {section}{\numberline {5.2}Methods}{170}
-\contentsline {subsection}{Experimental procedure}{172}
-\contentsline {subsection}{Data analysis}{174}
-\contentsline {section}{\numberline {5.3}Results}{175}
-\contentsline {subsection}{Gas exchange and water-use efficiency}{178}
-\contentsline {subsection}{Biomass production and allocation}{179}
-\contentsline {subsection}{Functional traits}{180}
-\contentsline {section}{\numberline {5.4}Discussion}{182}
-\contentsline {section}{\numberline {5.5}Conclusion}{187}
-\contentsline {section}{\numberline {5.6}{References}}{188}
+\contentsline {chapter}{\chapternumberline {5}Interactive effects of waterlogging and atmospheric CO\textsubscript {2} concentration on gas exchange, growth and functional traits of Australian riparian tree seedlings}{163}
+\contentsline {section}{\numberline {5.1}Introduction}{165}
+\contentsline {section}{\numberline {5.2}Methods}{169}
+\contentsline {subsection}{Experimental procedure}{171}
+\contentsline {subsection}{Data analysis}{173}
+\contentsline {section}{\numberline {5.3}Results}{174}
+\contentsline {subsection}{Gas exchange and water-use efficiency}{177}
+\contentsline {subsection}{Biomass production and allocation}{178}
+\contentsline {subsection}{Functional traits}{179}
+\contentsline {section}{\numberline {5.4}Discussion}{181}
+\contentsline {section}{\numberline {5.5}Conclusion}{186}
+\contentsline {section}{\numberline {5.6}{References}}{187}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-6}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{195}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  28 AUG 2015 11:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  31 AUG 2015 12:01
 entering extended mode
 **wooddensity.tex
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\wooddensity.tex
@@ -9638,6 +9638,15 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.36 ...nt set of hydrological descriptors. \citet
+                                                  {Kennard2010} followed thi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no K in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -9645,11 +9654,10 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -10676,6 +10684,15 @@ Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+l.38 ...r catchment urbanisation, following \citet
+                                                  {Kennard2010}. To minimise...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no K in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -10683,17 +10700,10 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no ( in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -14135,8 +14145,8 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no x in font nullfont!
-Missing character: There is no S in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -15270,6 +15280,15 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no y in font nullfont!
+! Undefined control sequence.
+l.62 ...ared from the full set described by \citet
+                                                  {Kennard2010}.  These metr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no K in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -15277,17 +15296,10 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no ( in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -16193,8 +16205,8 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no x in font nullfont!
-Missing character: There is no S in font nullfont!
 Missing character: There is no 1 in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -16278,7 +16290,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.68 \begin{longtabu}
-                      to \linewidth {m{5.5cm}m{4cm}m{2.5cm}X}
+                      to \linewidth {m{5.5cm}m{3.7cm}m{2.0cm}X}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -16289,7 +16301,7 @@ Missing character: There is no o in font nullfont!
 <to be read again> 
                    {
 l.68 \begin{longtabu} to \linewidth {
-                                     m{5.5cm}m{4cm}m{2.5cm}X}
+                                     m{5.5cm}m{3.7cm}m{2.0cm}X}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -16298,7 +16310,7 @@ look up `weird error' in the index to The TeXbook.)
 <to be read again> 
                    {
 l.68 \begin{longtabu} to \linewidth {
-                                     m{5.5cm}m{4cm}m{2.5cm}X}
+                                     m{5.5cm}m{3.7cm}m{2.0cm}X}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -16313,13 +16325,15 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no 5 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no X in font nullfont!
@@ -16935,7 +16949,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.94 ...f high spells * & HSPeak & dimensionless &
-                                                   \multirow{1}{*}{\parbox{9...
+                                                   \multirow{1}{*}{\parbox{8...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -16945,7 +16959,7 @@ might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
 l.94 ...lls * & HSPeak & dimensionless & \multirow
-                                                  {1}{*}{\parbox{9.5cm}{High...
+                                                  {1}{*}{\parbox{8.2cm}{High...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -17661,7 +17675,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Misplaced alignment tab character &.
 l.98 ...ears' number of high spells & CVAnnHSNum &
-                                                   dimensionless &  \\[0.4cm]
+                                                   dimensionless &  \\[0.6cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -17684,7 +17698,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.98 ...high spells & CVAnnHSNum & dimensionless &
-                                                    \\[0.4cm]
+                                                    \\[0.6cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -17706,7 +17720,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 93--100
  []
 
 
-Overfull \hbox (270.30118pt too wide) in paragraph at lines 93--100
+Overfull \hbox (233.3125pt too wide) in paragraph at lines 93--100
 []$ 
  []
 
@@ -17851,7 +17865,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no y in font nullfont!
 ! Misplaced alignment tab character &.
 l.102 ...* & MRateRise & day\textsuperscript{-1} &
-                                                   \multirow{1}{*}{\parbox{9...
+                                                   \multirow{1}{*}{\parbox{8...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -17861,7 +17875,7 @@ might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
 l.102 ...ise & day\textsuperscript{-1} & \multirow
-                                                  {1}{*}{\parbox{9.5cm}{Rise...
+                                                  {1}{*}{\parbox{8.2cm}{Rise...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -18509,7 +18523,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
 l.105 ...ars' mean rate of fall & CVAnnMRateFall &
-                                                   dimensionless &  \\[0.9cm]
+                                                   dimensionless &  \\[1.1cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -18532,7 +18546,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.105 ...f fall & CVAnnMRateFall & dimensionless &
-                                                    \\[0.9cm]
+                                                    \\[1.1cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -18559,7 +18573,7 @@ Overfull \hbox (7.18059pt too wide) in paragraph at lines 101--108
  []
 
 
-Overfull \hbox (270.30118pt too wide) in paragraph at lines 101--108
+Overfull \hbox (233.3125pt too wide) in paragraph at lines 101--108
 []$ 
  []
 
@@ -18700,7 +18714,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no x in font nullfont!
 ! Misplaced alignment tab character &.
 l.111 Baseflow index &
-                       BFI & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{...
+                       BFI & dimensionless & \multirow{1}{*}{\parbox{8.2cm}{...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -18713,7 +18727,7 @@ Missing character: There is no F in font nullfont!
 Missing character: There is no I in font nullfont!
 ! Misplaced alignment tab character &.
 l.111 Baseflow index & BFI &
-                             dimensionless & \multirow{1}{*}{\parbox{9.5cm}{...
+                             dimensionless & \multirow{1}{*}{\parbox{8.2cm}{...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -18736,7 +18750,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.111 Baseflow index & BFI & dimensionless &
-                                             \multirow{1}{*}{\parbox{9.5cm}{...
+                                             \multirow{1}{*}{\parbox{8.2cm}{...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -18746,7 +18760,7 @@ might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
 l.111 ...w index & BFI & dimensionless & \multirow
-                                                  {1}{*}{\parbox{9.5cm}{Base...
+                                                  {1}{*}{\parbox{8.2cm}{Base...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -19114,7 +19128,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no x in font nullfont!
 ! Misplaced alignment tab character &.
 l.112 CV of all years' Baseflow Index &
-                                        CVAnnBFI & dimensionless &  \\[1cm]
+                                        CVAnnBFI & dimensionless &  \\[1.2cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -19132,7 +19146,7 @@ Missing character: There is no F in font nullfont!
 Missing character: There is no I in font nullfont!
 ! Misplaced alignment tab character &.
 l.112 CV of all years' Baseflow Index & CVAnnBFI &
-                                                   dimensionless &  \\[1cm]
+                                                   dimensionless &  \\[1.2cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -19155,7 +19169,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.112 ...seflow Index & CVAnnBFI & dimensionless &
-                                                    \\[1cm]
+                                                    \\[1.2cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -19177,7 +19191,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 110--115
  []
 
 
-Overfull \hbox (270.30118pt too wide) in paragraph at lines 110--115
+Overfull \hbox (233.3125pt too wide) in paragraph at lines 110--115
 []$ 
  []
 
@@ -19343,7 +19357,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.117 ...pell magnitude & LSPeak & dimensionless &
-                                                   \multirow{1}{*}{\parbox{9...
+                                                   \multirow{1}{*}{\parbox{8...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -19353,7 +19367,7 @@ might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
 l.117 ...tude & LSPeak & dimensionless & \multirow
-                                                  {1}{*}{\parbox{9.5cm}{Low ...
+                                                  {1}{*}{\parbox{8.2cm}{Low ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -20265,7 +20279,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 116--127
  []
 
 
-Overfull \hbox (270.30118pt too wide) in paragraph at lines 116--127
+Overfull \hbox (233.3125pt too wide) in paragraph at lines 116--127
 []$ 
  []
 
@@ -20447,7 +20461,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.130 ...an daily flow & C\_MDFM & dimensionless &
-                                                   \multirow{1}{*}{\parbox{9...
+                                                   \multirow{1}{*}{\parbox{8...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -20457,7 +20471,7 @@ might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
 l.130 ...low & C\_MDFM & dimensionless & \multirow
-                                                  {1}{*}{\parbox{9.5cm}{Colw...
+                                                  {1}{*}{\parbox{8.2cm}{Colw...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -21138,7 +21152,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no M in font nullfont!
 ! Misplaced alignment tab character &.
 l.133 ...on monthly minimum daily flow & M\_MinM &
-                                                   dimensionless & \\[0.7cm]
+                                                   dimensionless & \\[0.9cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -21161,7 +21175,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.133 ...um daily flow & M\_MinM & dimensionless &
-                                                   \\[0.7cm]
+                                                   \\[0.9cm]
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -21183,7 +21197,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 129--135
  []
 
 
-Overfull \hbox (270.30118pt too wide) in paragraph at lines 129--135
+Overfull \hbox (233.3125pt too wide) in paragraph at lines 129--135
 []$ 
  []
 
@@ -21415,9 +21429,15 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no l in font nullfont!
+! Undefined control sequence.
+l.142 ...these analyses can be retrieved from \url
+                                                  {https://github.com/jamesr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -37545,13 +37565,20 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no S in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no i in font nullfont!

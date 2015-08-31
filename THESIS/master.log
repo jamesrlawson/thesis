@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  28 AUG 2015 11:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  31 AUG 2015 13:02
 entering extended mode
 **master.tex
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\master.tex
@@ -771,25 +771,25 @@ LaTeX Warning: Label `fig:Ch4sup2_F1' multiply defined.
 LaTeX Warning: Label `fig:Ch4sup2_F1' multiply defined.
 
 ))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 129.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 130.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 130.
 
  ("C:\Program Files (x86)\miktex2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    ... okay on input line 130.
 
 ("C:\Program Files (x86)\miktex2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -843,124 +843,110 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<river.jpg, id=1, 4625.28pt x 3468.96pt>
-File: river.jpg Graphic file (type jpg)
- <use river.jpg>
-Package pdftex.def Info: river.jpg used on input line 141.
-(pdftex.def)             Requested size: 341.43306pt x 256.03207pt.
-
-
-! LaTeX Error: \begin{mem@titlingpage} on input line 134 ended by \end{tilingpa
-ge}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.148 \end{tilingpage}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
+<flood.jpg, id=1, 4625.28pt x 3468.96pt>
+File: flood.jpg Graphic file (type jpg)
+ <use flood.jpg>
+Package pdftex.def Info: flood.jpg used on input line 142.
+(pdftex.def)             Requested size: 398.33858pt x 298.7482pt.
+ [1
 
 {C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ja
-mes/Desktop/stuff/data/analysis/R/THESIS/THESIS/river.jpg>] [2
+mes/Desktop/stuff/data/analysis/R/THESIS/THESIS/flood.jpg>] [2
 
 ] [1
 
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
@@ -976,60 +962,54 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [5
 
-]
-Underfull \vbox (badness 5578) has occurred while \output is active []
-
- [6]
+] [6]
 Overfull \hbox (2.03766pt too wide) detected at line 47
  \OT1/cmr/bx/n/12 107
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 66
- \OT1/cmr/bx/n/12 165
+ \OT1/cmr/bx/n/12 163
  []
 
 [7]
 Overfull \hbox (2.03766pt too wide) detected at line 80
- \OT1/cmr/bx/n/12 195
+ \OT1/cmr/bx/n/12 193
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 92
- \OT1/cmr/bx/n/12 217
+ \OT1/cmr/bx/n/12 215
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 95
- \OT1/cmr/bx/n/12 223
+ \OT1/cmr/bx/n/12 221
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 98
- \OT1/cmr/bx/n/12 229
+ \OT1/cmr/bx/n/12 227
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 101
+ \OT1/cmr/bx/n/12 231
+ []
+
+[8]
+Overfull \hbox (2.03766pt too wide) detected at line 104
  \OT1/cmr/bx/n/12 233
  []
 
 
-Underfull \vbox (badness 6364) has occurred while \output is active []
-
- [8]
-Overfull \hbox (2.03766pt too wide) detected at line 104
- \OT1/cmr/bx/n/12 235
- []
-
-
 Overfull \hbox (2.03766pt too wide) detected at line 107
- \OT1/cmr/bx/n/12 239
+ \OT1/cmr/bx/n/12 237
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 109
- \OT1/cmr/bx/n/12 245
+ \OT1/cmr/bx/n/12 243
  []
 
 ) [9] [10
@@ -1044,24 +1024,7 @@ Overfull \hbox (2.03766pt too wide) detected at line 109
 
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-Underfull \vbox (badness 1867) has occurred while \output is active []
-
- [5]
-Underfull \vbox (badness 2753) has occurred while \output is active []
-
- [6]
-[7]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-[10]
+] [4] [5] [6] [7] [8] [9] [10]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\introduction.bbl
 [11
 
@@ -1089,11 +1052,7 @@ Overfull \hbox (2.25397pt too wide) in paragraph at lines 14--15
 ter-mi-nants of eco-log-i-cal strat-
  []
 
-
-Underfull \vbox (badness 3635) has occurred while \output is active []
-
- [20]
-[21]
+[20] [21]
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 
@@ -1102,40 +1061,25 @@ Overfull \hbox (4.18869pt too wide) in paragraph at lines 19--20
 mu-nity as-sem-bly (McGill
  []
 
+[22
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22
-
-]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
+] [23] [24]
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [25]
 Missing character: There is no Æ in font cmr12!
-
-[26] <Ch2map.pdf, id=135, 346.31326pt x 332.48012pt>
+ [26] <Ch2map.pdf, id=135, 346.31326pt x 332.48012pt>
 File: Ch2map.pdf Graphic file (type pdf)
- <use Ch2map.pdf>
+
+<use Ch2map.pdf>
 Package pdftex.def Info: Ch2map.pdf used on input line 43.
 (pdftex.def)             Requested size: 341.43306pt x 327.82207pt.
  [27 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch2map.pdf>]
 Missing character: There is no ˆ in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [28
 
 ]
@@ -1143,22 +1087,18 @@ Missing character: There is no í in font cmr12!
 Missing character: There is no ñ in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 1990) has occurred while \output is active []
-
- [29]
-[30]
-Overfull \vbox (83.72357pt too high) detected at line 136
+ [29] [30]
+Overfull \vbox (99.44606pt too high) detected at line 136
  []
 
 Missing character: There is no ë in font cmr8!
 Missing character: There is no í in font cmr8!
 
-Overfull \vbox (97.8905pt too high) detected at line 136
+Overfull \vbox (115.16855pt too high) detected at line 136
  []
 
 
-Overfull \vbox (68.00108pt too high) detected at line 136
+Overfull \vbox (83.72357pt too high) detected at line 136
  []
 
 
@@ -1166,21 +1106,21 @@ Overfull \vbox (36.5561pt too high) detected at line 136
  []
 
 
-Overfull \vbox (97.8905pt too high) detected at line 136
+Overfull \vbox (113.61299pt too high) detected at line 136
  []
 
 
-Overfull \vbox (83.72357pt too high) detected at line 136
+Overfull \vbox (99.44606pt too high) detected at line 136
  []
 
 Missing character: There is no ë in font cmr8!
 Missing character: There is no í in font cmr8!
 
-Overfull \vbox (97.8905pt too high) detected at line 136
+Overfull \vbox (115.16855pt too high) detected at line 136
  []
 
 
-Overfull \vbox (68.00108pt too high) detected at line 136
+Overfull \vbox (83.72357pt too high) detected at line 136
  []
 
 
@@ -1188,21 +1128,21 @@ Overfull \vbox (36.5561pt too high) detected at line 136
  []
 
 
-Overfull \vbox (97.8905pt too high) detected at line 136
+Overfull \vbox (113.61299pt too high) detected at line 136
  []
 
 
-Overfull \vbox (83.24826pt too high) detected at line 136
+Overfull \vbox (98.97075pt too high) detected at line 136
  []
 
 Missing character: There is no ë in font cmr8!
 Missing character: There is no í in font cmr8!
 
-Overfull \vbox (97.07019pt too high) detected at line 136
+Overfull \vbox (114.34824pt too high) detected at line 136
  []
 
 
-Overfull \vbox (68.00108pt too high) detected at line 136
+Overfull \vbox (83.72357pt too high) detected at line 136
  []
 
 
@@ -1215,7 +1155,7 @@ Underfull \hbox (badness 1024) in paragraph at lines 136--136
  []
 
 
-Overfull \vbox (97.6374pt too high) detected at line 136
+Overfull \vbox (113.3599pt too high) detected at line 136
  []
 
 
@@ -1225,35 +1165,24 @@ Underfull \vbox (badness 10000) detected at line 136
 [31
 
 ] [32] [33]
-Overfull \hbox (0.86603pt too wide) in paragraph at lines 142--143
-\OT1/cmr/m/n/12 from urlhttps://github.com/jamesrlawson/riparian-WD/tree/master
-/scripts. Sta-
- []
-
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 1057) has occurred while \output is active []
-
  [34
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
+] [35]
 Missing character: There is no í in font cmr12!
-
-<Ch2Fig2.png, id=1636, 698.61pt x 839.17516pt>
+ <Ch2Fig2.png, id=1636, 698.61pt x 839.17516pt>
 File: Ch2Fig2.png Graphic file (type png)
- <use Ch2Fig2.png>
+
+<use Ch2Fig2.png>
 Package pdftex.def Info: Ch2Fig2.png used on input line 202.
 (pdftex.def)             Requested size: 418.0pt x 502.11327pt.
- [36] [37]
-[38 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch2Fig2.png>]
-<Ch2Fig3.png, id=1650, 681.747pt x 1115.367pt>
+ [36] [37] [38 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch2F
+ig2.png>] <Ch2Fig3.png, id=1650, 681.747pt x 1115.367pt>
 File: Ch2Fig3.png Graphic file (type png)
- <use Ch2Fig3.png>
+
+<use Ch2Fig3.png>
 Package pdftex.def Info: Ch2Fig3.png used on input line 214.
 (pdftex.def)             Requested size: 345.25215pt x 564.82906pt.
 Missing character: There is no ñ in font cmr10!
@@ -1298,12 +1227,7 @@ Missing character: There is no í in font cmr12!
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
+[44] [45]
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no ë in font cmr12!
@@ -1319,24 +1243,11 @@ ral strength fit within
  []
 
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [46]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [47]
+[46] [47]
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [48]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [49]
-[50]
+ [48] [49] [50]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\wooddensity.bbl
 [51
 
@@ -1369,10 +1280,7 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [62]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [63
+ [62] [63
 
 ]
 Missing character: There is no ‚ in font cmr12!
@@ -1384,17 +1292,7 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [64]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [65]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [66]
-[67]
+ [64] [65] [66] [67]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1446,15 +1344,11 @@ Overfull \hbox (21.24509pt too wide) in paragraph at lines 75--76
 . au / monitoring . htm$ \OT1/cmr/m/n/12 for Vic-to-rian sites. Thirty
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69
+[69
 
 
-]
-[70]
-Overfull \vbox (115.16855pt too high) detected at line 135
+] [70]
+Overfull \vbox (130.89104pt too high) detected at line 135
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -1466,26 +1360,26 @@ Missing character: There is no ô in font cmr8!
 Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
-
-Overfull \vbox (36.5561pt too high) detected at line 135
- []
-
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-
-Overfull \vbox (83.72357pt too high) detected at line 135
- []
-
 
 Overfull \vbox (52.2786pt too high) detected at line 135
  []
 
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (115.16855pt too high) detected at line 135
+Overfull \vbox (113.61299pt too high) detected at line 135
+ []
+
+
+Overfull \vbox (68.00108pt too high) detected at line 135
+ []
+
+
+Overfull \vbox (130.89104pt too high) detected at line 135
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -1497,26 +1391,26 @@ Missing character: There is no ô in font cmr8!
 Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
-
-Overfull \vbox (36.5561pt too high) detected at line 135
- []
-
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-
-Overfull \vbox (83.72357pt too high) detected at line 135
- []
-
 
 Overfull \vbox (52.2786pt too high) detected at line 135
  []
 
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (114.69324pt too high) detected at line 135
+Overfull \vbox (113.61299pt too high) detected at line 135
+ []
+
+
+Overfull \vbox (68.00108pt too high) detected at line 135
+ []
+
+
+Overfull \vbox (130.41573pt too high) detected at line 135
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -1529,7 +1423,7 @@ Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (35.7358pt too high) detected at line 135
+Overfull \vbox (51.45828pt too high) detected at line 135
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -1539,11 +1433,11 @@ Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (83.47047pt too high) detected at line 135
+Overfull \vbox (113.3599pt too high) detected at line 135
  []
 
 
-Overfull \vbox (51.80328pt too high) detected at line 135
+Overfull \vbox (67.52577pt too high) detected at line 135
  []
 
 
@@ -1559,9 +1453,6 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [73
 
 
@@ -1578,49 +1469,45 @@ Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-[74]
+ [74]
 
 Package natbib Warning: Citation `Rossel2014j; Wilford2014' on page 75 undefine
 d on input line 155.
 
-
-Underfull \vbox (badness 2932) has occurred while \output is active []
-
- [75]
-[76] <Ch3fig1.png, id=1785, 423.984pt x 489.38835pt>
+[75] [76] <Ch3fig1.png, id=1785, 423.984pt x 489.38835pt>
 File: Ch3fig1.png Graphic file (type png)
  <use Ch3fig1.png>
 Package pdftex.def Info: Ch3fig1.png used on input line 166.
 (pdftex.def)             Requested size: 418.0pt x 482.49467pt.
- [77]
-[78 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch3fig1.png>]
-<Ch3fig2.png, id=1793, 422.65906pt x 482.40225pt>
+
+[77] [78 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch3fig1.pn
+g>] <Ch3fig2.png, id=1793, 422.65906pt x 482.40225pt>
 File: Ch3fig2.png Graphic file (type png)
  <use Ch3fig2.png>
 Package pdftex.def Info: Ch3fig2.png used on input line 179.
 (pdftex.def)             Requested size: 418.0pt x 477.08652pt.
- [79
 
-]
-[80 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch3fig2.png>]
-<Ch3fig3.png, id=1802, 414.5889pt x 483.4863pt>
+[79
+
+] [80 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch3fig2.png>]
+ <Ch3fig3.png, id=1802, 414.5889pt x 483.4863pt>
 File: Ch3fig3.png Graphic file (type png)
  <use Ch3fig3.png>
 Package pdftex.def Info: Ch3fig3.png used on input line 189.
 (pdftex.def)             Requested size: 418.0pt x 487.49103pt.
  [81
 
-] [82 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch3fig3.png>]
+]
+[82 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch3fig3.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [83
+
+[83
+
+] [84
 
 ]
-[84
-
-]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
@@ -1645,9 +1532,6 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [85
 
 ]
@@ -1657,26 +1541,14 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-
-Underfull \vbox (badness 1112) has occurred while \output is active []
-
- [86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [87]
+ [86] [87]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [88]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [89]
+ [88] [89]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -1695,9 +1567,6 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
  [90]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -1705,9 +1574,6 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
  [91]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -1718,14 +1584,7 @@ Overfull \hbox (1.4012pt too wide) in paragraph at lines 300--301
  range of eco-log-i-cal strate-
  []
 
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [92]
-Underfull \vbox (badness 7238) has occurred while \output is active []
-
- [93]
-[94]
+[92] [93] [94]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\functionaldiversity
 .bbl [95
 
@@ -1737,90 +1596,18 @@ Underfull \vbox (badness 7238) has occurred while \output is active []
 
 
 ]
-Underfull \vbox (badness 7064) has occurred while \output is active []
-
- [108]
-[109]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [110
+[108] [109] [110
 
 ]
-! Undefined control sequence.
-l.27 ...bed, e.g. \citet{Bendix1997}, \citetBendix
-                                                  2000}, \citetLite2005}, \c...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra }, or forgotten \endgroup.
-l.27 ...e.g. \citet{Bendix1997}, \citetBendix2000}
-                                                  , \citetLite2005}, \citetC...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-l.27 ...Bendix1997}, \citetBendix2000}, \citetLite
-                                                  2005}, \citetCorenblit2007...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra }, or forgotten \endgroup.
-l.27 ...x1997}, \citetBendix2000}, \citetLite2005}
-                                                  , \citetCorenblit2007}. Un...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-l.27 ...dix2000}, \citetLite2005}, \citetCorenblit
-                                                  2007}. Unimodal relationsh...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra }, or forgotten \endgroup.
-l.27 ...00}, \citetLite2005}, \citetCorenblit2007}
-                                                  . Unimodal relationships b...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
  [111]
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
  [112]
 Missing character: There is no ñ in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [113]
 Missing character: There is no ñ in font cmr12!
 Missing character: There is no ñ in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [114]
 <Ch4map2.png, id=1912, 439.6425pt x 620.67885pt>
 File: Ch4map2.png Graphic file (type png)
@@ -1844,213 +1631,148 @@ Overfull \hbox (37.88445pt too wide) in paragraph at lines 62--63
 
 Missing character: There is no ¨ in font cmr12!
 Missing character: There is no ¨ in font cmr12!
-
-Underfull \vbox (badness 1990) has occurred while \output is active []
-
- [117]
-[118]
-Overfull \vbox (14.55627pt too high) detected at line 140
+[117] [118]
+Overfull \vbox (14.83366pt too high) detected at line 137
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.140 \end{longtabu}
+l.137 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (76.16806pt too high) detected at line 140
+Overfull \vbox (60.44557pt too high) detected at line 137
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.140 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.140 \end{longtabu}
+l.137 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (14.83366pt too high) detected at line 140
+Overfull \vbox (83.72357pt too high) detected at line 137
  []
 
 
-Overfull \vbox (14.55627pt too high) detected at line 140
+Overfull \vbox (14.83366pt too high) detected at line 137
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.140 \end{longtabu}
+l.137 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (76.16806pt too high) detected at line 140
+Overfull \vbox (60.44557pt too high) detected at line 137
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.140 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.140 \end{longtabu}
+l.137 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (14.83366pt too high) detected at line 140
+Overfull \vbox (83.72357pt too high) detected at line 137
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Underfull \hbox (badness 2401) in paragraph at lines 140--140
-\OT1/cmr/m/n/8 HSPeak and LS-Peak de-scribes the mean mag-ni-tude of high-est a
-nd
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Overfull \vbox (8.85254pt too high) detected at line 140
- []
-
-
-Overfull \hbox (7.03987pt too wide) in paragraph at lines 140--140
+Overfull \hbox (7.03987pt too wide) in paragraph at lines 137--137
 []\OT1/cmr/m/n/8 MDFAnnHSNum| 
  []
 
 
-Overfull \hbox (5.98152pt too wide) in paragraph at lines 140--140
+Overfull \hbox (5.98152pt too wide) in paragraph at lines 137--137
 []\OT1/cmr/m/n/8 MDFAnnLSNum| 
  []
 
+
+Overfull \vbox (14.83366pt too high) detected at line 137
+ []
+
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.140 \end{longtabu}
+l.137 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Overfull \vbox (75.15567pt too high) detected at line 140
+Overfull \vbox (59.43318pt too high) detected at line 137
  []
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.140 \end{longtabu}
-                    }
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.140 \end{longtabu}
+l.137 \end{longtabu}
                     }
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \vbox (12.93242pt too high) detected at line 140
+Overfull \vbox (83.24826pt too high) detected at line 137
  []
 
 
-Underfull \vbox (badness 10000) detected at line 140
+Underfull \vbox (badness 10000) detected at line 137
  []
 
 [119
 
-] [120] [121]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] [120] [121
 
- [122
-
-]
-Underfull \vbox (badness 1990) has occurred while \output is active []
-
- [123]
-[124]
-Underfull \vbox (badness 10000) detected at line 175
+] [122] [123]
+Underfull \vbox (badness 10000) detected at line 172
  []
 
-[125
 
-] [126]
+Package longtable Warning: Column widths have changed
+(longtable)                in table 4.2 on input line 172.
+
+[124
+
+] [125]
 Missing character: There is no È in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no í in font cmr12!
 Missing character: There is no È in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [127
+ [126
 
 ]
-Overfull \hbox (0.81787pt too wide) in paragraph at lines 192--194
+Overfull \hbox (0.81787pt too wide) in paragraph at lines 189--191
 []\OT1/cmr/m/n/12 The fol-low-ing pro-cess was used to de-rive an op-ti-mal set
  of environment-diversity
  []
 
-
-Underfull \vbox (badness 1033) has occurred while \output is active []
-
- [128]
-[129]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [130]
-[131] <Ch4speciesRichness.pdf, id=1968, 597.50786pt x 486.51537pt>
+[127] [128] [129] [130]
+<Ch4speciesRichness.pdf, id=1965, 597.50786pt x 486.51537pt>
 File: Ch4speciesRichness.pdf Graphic file (type pdf)
 
 <use Ch4speciesRichness.pdf>
-Package pdftex.def Info: Ch4speciesRichness.pdf used on input line 212.
+Package pdftex.def Info: Ch4speciesRichness.pdf used on input line 209.
 (pdftex.def)             Requested size: 513.37265pt x 418.0pt.
- [132 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4speciesRic
+ [131 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4speciesRic
 hness.pdf>]
 ! Extra }, or forgotten \endgroup.
-l.217 ... interval around the regression model.}}}
+l.214 ... interval around the regression model.}}}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2058,136 +1780,113 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-[133
+[132
 
 
 
-] [134
+] [133
 
-] <Ch4FRicSES.pdf, id=2029, 595.67091pt x 356.14458pt>
+] <Ch4FRicSES.pdf, id=2026, 595.67091pt x 356.14458pt>
 File: Ch4FRicSES.pdf Graphic file (type pdf)
 
 <use Ch4FRicSES.pdf>
-Package pdftex.def Info: Ch4FRicSES.pdf used on input line 232.
+Package pdftex.def Info: Ch4FRicSES.pdf used on input line 229.
 (pdftex.def)             Requested size: 699.15901pt x 418.0pt.
 
-Overfull \hbox (34.65901pt too wide) in paragraph at lines 232--233
+Overfull \hbox (34.65901pt too wide) in paragraph at lines 229--230
  [][] 
  []
 
-[135 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4FRicSES.pdf
->] [136
+[134 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4FRicSES.pdf
+>] [135
 
 
 
-] [137
+] [136
 
-] <Ch4FDisSES.pdf, id=2071, 596.00168pt x 361.40018pt>
+] <Ch4FDisSES.pdf, id=2068, 596.00168pt x 361.40018pt>
 File: Ch4FDisSES.pdf Graphic file (type pdf)
 
 <use Ch4FDisSES.pdf>
-Package pdftex.def Info: Ch4FDisSES.pdf used on input line 252.
+Package pdftex.def Info: Ch4FDisSES.pdf used on input line 249.
 (pdftex.def)             Requested size: 689.38898pt x 418.0pt.
 
-Overfull \hbox (24.88898pt too wide) in paragraph at lines 252--253
+Overfull \hbox (24.88898pt too wide) in paragraph at lines 249--250
  [][] 
  []
 
-[138 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4FDisSES.pdf
->] [139
+[137 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4FDisSES.pdf
+>] [138
 
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] [139
 
- [140
-
-]
-[141] <Ch4exotics.pdf, id=2117, 597.53188pt x 473.7348pt>
+] [140] <Ch4exotics.pdf, id=2114, 597.53188pt x 473.7348pt>
 File: Ch4exotics.pdf Graphic file (type pdf)
- <use Ch4exotics.pdf>
-Package pdftex.def Info: Ch4exotics.pdf used on input line 272.
+
+<use Ch4exotics.pdf>
+Package pdftex.def Info: Ch4exotics.pdf used on input line 269.
 (pdftex.def)             Requested size: 527.2429pt x 418.0pt.
-
-[142 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4exotics.pdf
->] [143
-
+ [141 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4exotics.pd
+f>] [142
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [144
+] [143
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [145]
+] [144]
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [146]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [147]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [148]
+ [145] [146] [147]
 Missing character: There is no ë in font cmr12!
 Missing character: There is no í in font cmr12!
-
-[149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [150]
-[151] (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\SEQLD.bbl
+ [148] [149]
+[150] (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\SEQLD.bbl
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-[152
+[151
 
-] [153]
+] [152]
 Missing character: There is no ≈ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
- [154] [155]
+ [153] [154]
 Underfull \hbox (badness 1953) in paragraph at lines 247--252
 \OT1/cmr/m/n/10.95 Mi-crofrag-men-ta-tion con-cept ex-plains non-positive en-vi
 -ron-men-tal heterogeneity-
  []
 
-[156] [157]
+[155] [156]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [158]
+ [157]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ô in font cmr10!
- [159] [160]
+ [158] [159]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [161] [162])) [163]
+ [160] [161])) [162]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\glasshouse.tex
-[164
+[163
 
 
 
 
 
-] [165]
+]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [166]
+ [164]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -2197,24 +1896,16 @@ Missing character: There is no ù in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+ [165
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [167
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [168]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [169]
+] [166] [167]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+ [168]
 Missing character: There is no ¬ in font cmr8!
 Missing character: There is no ñ in font cmr8!
 Missing character: There is no ¬ in font cmr8!
@@ -2392,14 +2083,9 @@ Underfull \hbox (badness 1314) in paragraph at lines 45--45
 \OT1/cmr/m/n/8 induced land-form mass
  []
 
+[169
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [170]
-[171]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [172
+] [170] [171
 
 ]
 Missing character: There is no ‚ in font cmr12!
@@ -2452,10 +2138,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no µ in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [173]
+ [172]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -2477,13 +2160,14 @@ Missing character: There is no ù in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+ [173] [174]
 
-Underfull \vbox (badness 1990) has occurred while \output is active []
+Package longtable Warning: Column widths have changed
+(longtable)                in table 5.2 on input line 131.
 
- [174]
-[175] [176
+[175
 
-] [177]
+] [176]
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no º in font cmr12!
 
@@ -2492,38 +2176,27 @@ Overfull \hbox (5.79433pt too wide) in paragraph at lines 140--141
 -syn-the-sis for all three species
  []
 
-<Ch5gasexchange2.png, id=2276, 476.2593pt x 376.0449pt>
+<Ch5gasexchange2.png, id=2275, 476.2593pt x 376.0449pt>
 File: Ch5gasexchange2.png Graphic file (type png)
 
 <use Ch5gasexchange2.png>
 Package pdftex.def Info: Ch5gasexchange2.png used on input line 149.
 (pdftex.def)             Requested size: 418.0pt x 330.04836pt.
+ [177
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [178
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [179 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch5gasexchang
-e2.png>]
-<Ch5biomass2.png, id=2284, 481.0773pt x 496.85625pt>
+] [178 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch5gasexchan
+ge2.png>]
+<Ch5biomass2.png, id=2283, 481.0773pt x 496.85625pt>
 File: Ch5biomass2.png Graphic file (type png)
  <use Ch5biomass2.png>
 Package pdftex.def Info: Ch5biomass2.png used on input line 169.
 (pdftex.def)             Requested size: 418.0pt x 431.71558pt.
 
-Underfull \vbox (badness 1033) has occurred while \output is active []
-
- [180]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [181 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch5biomass2.p
-ng>]
-<Ch5traits2.png, id=2293, 479.8728pt x 448.074pt>
+[179] [180 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch5bioma
+ss2.png>] <Ch5traits2.png, id=2291, 479.8728pt x 448.074pt>
 File: Ch5traits2.png Graphic file (type png)
- <use Ch5traits2.png>
+
+<use Ch5traits2.png>
 Package pdftex.def Info: Ch5traits2.png used on input line 187.
 (pdftex.def)             Requested size: 418.0pt x 390.32033pt.
 
@@ -2532,32 +2205,26 @@ Overfull \hbox (3.22896pt too wide) in paragraph at lines 196--197
 s ac-cu-mu-late biomass,
  []
 
-[182] [183 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch5trait
-s2.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+[181] [182 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch5trait
+s2.png>] [183]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
  [184]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [185]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -2571,29 +2238,25 @@ Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [186]
-[187]
+ [185] [186]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\glasshouse.bbl
-[188
+[187
 
-] [189] [190] [191] [192] [193])) [194]
+] [188] [189] [190] [191] [192])) [193]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\discussion.tex
-[195
+[194
 
 
 
 
 
-] [196]
+] [195] [196]
 Overfull \hbox (8.78168pt too wide) in paragraph at lines 17--18
 \OT1/cmr/m/n/12 The ri-par-ian plant com-mu-ni-ties de-scribed here were lo-cat
 ed pri-mar-ily along coastally
  []
 
-[197] <Ch6map.png, id=2345, 322.806pt x 555.87675pt>
+[197] <Ch6map.png, id=2347, 322.806pt x 555.87675pt>
 File: Ch6map.png Graphic file (type png)
  <use Ch6map.png>
 Package pdftex.def Info: Ch6map.png used on input line 26.
@@ -2612,33 +2275,17 @@ Missing character: There is no ô in font cmr12!
 
 [200
 
-]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [201]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [202]
+] [201] [202]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [203]
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
- [204]
-[205]
+ [203] [204] [205]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-Underfull \vbox (badness 1189) has occurred while \output is active []
-
  [206]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -2646,12 +2293,7 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-[207]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [208]
-[209]
+ [207] [208] [209]
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\THESIS\discussion.bbl
 [210
 
@@ -3046,7 +2688,7 @@ Missing character: There is no ì in font cmr8!
  [220
 
 
-] <Ch2figS1.png, id=2420, 680.90385pt x 583.82115pt>
+] <Ch2figS1.png, id=2422, 680.90385pt x 583.82115pt>
 File: Ch2figS1.png Graphic file (type png)
 
 <use Ch2figS1.png>
@@ -3341,7 +2983,7 @@ Overfull \hbox (19.77406pt too wide) in paragraph at lines 22--44
 
 
 
-] [239] <S2a.pdf, id=2483, 722.43497pt x 330.95363pt>
+] [239] <S2a.pdf, id=2485, 722.43497pt x 330.95363pt>
 File: S2a.pdf Graphic file (type pdf)
  <use S2a.pdf>
 Package pdftex.def Info: S2a.pdf used on input line 6.
@@ -3354,7 +2996,7 @@ Overfull \hbox (18.36613pt too wide) in paragraph at lines 6--7
 [240
 
  <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/S2a.pdf>]
-<S2b.pdf, id=2513, 701.35622pt x 287.20018pt>
+<S2b.pdf, id=2515, 701.35622pt x 287.20018pt>
 File: S2b.pdf Graphic file (type pdf)
  <use S2b.pdf>
 Package pdftex.def Info: S2b.pdf used on input line 17.
@@ -3369,7 +3011,7 @@ Overfull \hbox (18.36613pt too wide) in paragraph at lines 17--18
 
 
  <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/S2b.pdf>]
-<S2c.pdf, id=2544, 698.94727pt x 228.90237pt>
+<S2c.pdf, id=2546, 698.94727pt x 228.90237pt>
 File: S2c.pdf Graphic file (type pdf)
  <use S2c.pdf>
 Package pdftex.def Info: S2c.pdf used on input line 28.
@@ -3384,7 +3026,7 @@ Overfull \hbox (18.36613pt too wide) in paragraph at lines 28--29
 
 
  <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/S2c.pdf>]
-<S2d.pdf, id=2574, 729.68208pt x 432.97476pt>
+<S2d.pdf, id=2576, 729.68208pt x 432.97476pt>
 File: S2d.pdf Graphic file (type pdf)
  <use S2d.pdf>
 Package pdftex.def Info: S2d.pdf used on input line 39.
@@ -3403,74 +3045,74 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-] <Ch4Bibliography_.pdf, id=2607, 597.55246pt x 845.07718pt>
+] <Ch4Bibliography_.pdf, id=2609, 597.55246pt x 845.07718pt>
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf>
-Package pdftex.def Info: Ch4Bibliography_.pdf used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf used on input line 335.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
  <use Ch4Bibliography_.pdf>
-Package pdftex.def Info: Ch4Bibliography_.pdf used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf used on input line 335.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<Ch4Bibliography_.pdf, id=2610, page=1, 597.55246pt x 845.07718pt>
+<Ch4Bibliography_.pdf, id=2612, page=1, 597.55246pt x 845.07718pt>
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf, page 1>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 335.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
  <use Ch4Bibliography_.pdf, page 1>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf, page 1>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
  <use Ch4Bibliography_.pdf, page 1>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
  [245]
-<Ch4Bibliography_.pdf, id=2614, page=2, 597.55246pt x 845.07718pt>
+<Ch4Bibliography_.pdf, id=2616, page=2, 597.55246pt x 845.07718pt>
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf, page 2>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page2 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page2 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
  <use Ch4Bibliography_.pdf, page 2>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page2 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page2 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf, page 1>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page1 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
  [246 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4Bibliograp
 hy_.pdf>]
-<Ch4Bibliography_.pdf, id=2628, page=3, 597.55246pt x 845.07718pt>
+<Ch4Bibliography_.pdf, id=2630, page=3, 597.55246pt x 845.07718pt>
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf, page 3>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page3 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page3 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
  <use Ch4Bibliography_.pdf, page 3>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page3 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page3 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
 
 <use Ch4Bibliography_.pdf, page 2>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page2 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page2 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
  [247 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4Bibliograp
 hy_.pdf>]
 File: Ch4Bibliography_.pdf Graphic file (type pdf)
  <use Ch4Bibliography_.pdf, page 3>
-Package pdftex.def Info: Ch4Bibliography_.pdf, page3 used on input line 334.
+Package pdftex.def Info: Ch4Bibliography_.pdf, page3 used on input line 335.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 
 [248 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/Ch4Bibliograph
@@ -3479,10 +3121,10 @@ y_.pdf>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2640, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2642, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf>
-Package pdftex.def Info: lawson2015a.pdf used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf used on input line 338.
 (pdftex.def)             Requested size: 597.50682pt x 822.28307pt.
 
 
@@ -3491,7 +3133,7 @@ pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
  most version <1.5> allowed
 File: lawson2015a.pdf Graphic file (type pdf)
 <use lawson2015a.pdf>
-Package pdftex.def Info: lawson2015a.pdf used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf used on input line 338.
 (pdftex.def)             Requested size: 597.50682pt x 822.28307pt.
 
 
@@ -3503,44 +3145,44 @@ pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2643, page=1, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2645, page=1, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 1>
-Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 338.
 (pdftex.def)             Requested size: 597.50682pt x 822.28307pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 1>
-Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 1>
-Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 1>
-Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 
 
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2644, page=2, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2646, page=2, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 2>
-Package pdftex.def Info: lawson2015a.pdf, page2 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page2 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 2>
-Package pdftex.def Info: lawson2015a.pdf, page2 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page2 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 1>
-Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [249
 
@@ -3549,20 +3191,20 @@ Package pdftex.def Info: lawson2015a.pdf, page1 used on input line 337.
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2683, page=3, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2685, page=3, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 3>
-Package pdftex.def Info: lawson2015a.pdf, page3 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page3 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 3>
-Package pdftex.def Info: lawson2015a.pdf, page3 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page3 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 2>
-Package pdftex.def Info: lawson2015a.pdf, page2 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page2 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [250 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3570,20 +3212,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2699, page=4, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2701, page=4, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 4>
-Package pdftex.def Info: lawson2015a.pdf, page4 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page4 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 4>
-Package pdftex.def Info: lawson2015a.pdf, page4 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page4 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 3>
-Package pdftex.def Info: lawson2015a.pdf, page3 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page3 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [251 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3591,20 +3233,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2735, page=5, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2737, page=5, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 5>
-Package pdftex.def Info: lawson2015a.pdf, page5 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page5 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 5>
-Package pdftex.def Info: lawson2015a.pdf, page5 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page5 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 4>
-Package pdftex.def Info: lawson2015a.pdf, page4 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page4 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [252 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3612,20 +3254,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2742, page=6, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2744, page=6, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 6>
-Package pdftex.def Info: lawson2015a.pdf, page6 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page6 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 6>
-Package pdftex.def Info: lawson2015a.pdf, page6 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page6 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 5>
-Package pdftex.def Info: lawson2015a.pdf, page5 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page5 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [253 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3633,20 +3275,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2750, page=7, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2752, page=7, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 7>
-Package pdftex.def Info: lawson2015a.pdf, page7 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page7 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 7>
-Package pdftex.def Info: lawson2015a.pdf, page7 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page7 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 6>
-Package pdftex.def Info: lawson2015a.pdf, page6 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page6 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [254 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3654,20 +3296,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2754, page=8, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2756, page=8, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 8>
-Package pdftex.def Info: lawson2015a.pdf, page8 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page8 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 8>
-Package pdftex.def Info: lawson2015a.pdf, page8 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page8 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 7>
-Package pdftex.def Info: lawson2015a.pdf, page7 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page7 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [255 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3675,20 +3317,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2766, page=9, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2768, page=9, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 9>
-Package pdftex.def Info: lawson2015a.pdf, page9 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page9 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 9>
-Package pdftex.def Info: lawson2015a.pdf, page9 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page9 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 8>
-Package pdftex.def Info: lawson2015a.pdf, page8 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page8 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [256 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3696,20 +3338,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2773, page=10, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2775, page=10, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 10>
-Package pdftex.def Info: lawson2015a.pdf, page10 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page10 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 10>
-Package pdftex.def Info: lawson2015a.pdf, page10 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page10 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 9>
-Package pdftex.def Info: lawson2015a.pdf, page9 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page9 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [257 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3717,20 +3359,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2779, page=11, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2781, page=11, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 11>
-Package pdftex.def Info: lawson2015a.pdf, page11 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page11 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 11>
-Package pdftex.def Info: lawson2015a.pdf, page11 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page11 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 10>
-Package pdftex.def Info: lawson2015a.pdf, page10 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page10 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [258 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3738,26 +3380,26 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015a.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015a.pdf, id=2783, page=12, 597.50829pt x 822.28506pt>
+<lawson2015a.pdf, id=2785, page=12, 597.50829pt x 822.28506pt>
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 12>
-Package pdftex.def Info: lawson2015a.pdf, page12 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page12 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 12>
-Package pdftex.def Info: lawson2015a.pdf, page12 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page12 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
 File: lawson2015a.pdf Graphic file (type pdf)
 
 <use lawson2015a.pdf, page 11>
-Package pdftex.def Info: lawson2015a.pdf, page11 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page11 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [259 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
 File: lawson2015a.pdf Graphic file (type pdf)
  <use lawson2015a.pdf, page 12>
-Package pdftex.def Info: lawson2015a.pdf, page12 used on input line 337.
+Package pdftex.def Info: lawson2015a.pdf, page12 used on input line 338.
 (pdftex.def)             Requested size: 598.00826pt x 822.97314pt.
  [260 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015a.p
 df>]
@@ -3765,10 +3407,10 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2791, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2793, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf>
-Package pdftex.def Info: lawson2015b.pdf used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf used on input line 341.
 (pdftex.def)             Requested size: 597.50682pt x 785.29375pt.
 
 
@@ -3777,7 +3419,7 @@ pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
  most version <1.5> allowed
 File: lawson2015b.pdf Graphic file (type pdf)
 <use lawson2015b.pdf>
-Package pdftex.def Info: lawson2015b.pdf used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf used on input line 341.
 (pdftex.def)             Requested size: 597.50682pt x 785.29375pt.
 
 
@@ -3789,44 +3431,44 @@ pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2794, page=1, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2796, page=1, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 1>
-Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 341.
 (pdftex.def)             Requested size: 597.50682pt x 785.29375pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 1>
-Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 1>
-Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 1>
-Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 
 
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2795, page=2, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2797, page=2, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 2>
-Package pdftex.def Info: lawson2015b.pdf, page2 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page2 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 2>
-Package pdftex.def Info: lawson2015b.pdf, page2 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page2 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 1>
-Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [261
 
@@ -3835,20 +3477,20 @@ Package pdftex.def Info: lawson2015b.pdf, page1 used on input line 340.
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2835, page=3, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2837, page=3, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 3>
-Package pdftex.def Info: lawson2015b.pdf, page3 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page3 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 3>
-Package pdftex.def Info: lawson2015b.pdf, page3 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page3 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 2>
-Package pdftex.def Info: lawson2015b.pdf, page2 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page2 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [262 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3856,20 +3498,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2844, page=4, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2846, page=4, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 4>
-Package pdftex.def Info: lawson2015b.pdf, page4 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page4 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 4>
-Package pdftex.def Info: lawson2015b.pdf, page4 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page4 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 3>
-Package pdftex.def Info: lawson2015b.pdf, page3 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page3 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [263 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3877,20 +3519,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2852, page=5, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2854, page=5, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 5>
-Package pdftex.def Info: lawson2015b.pdf, page5 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page5 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 5>
-Package pdftex.def Info: lawson2015b.pdf, page5 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page5 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 4>
-Package pdftex.def Info: lawson2015b.pdf, page4 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page4 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [264 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3898,20 +3540,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2856, page=6, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2858, page=6, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 6>
-Package pdftex.def Info: lawson2015b.pdf, page6 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page6 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 6>
-Package pdftex.def Info: lawson2015b.pdf, page6 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page6 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 5>
-Package pdftex.def Info: lawson2015b.pdf, page5 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page5 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [265 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3919,20 +3561,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2861, page=7, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2863, page=7, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 7>
-Package pdftex.def Info: lawson2015b.pdf, page7 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page7 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 7>
-Package pdftex.def Info: lawson2015b.pdf, page7 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page7 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 6>
-Package pdftex.def Info: lawson2015b.pdf, page6 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page6 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [266 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3940,20 +3582,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2865, page=8, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2867, page=8, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 8>
-Package pdftex.def Info: lawson2015b.pdf, page8 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page8 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 8>
-Package pdftex.def Info: lawson2015b.pdf, page8 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page8 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 7>
-Package pdftex.def Info: lawson2015b.pdf, page7 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page7 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [267 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3961,20 +3603,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2877, page=9, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2879, page=9, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 9>
-Package pdftex.def Info: lawson2015b.pdf, page9 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page9 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 9>
-Package pdftex.def Info: lawson2015b.pdf, page9 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page9 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 8>
-Package pdftex.def Info: lawson2015b.pdf, page8 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page8 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [268 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -3982,20 +3624,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2881, page=10, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2883, page=10, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 10>
-Package pdftex.def Info: lawson2015b.pdf, page10 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page10 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 10>
-Package pdftex.def Info: lawson2015b.pdf, page10 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page10 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 9>
-Package pdftex.def Info: lawson2015b.pdf, page9 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page9 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [269 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4003,20 +3645,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2888, page=11, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2890, page=11, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 11>
-Package pdftex.def Info: lawson2015b.pdf, page11 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page11 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 11>
-Package pdftex.def Info: lawson2015b.pdf, page11 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page11 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 10>
-Package pdftex.def Info: lawson2015b.pdf, page10 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page10 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [270 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4024,20 +3666,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2895, page=12, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2897, page=12, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 12>
-Package pdftex.def Info: lawson2015b.pdf, page12 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page12 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 12>
-Package pdftex.def Info: lawson2015b.pdf, page12 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page12 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 11>
-Package pdftex.def Info: lawson2015b.pdf, page11 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page11 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [271 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4045,20 +3687,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2900, page=13, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2902, page=13, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 13>
-Package pdftex.def Info: lawson2015b.pdf, page13 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page13 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 13>
-Package pdftex.def Info: lawson2015b.pdf, page13 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page13 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 12>
-Package pdftex.def Info: lawson2015b.pdf, page12 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page12 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [272 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4066,20 +3708,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2904, page=14, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2906, page=14, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 14>
-Package pdftex.def Info: lawson2015b.pdf, page14 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page14 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 14>
-Package pdftex.def Info: lawson2015b.pdf, page14 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page14 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 13>
-Package pdftex.def Info: lawson2015b.pdf, page13 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page13 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [273 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4087,20 +3729,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2908, page=15, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2910, page=15, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 15>
-Package pdftex.def Info: lawson2015b.pdf, page15 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page15 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 15>
-Package pdftex.def Info: lawson2015b.pdf, page15 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page15 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 14>
-Package pdftex.def Info: lawson2015b.pdf, page14 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page14 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [274 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4108,20 +3750,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2912, page=16, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2914, page=16, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 16>
-Package pdftex.def Info: lawson2015b.pdf, page16 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page16 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 16>
-Package pdftex.def Info: lawson2015b.pdf, page16 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page16 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 15>
-Package pdftex.def Info: lawson2015b.pdf, page15 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page15 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [275 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4129,20 +3771,20 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2921, page=17, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2923, page=17, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 17>
-Package pdftex.def Info: lawson2015b.pdf, page17 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page17 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 17>
-Package pdftex.def Info: lawson2015b.pdf, page17 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page17 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 16>
-Package pdftex.def Info: lawson2015b.pdf, page16 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page16 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [276 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4150,26 +3792,26 @@ df>]
 pdfTeX warning: pdflatex.exe (file C:/Users/James/Desktop/stuff/data/analysis/R
 /THESIS/THESIS/lawson2015b.pdf): PDF inclusion: found PDF version <1.6>, but at
  most version <1.5> allowed
-<lawson2015b.pdf, id=2925, page=18, 597.50829pt x 785.29567pt>
+<lawson2015b.pdf, id=2927, page=18, 597.50829pt x 785.29567pt>
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 18>
-Package pdftex.def Info: lawson2015b.pdf, page18 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page18 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 18>
-Package pdftex.def Info: lawson2015b.pdf, page18 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page18 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
 File: lawson2015b.pdf Graphic file (type pdf)
 
 <use lawson2015b.pdf, page 17>
-Package pdftex.def Info: lawson2015b.pdf, page17 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page17 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [277 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
 File: lawson2015b.pdf Graphic file (type pdf)
  <use lawson2015b.pdf, page 18>
-Package pdftex.def Info: lawson2015b.pdf, page18 used on input line 340.
+Package pdftex.def Info: lawson2015b.pdf, page18 used on input line 341.
 (pdftex.def)             Requested size: 598.00826pt x 785.95279pt.
  [278 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/THESIS/lawson2015b.p
 df>]
@@ -4178,13 +3820,16 @@ Package natbib Warning: There were undefined citations.
 
 \tf@toc=\write4
 
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+
 ! LaTeX Error: \begin{landscape} on input line 69 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.344 \end{document}
+l.345 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4210,22 +3855,21 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
  )
-(\end occurred inside a group at level 5)
+(\end occurred inside a group at level 4)
 
-### simple group (level 5) entered at line 44 ({)
-### simple group (level 4) entered at line 38 ({)
-### semi simple group (level 3) entered at line 69 (\begingroup)
-### semi simple group (level 2) entered at line 77 (\begingroup)
-### semi simple group (level 1) entered at line 134 (\begingroup)
+### simple group (level 4) entered at line 44 ({)
+### simple group (level 3) entered at line 38 ({)
+### semi simple group (level 2) entered at line 69 (\begingroup)
+### semi simple group (level 1) entered at line 77 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11905 strings out of 493921
- 182925 string characters out of 3145277
- 342622 words of memory out of 3000000
- 14943 multiletter control sequences out of 15000+200000
- 20408 words of font info for 78 fonts, out of 3000000 for 9000
+ 11910 strings out of 493921
+ 182994 string characters out of 3145277
+ 342060 words of memory out of 3000000
+ 14948 multiletter control sequences out of 15000+200000
+ 21571 words of font info for 83 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 45i,19n,54p,2456b,950s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,19n,54p,2456b,831s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\James\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
 pen\ec\dpi600\tcrm1095.pk><C:/Program Files (x86)/miktex2.9/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/ams
@@ -4233,27 +3877,29 @@ fonts/cm/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfon
 ts/cm/cmbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
 m/cmbxti10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm
 /cmmi12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cm
-mi8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.
+mi7.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.
 pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/P
-rogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
-m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program F
-iles (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Program Files
- (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x
-86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)
-/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/mi
-ktex2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/miktex
-2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/miktex2.9/
-fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2.9/fon
-ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/fonts/
-type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/miktex2.9/fonts/type
-1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/publi
-c/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/a
-msfonts/symbols/msam10.pfb>
-Output written on master.pdf (290 pages, 26671068 bytes).
+<C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/P
+rogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Progra
+m Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fil
+es (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
+86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)
+/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Program Files (x86)/mik
+tex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/miktex
+2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)/miktex2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/miktex2.9/fo
+nts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/miktex2.9/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/publ
+ic/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/a
+msfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfo
+nts/cm/cmtt10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts
+/cm/cmtt12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/sy
+mbols/msam10.pfb>
+Output written on master.pdf (290 pages, 26745840 bytes).
 PDF statistics:
- 3022 PDF objects out of 3580 (max. 8388607)
+ 3030 PDF objects out of 3580 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  326 words of extra memory for PDF output out of 10000 (max. 10000000)
 
