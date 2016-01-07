@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: master.aux
+A level-1 auxiliary file: introduction.aux
+The style file: apalike.bst
+A level-1 auxiliary file: wooddensity.aux
+Illegal, another \bibstyle command---line 111 of file wooddensity.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 112 of file wooddensity.aux
+ : \bibdata
+ :         {library.bib}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: functionaldiversity.aux
+White space in argument---line 90 of file functionaldiversity.aux
+ : \citation{Rossel2014,Rossel2014a,Rossel2014b,Rossel2014c,Rossel2014d,Rossel2014e,Rossel2014f,Rossel2014g,Rossel2014h,Rossel2014i,Rossel2014j;
+ :                                                                                                                                               Wilford2014}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 148 of file functionaldiversity.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 149 of file functionaldiversity.aux
+ : \bibdata
+ :         {library.bib}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: SEQLD.aux
+Illegal, another \bibstyle command---line 136 of file SEQLD.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 137 of file SEQLD.aux
+ : \bibdata
+ :         {library.bib}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: glasshouse.aux
+Illegal, another \bibstyle command---line 99 of file glasshouse.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 100 of file glasshouse.aux
+ : \bibdata
+ :         {library.bib}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: discussion.aux
+Illegal, another \bibstyle command---line 57 of file discussion.aux
+ : \bibstyle
+ :          {apalike}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 58 of file discussion.aux
+ : \bibdata
+ :         {library}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: WDsupp.aux
+A level-1 auxiliary file: fundivsupp1.aux
+A level-1 auxiliary file: fundivsupp2.aux
+A level-1 auxiliary file: fundivsupp3.aux
+A level-1 auxiliary file: SEQLDsupp.aux
+A level-1 auxiliary file: SEQLDsuppb.aux
+Database file #1: library.bib
+Warning--empty institution in Healy2012
+Warning--there's a number but no volume in Kraft2008
+Warning--empty booktitle in Piedade2010
+Warning--empty publisher in Piedade2010
+Warning--empty journal in Rossel2014e
+Warning--empty journal in Rossel2014j
+Warning--empty journal in Rossel2014i
+Warning--empty journal in Rossel2014d
+Warning--empty journal in Rossel2014a
+Warning--empty journal in Rossel2014c
+Warning--empty journal in Rossel2014h
+Warning--empty journal in Rossel2014b
+Warning--empty journal in Rossel2014g
+Warning--empty journal in Rossel2014f
+Warning--empty journal in Wilford2014
+(There were 11 error messages)

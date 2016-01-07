@@ -1,0 +1,229 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tina Dissertation
+% December 2013, modified to Template June 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Documentclass Memoir 
+% check memman.pdf for help and information
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+\usepackage{caption}
+%\usepackage{lmodern}
+\usepackage{url}
+
+
+% defines new column type
+\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+
+% add a little vertical padding to cramped tables
+\setlength{\extrarowheight}{2pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Examples of Memoir customization
+%%% enable, disable or adjust these as desired
+
+%%% PAGE DIMENSIONS
+% a4paper is by default 210mm wide and 279 mm wide
+
+% default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
+
+% size of the text area
+\settrims{0pt}{0pt}
+\settypeblocksize{230mm}{147mm}{*}
+\setlength{\spinemargin}{27mm}
+\setlength{\foremargin}{36mm}
+%\setulmargins{35mm}{45mm}{*}
+%\setlength{\marginparwidth}{0mm}
+%\setlength{\marginparsep}{0mm}
+%\setlength{\textwidth}{140mm}
+%\settrimmedsize{0.9\stockheight}{0.9\stockwidth}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+%\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
+\setulmargins{*}{*}{1.618} % 50pt upper margins
+%\setlrmargins{*}{*}{1.3}
+\setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+\setheaderspaces{*}{*}{1.618}
+\checkandfixthelayout % to make sure that the layout parameters make sense
+
+%\addtolength{\textwidth}{0cm}
+%\addtolength{\textheight}{1.5cm}
+%\addtolength{\textwidth}{-2cm}
+%\addtolength{\textheight}{+0.5cm}
+
+%%% \maketitle CUSTOMISATION
+% For more than trivial changes, you may as well do it yourself in a titlepage environment
+%\pretitle{\begin{center}\sffamily\Huge\MakeUppercase}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% ToC (table of contents) APPEARANCE
+\maxtocdepth{subsection} % include subsections
+%\renewcommand{\cftchapterpagefont}{}
+%\renewcommand{\cftchapterfont}{}     % no bold!
+
+%%% HEADERS & FOOTERS
+\pagestyle{Ruled} % try also: empty , plain , headings , ruled , Ruled , companion
+
+%%% CHAPTERS
+\chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+
+\renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+\renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+
+%%% TABLES
+\newcolumntype{C}[1]{>{\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
+\newcolumntype{L}[1]{>{\centering}m{#1}}
+
+%%% SECTIONS
+%\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+\maxsecnumdepth{section} % number subsections
+
+\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+%%% Abstract
+\setlength{\absleftindent}{0mm}
+\setlength{\absrightindent}{0mm}
+
+\renewcommand{\absnamepos}{center}
+\setlength{\abstitleskip}{+0cm}
+
+%% END Memoir customization
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEGIN DOCUMENT
+
+\begin{document}
+\doublespacing
+
+\begin{landscape}
+\begin{tiny}
+{\tabulinesep=1.2mm
+\begin{longtabu} to \linewidth {m{5.5cm}m{4cm}m{2.5cm}X} 
+\caption[Description of hydrological variables.]{Hydrological parameters used as metrics of variability in high flow magnitude and frequency and predictability and consistency of water availability in the riparian environment. * - normalised by mean daily flow (ML/day)} \\
+\label{Ch2_T1}
+\hline
+% -----------------These are headings----------------------------------%
+\textit{Variable} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\ \hline
+%
+\endfirsthead
+%
+%\multicolumn{4}{c}%
+%{{\bfseries  Continued from previous page}} \\
+%\hline
+%
+\hline
+\textit{Variable} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\ \hline
+\endhead
+%
+%\hline \multicolumn{4}{|r|}{{Continued on next page}} \\ \hline
+%\endfoot
+%
+%\hline
+%\multicolumn{4}{|r|}{{Concluded}} \\ \hline
+%\endlastfoot
+%-----------Headings end---------------------------------
+\hline
+\multicolumn{4}{l}{\textbf{Flood frequency and magnitude}} \\
+Mean magnitude of high spells * & HSPeak & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{High spells are periods of flow above the 95th percentile on the flow duration curve. We were interested in how frequently these conditions occurred over the time series as well as the mean magnitude of peak flows during these periods. 20 year average return interval (ARI) floods are extreme flow events that have the potential to re-work the fluvial landscape. Together, these metrics indicate the intensity and frequency of mechanical stress experienced by plants in the riparian zone.}} \\
+CV of all years’ mean high spell magnitude & CVAnnHSPeak & dimensionless &  \\
+20 year ARI flood magnitude * & AS20YrARI & dimensionless &  \\
+Mean of all years’ number of high spells & MDFAnnHSNum & year-1 &  \\
+CV of all years’ number of high spells & CVAnnHSNum & dimensionless &  \\[0.4cm]
+%\tabularnewline
+\hline
+\multicolumn{4}{l}{\textbf{Rise and fall rates}} \\
+Mean rate of rise * & MRateRise & day-1 & \multirow{1}{*}{\parbox{9.5cm}{Rise and fall rates represent flow ‘flashiness’. Fast rise rates are associated with flood waves and intense mechanical stress to plant stems. Slow fall rates keep exposed substrate moist for longer periods, which may produce favourable conditions for germination. Historical discharge records are unfortunately limited to daily resolution, so are unable to fully capture flood discharge shapes. High variability between years indicates the occurrence of extreme events which may not have been captured by the mean value.}} \\
+Mean rate of fall * & MRateFall & day-1 &  \\
+CV of all years’ mean rate of rise & CVAnnMRateRise & dimensionless &  \\
+CV of all years’ mean rate of fall & CVAnnMRateFall & dimensionless &  \\[0.9cm] 
+%\tabularnewline
+%\tabularnewline
+\hline
+\newpage
+\multicolumn{4}{l}{\textbf{Baseflow index}} \\
+Baseflow index & BFI & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{Baseflow index is calculated using the ratio of flow during average conditions to total flow. It is a useful metric of consistency of water availability, in that it is maximised when average flow conditions dominate, and minimised when total flow is dominated by above average flow events. Intra-annual variability in baseflow index measures how predictable baseflow index is between years.}} \\
+CV of all years’ Baseflow Index & CVAnnBFI & dimensionless &  \\[1cm]
+%& & & & \\
+%\tabularnewline
+\hline
+\multicolumn{4}{l}{\textbf{Low flow magnitude, frequency and duration}} \\
+CV of all years’ mean low spell magnitude & LSPeak & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{Low spells are periods of flow below the 5th percentile on the flow duration curve. We were interested in how frequently these conditions occurred over the time series as well as the mean and interannual variability in magnitude and duration of low flows.}} \\
+Mean magnitude of low spells & CVAnnLSPeak & dimensionless &  \\
+Mean of all years’ number of low spells & MDFAnnLSNum & year-1 &  \\
+CV of all years’ number of low spells & CVAnnLSNum & dimensionless &  \\
+Mean duration of low spells & LSMeanDur & days &  \\
+CV of all years’ low spell mean duration & CVAnnLSMeanDur & dimensionless &  \\
+Mean flow during driest week of the year * & MA.7daysMinMean & dimensionless &  \\
+Mean days per year under 0.1ML/day flow & MDFAnnUnder0.1 & days/year &  \\
+CV of all years’ days per year under 0.1ML/day flow & CVAnnMDFAnnUnder0.1 & dimensionless &  \\[0.3cm]
+%\tabularnewline
+\hline
+\newpage
+\multicolumn{4}{l}{\textbf{Colwell’s indices}} \\
+Constancy of monthly mean daily flow & C\_MDFM & dimensionless & \multirow{1}{*}{\parbox{9.5cm}{Colwell’s indices provide a measure of the seasonal predictability of flow events and therefore water availability within the riparian zone. Constancy (C) measures uniformity of flow across seasons, and is maximised when flow conditions do not differ between seasons. Contingency (M) is a measure of interannual uniformity in seasonal flow patterns, and is maximized when seasonal patterns of flow are consistent between years.  We generated Colwell’s indices for both average flow conditions and minimum flows conditions.}} \\
+Contingency of monthly mean daily flow & M\_MDFM & dimensionless &  \\
+Constancy based on monthly minimum daily flow & C\_MinM & dimensionless &  \\
+Contingency based on monthly minimum daily flow & M\_MinM & dimensionless & \\[0.7cm]
+%\tabularnewline
+\hline
+\end{longtabu}}
+\end{landscape}
+\end{tiny}
+%\clearpage
+
+
+\begin{table}[ht]
+\tiny
+\centering
+\caption[Statistics for regression models.]{\small{Statistics for regression models comparing hydrological metrics with site mean wood density. P.adj denotes p values adjusted by the Benjamini-Hochberg method. Significant results are shown in bold. Models used are either quadratic or linear, as shown in Fig. 2 and Fig. 3. For non-significant relationships, statistics shown are for linear models.}}
+\label{Ch5_T2}
+{\tabulinesep=1.2mm
+\begin{tabu}to \textwidth {XXXX}
+\hline
+\textit{Variable}          & \textit{P}     & \textit{P.adj} & \textit{R2}    \\ \hline
+CVAnnBFI        & 0.008 & 0.031 & 0.549 \\
+CVAnnMRateRise  & 0.008 & 0.031 & 0.549 \\
+C\_MinM         & 0.009 & 0.031 & 0.542 \\
+C\_MDFM         & 0.012 & 0.031 & 0.522 \\
+HSPeak          & 0.004 & 0.031 & 0.485 \\
+AS20YrARI       & 0.005 & 0.031 & 0.467 \\
+LSPeak          & 0.006 & 0.031 & 0.447 \\
+CVAnnMRateFall  & 0.007 & 0.031 & 0.435 \\
+BFI             & 0.012 & 0.031 & 0.397 \\
+M\_MDFM         & 0.013 & 0.031 & 0.388 \\
+MA.7daysMinMean & 0.017 & 0.036 & 0.368 \\
+MRateRise       & 0.018 & 0.036 & 0.360 \\
+MDFAnnLSNum     & 0.030 & 0.055 & 0.314 \\
+MRateFall       & 0.053 & 0.091 & 0.258 \\
+M\_MinM         & 0.062 & 0.100 & 0.242 \\
+CVAnnHSPeak     & 0.117 & 0.175 & 0.178 \\
+LSMeanDur       & 0.230 & 0.325 & 0.109 \\
+CVAnnLSPeak     & 0.390 & 0.493 & 0.057 \\
+CVAnnHSNum      & 0.390 & 0.493 & 0.057 \\
+CVAnnLSNum      & 0.454 & 0.545 & 0.044 \\
+MDFAnnUnder0.1  & 0.487 & 0.556 & 0.038 \\
+MDFAnnZer       & 0.553 & 0.603 & 0.028 \\
+CVAnnLSMeanDur  & 0.732 & 0.747 & 0.009 \\
+MDFAnnHSNum     & 0.747 & 0.747 & 0.008 \\[0.2cm] \hline
+\end{tabu}}
+\end{table}
+\end{document}

@@ -1,0 +1,42 @@
+\documentclass[openright,12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+\usepackage{caption}
+%\usepackage{lmodern}
+
+\begin{landscape}
+\begin{longtabu} to \linewidth {p{6cm}llp{8cm}} 
+
+\toprule
+% -----------------These are headings----------------------------------%
+\textit{Parameter} & \textit{Abbreviation} & \textit{Units} & \textit{Description} \\ \hline
+%
+\endfirsthead
+
+\textbf{Frequency, magnitude and duration of floods and dry spells} & & & \\
+C & X & X & \multirow{4}{X}{Multirow} \\
+x & x & x & \\
+X & x & x & \\
+x & x & x & \\
+\hline
+
+
+
+\end{longtabu}
+\end{landscape}
+\end{document}
+

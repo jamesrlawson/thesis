@@ -1,0 +1,198 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tina Dissertation
+% December 2013, modified to Template June 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Documentclass Memoir 
+% check memman.pdf for help and information
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+ \usepackage[normalem]{ulem}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+ \useunder{\uline}{\ul}{}
+\usepackage{fancyhdr}
+%\usepackage{caption}
+
+
+% defines new column type
+\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+
+% add a little vertical padding to cramped tables
+\setlength{\extrarowheight}{2pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Examples of Memoir customization
+%%% enable, disable or adjust these as desired
+
+%%% PAGE DIMENSIONS
+% a4paper is by default 210mm wide and 279 mm wide
+
+% default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
+
+% size of the text area
+\settrims{0pt}{0pt}
+\settypeblocksize{230mm}{147mm}{*}
+\setlength{\spinemargin}{27mm}
+\setlength{\foremargin}{36mm}
+%\setulmargins{35mm}{45mm}{*}
+%\setlength{\marginparwidth}{0mm}
+%\setlength{\marginparsep}{0mm}
+%\setlength{\textwidth}{140mm}
+%\settrimmedsize{0.9\stockheight}{0.9\stockwidth}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+%\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
+\setulmargins{*}{*}{1.618} % 50pt upper margins
+%\setlrmargins{*}{*}{1.3}
+\setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+\setheaderspaces{*}{*}{1.618}
+\checkandfixthelayout % to make sure that the layout parameters make sense
+
+%\addtolength{\textwidth}{0cm}
+%\addtolength{\textheight}{1.5cm}
+%\addtolength{\textwidth}{-2cm}
+%\addtolength{\textheight}{+0.5cm}
+
+%%% \maketitle CUSTOMISATION
+% For more than trivial changes, you may as well do it yourself in a titlepage environment
+%\pretitle{\begin{center}\sffamily\Huge\MakeUppercase}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% ToC (table of contents) APPEARANCE
+\maxtocdepth{subsection} % include subsections
+%\renewcommand{\cftchapterpagefont}{}
+%\renewcommand{\cftchapterfont}{}     % no bold!
+
+%%% HEADERS & FOOTERS
+\pagestyle{Ruled} % try also: empty , plain , headings , ruled , Ruled , companion
+
+%%% CHAPTERS
+\chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+
+\renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+\renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+
+%%% TABLES
+\newcolumntype{C}[1]{>{\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
+\newcolumntype{L}[1]{>{\centering}m{#1}}
+
+%%% SECTIONS
+%\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+\maxsecnumdepth{section} % number subsections
+
+\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+%%% Abstract
+\setlength{\absleftindent}{0mm}
+\setlength{\absrightindent}{0mm}
+
+\renewcommand{\absnamepos}{center}
+\setlength{\abstitleskip}{+0cm}
+
+%%% Captions
+
+%\DeclareCaptionFont{tiny}{\tiny}
+%\captionsetup{font=tiny, labelfont=tiny}
+%\usepackage[font={tiny}, labelfont={tiny}]{caption}
+%\usepackage[font=sf, labelfont={sf,bf}, margin=1cm]{caption}
+%\captionsetup{font=scriptsize,labelfont=scriptsize}
+
+%\usepackage[textfont={tiny}, labelfont={tiny}]{caption}
+
+\captionnamefont{\tiny}
+\captiontitlefont{\tiny}
+
+%% END Memoir customization
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEGIN DOCUMENT
+
+\begin{document}
+\onehalfspacing
+
+\begin{landscape}
+\begin{tiny}
+{\tabulinesep=1.2mm
+\begin{longtabu} to \linewidth {m{5.5cm}XXXXXXXX} 
+%\caption[Treatment means, standard deviations and significance of ANOVA models.]{Mean and standard deviation (in parentheses) of measured gas exchange rates, biomass and functional traits for each combination of CO2 level and waterlogging treatments. Significant differences as determined by two-way ANOVA are denoted by the letters NS, C, W or I (NS = no significant effect of either treatment, C = significant effect of CO{\textsubscript{2}} level, W = significant effect of waterlogging treatment, C x W = significant interaction between CO{\textsubscript{2}} level and waterlogging treatment). Where interactions were found, waterlogging treatments in which significant differences between aCO{\textsubscript{2}} and eCO{\textsubscript{2}} were determined by post-hoc tests are denoted by: c = control, w = waterlogged, r = recovery. Significant differences between waterlogging treatments determined by post-hoc tests are denoted using the following script: cw = difference between control and waterlogged measurements, cr = difference between control and recovery measurements, wr = difference between waterlogged and recovery measurements. * - interaction effect was marginally significant, but post-hoc analysis confirmed significant differences among treatments.\newline N.B. biomass measurements for waterlogged plants are omitted because these plants were harvested at a younger age than control or recovery plants and are thus not comparable.}
+\hline
+& \multicolumn{1}{c}{Control} &  & \multicolumn{1}{c}{Waterlogged} &  & \multicolumn{1}{c}{Recovery} &  & \multicolumn{1}{c}{Sig. effect} & \multicolumn{1}{c}{Post-hoc} \\ 
+& \multicolumn{1}{c}{eCO{\textsubscript{2}}} & \multicolumn{1}{c}{aCO{\textsubscript{2}}} & \multicolumn{1}{c}{eCO{\textsubscript{2}}} & \multicolumn{1}{c}{aCO{\textsubscript{2}}} & \multicolumn{1}{c}{eCO{\textsubscript{2}}} & \multicolumn{1}{c}{aCO{\textsubscript{2}}} & & \\
+\hline
+\endhead
+\textit{Acacia floribunda} & & & & & & & & \\
+Photosynthetic rate (A, $\mu$mol  m{\textsuperscript{-2}} s{\textsuperscript{-1}})&
+13.41 (7.58)&
+19.25 (7.47)&
+20.9 (6.83)&
+22.06 (7.68)&
+17.15 (1.17)&
+25.11 (6.3)&C
+& \\
+Stomatal conductance (Gs, mmol m{\textsuperscript{-2}} s{\textsuperscript{-1}})&0.41 (0.11)&0.41 (0.07)&0.36 (0.16)&0.24 (0.07)&0.27 (0.04)&0.49 (0.12)&NS&\\
+Water use efficiency (A/Gs) &1 (0.43)&1.22 (0.62)&1.89 (0.53)&2.55 (0.65)&2.02 (0.35)&1.53 (0.44)&W&cw, cr\\
+Dry root biomass (g)&5.64 (2.35)&6.02 (2.51)&&&3.74 (0.76)&4.64 (0.94)&W&\\
+Dry fine root biomass (g) &2.12 (1.5)&2.27 (1.07)&&&1.01 (0.39)&1.21 (0.35)&W&\\
+Dry shoot biomass (g)&8.9 (4.17)&10.93 (3.67)&&&9.29 (1.65)&10.27 (3.13)&NS&\\
+Root mass fraction&0.4 (0.14)&0.35 (0.07)&0.2 (0.02)&0.24 (0.05)&0.29 (0.03)&0.32 (0.03)&W&cw, wr, cr\\
+Fine root DMC (\%)&0.13 (0.03)&0.16 (0.04)&0.18 (0.07)&0.15 (0.03)&0.13 (0.01)&0.12 (0.02)&W&wr\\
+SLA (cm{\textsuperscript{2}} g{\textsuperscript{-1}})&27.54 (2.12)&28.26 (2.33)&24.83 (2.15)&24.72 (3.12)&29.91 (2.91)&27.84 (1.4)&W&cw, wr\\
+Stem density (g cm{\textsuperscript{-2}})&0.46 (0.07)&0.48 (0.05)&0.49 (0.04)&0.54 (0.07)&0.5 (0.02)&0.47 (0.12)&NS&\\
+\hline
+\textit{Casuarina cunninghamiana} & & & & & & & & \\
+Photosynthetic rate (A, $\mu$mol  m{\textsuperscript{-2}} s{\textsuperscript{-1}}) & 25.3 (6.32)&38.11 (7.8)&26.63 (7.53)&33.53 (3.75)&27.41 (1.81)&35.38 (7.6)&C&\\
+Stomatal conductance (Gs, mmol m{\textsuperscript{-2}} s{\textsuperscript{-1}})&0.53 (0.14)&0.66 (0.15)&0.64 (0.07)&0.57 (0.07)&0.57 (0.07)&0.61 (0.14)&NS&\\
+Water use efficiency (A/Gs)&1.5 (0.2)&1.69 (0.08)&1.26 (0.24)&1.72 (0.23)&1.65 (0.18)&1.65 (0.07)&C x W, C&w\\
+Dry root biomass (g)&5.79 (3.1)&10.88 (3.67)&&&6.31 (2.07)&7.05 (2.75)&C x W, C&c\\
+Dry fine root biomass (g) &1.66 (1.23)&4.11 (1.96)&&&1.95 (0.73)&2.61 (1.31)&C x W*, C&c\\
+Dry shoot biomass (g)&10.44 (3.75)&17.19 (5.66)&&&11.97 (3.28)&10.55 (3)&C x W&\\
+Root mass fraction&0.34 (0.06)&0.39 (0.04)&0.29 (0.1)&0.27 (0.04)&0.34 (0.03)&0.39 (0.04)&W&\\
+Fine root DMC (\%)&0.18 (0.08)&0.25 (0.07)&0.18 (0.08)&0.21 (0.04)&0.15 (0.02)&0.19 (0.03)&C&\\
+SLA (cm{\textsuperscript{2}} g{\textsuperscript{-1}})&20.82 (2.39)&18.84 (1.76)&20.76 (1.61)&20.57 (2.33)&20.3 (2.19)&21.61 (1.47)&NS&\\
+Stem density (g cm{\textsuperscript{-2}})&0.4 (0.03)&0.44 (0.02)&0.34 (0.09)&0.4 (0.03)&0.41 (0.02)&0.41 (0.04)&C&\\
+\hline
+\pagebreak
+\textit{Eucalyptus camaldulensis} & & & & & & & & \\
+Photosynthetic rate (A, $\mu$mol  m{\textsuperscript{-2}} s{\textsuperscript{-1}}) &9.94 (5.88)&15.46 (1.49)&15.46 (1.49)&18.39 (5.11)&17.99 (3.87)&21.09 (2.95)&C, W&cr\\
+Stomatal conductance (Gs, mmol m{\textsuperscript{-2}} s{\textsuperscript{-1}}) &0.14 (0.08)&0.17 (0.10)&0.32 (0.09)&0.28 (0.13)&0.52 (0.17)&0.35 (0.08)&W&cw, wr, cr\\
+Water use efficiency (A/Gs)&2.1 (0.4)&3.26 (1)&1.99 (0.25)&2.65 (0.46)&1.93 (0.21)&2.48 (0.47)&C&\\
+Dry root biomass (g)&14.85 (3.5)&14.32 (2.58)&&&14.09 (5.73)&13.42 (6.51)&NS&\\
+Dry fine root biomass (g) &2.64 (1.84)&1.73 (0.93)&&&3.69 (2.73)&3.82 (2.22)&W&\\
+Dry shoot biomass (g)&22.93 (5.31)&22.63 (6.13)&&&26.49 (10.35)&23.23 (8.49)&NS&\\
+Root mass fraction&0.39 (0.05)&0.39 (0.05)&0.25 (0.02)&0.25 (0.06)&0.35 (0.11)&0.36 (0.05)&W&cw, rw\\
+Fine root DMC (%)&0.25 (0.06)&0.26 (0.07)&0.2 (0.07)&0.18 (0.07)&0.18 (0.07)&0.22 (0.06)&W&cw& cr\\
+SLA (cm{\textsuperscript{2}} g{\textsuperscript{-1}}) &31.7 (8.24)&28.11 (1.74)&31.38 (1.8)&31.82 (3.61)&28.59 (1.59)&28.08 (0.74)&W&cw, wr\\
+Stem density (g cm{\textsuperscript{-2}})&0.39 (0.02)&0.41 (0.02)&0.38 (0.02)&0.39 (0.04)&0.39 (0.04)&0.39 (0.06)&N&\\
+\hline
+\caption[Treatment means, standard deviations and significance of ANOVA models.]{Mean and standard deviation (in parentheses) of measured gas exchange rates, biomass and functional traits for each combination of CO2 level and waterlogging treatments. Significant differences as determined by two-way ANOVA are denoted by the letters NS, C, W or I (NS = no significant effect of either treatment, C = significant effect of CO{\textsubscript{2}} level, W = significant effect of waterlogging treatment, C x W = significant interaction between CO{\textsubscript{2}} level and waterlogging treatment). Where interactions were found, waterlogging treatments in which significant differences between aCO{\textsubscript{2}} and eCO{\textsubscript{2}} were determined by post-hoc tests are denoted by: c = control, w = waterlogged, r = recovery. Significant differences between waterlogging treatments determined by post-hoc tests are denoted using the following script: cw = difference between control and waterlogged measurements, cr = difference between control and recovery measurements, wr = difference between waterlogged and recovery measurements. * - interaction effect was marginally significant, but post-hoc analysis confirmed significant differences among treatments.\newline N.B. biomass measurements for waterlogged plants are omitted because these plants were harvested at a younger age than control or recovery plants and are thus not comparable.} \\
+\end{longtabu}
+}
+\end{landscape}
+\end{tiny}
+
+
+\\
+\end{document}
+
+
+

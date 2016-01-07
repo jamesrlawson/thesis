@@ -1,0 +1,233 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tina Dissertation
+% December 2013, modified to Template June 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Documentclass Memoir 
+% check memman.pdf for help and information
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[openright,12pt,a4paper]{memoir} 
+\usepackage{graphicx}
+%\usepackage[utf8]{inputenc} % set input encoding to utf8
+\usepackage{array} % for tables 
+\usepackage{multirow} % for tables 
+\usepackage{multicol} % for tables
+\usepackage{tabularx} % for tables
+\usepackage{booktabs}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[round]{natbib}
+\usepackage{threeparttable}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{pdflscape}
+\usepackage{caption}
+%\usepackage{lmodern}
+\usepackage{url} \usepackage[normalem]{ulem}
+\useunder{\uline}{\ul}{}
+
+
+
+% defines new column type
+\newcolumntype{Z}{$>${\raggedright\arraybackslash}X}
+
+% add a little vertical padding to cramped tables
+\setlength{\extrarowheight}{2pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Examples of Memoir customization
+%%% enable, disable or adjust these as desired
+
+%%% PAGE DIMENSIONS
+% a4paper is by default 210mm wide and 279 mm wide
+
+% default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
+
+% size of the text area
+  \settrims{0pt}{0pt}
+  \settypeblocksize{230mm}{147mm}{*}
+  \setlength{\spinemargin}{27mm}
+  \setlength{\foremargin}{36mm}
+%\setulmargins{35mm}{45mm}{*}
+%\setlength{\marginparwidth}{0mm}
+%\setlength{\marginparsep}{0mm}
+%\setlength{\textwidth}{140mm}
+%\settrimmedsize{0.9\stockheight}{0.9\stockwidth}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+%\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
+  \setulmargins{*}{*}{1.618} % 50pt upper margins
+%\setlrmargins{*}{*}{1.3}
+%  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+  \setheaderspaces{*}{*}{1.618}
+  \checkandfixthelayout % to make sure that the layout parameters make sense
+
+%\addtolength{\textwidth}{0cm}
+%\addtolength{\textheight}{1.5cm}
+%\addtolength{\textwidth}{-2cm}
+%\addtolength{\textheight}{+0.5cm}
+
+%%% \maketitle CUSTOMISATION
+% For more than trivial changes, you may as well do it yourself in a titlepage environment
+%\pretitle{\begin{center}\sffamily\Huge\MakeUppercase}
+%\posttitle{\par\end{center}\vskip 0.5em}
+
+%%% ToC (table of contents) APPEARANCE
+  \maxtocdepth{subsection} % include subsections
+%\renewcommand{\cftchapterpagefont}{}
+%\renewcommand{\cftchapterfont}{}     % no bold!
+
+%%% HEADERS & FOOTERS
+  \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
+
+%%% CHAPTERS
+  \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+
+  \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+  \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+
+%%% TABLES
+  \newcolumntype{C}[1]{$>${\centering}m{#1}} % defines the default layout of the tables (C$=$centerling, L$=$left)
+  \newcolumntype{L}[1]{$>${\centering}m{#1}}
+
+%%% SECTIONS
+%\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
+  \maxsecnumdepth{section} % number subsections
+
+  \setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+  \setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+
+%%% Abstract
+  \setlength{\absleftindent}{0mm}
+  \setlength{\absrightindent}{0mm}
+
+  \renewcommand{\absnamepos}{center}
+  \setlength{\abstitleskip}{+0cm}
+
+%%% Captions
+
+%\DeclareCaptionFont{tiny}{\tiny}
+%\captionsetup{font$=$tiny, labelfont$=$tiny}
+%\usepackage[font$=${tiny}, labelfont$=${tiny}]{caption}
+%\usepackage[font$=$sf, labelfont$=${sf,bf}, margin$=$1cm]{caption}
+%\captionsetup{font$=$scriptsize,labelfont$=$scriptsize}
+
+%\usepackage[textfont$=${tiny}, labelfont$=${tiny}]{caption}
+
+ % \captionnamefont{\tiny}
+ %\captiontitlefont{\tiny}
+
+%% END Memoir customization
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEGIN DOCUMENT
+
+\begin{document}
+%\doublespacing
+
+\Chapter[Appendix 3b]{Appendix 3b}
+
+Personal communication Ian J. Wright
+
+Personal communication John Morgan
+
+Personal communication Sean Gleason
+
+Personal communication, C. James \\
+
+
+Arnone III, J. A. and Korner, C. (1993). Infuence of elevated CO2 on canopy development and red: far-red ratios in two-storied stands of Ricinus communis. Oecologia, 94(4):510-515.
+
+Ash, J. and Helman, C. (1990). Floristics and vegetation biomass of a forest catchment, Kioloa, south coastal New South Wales. Cunninghamia, 2(2):167-182.
+
+Brock, J. and Others (2005). Native plants of northern Australia.
+
+Clifford, H. T. (2000). Dicotyledon seedling morphology as a correlate of seed-size. Proceedings of the Royal Society of Queensland, 109:39, 48.
+
+Dunlop, C. R., Leach, G. J., Cowie, I. D., Andrews, M., Madsen, M. O., and Gunn, B. F. (1995). Flora of the Darwin region. Conservation Commission of the Northern Territory.
+
+Environmental Weeds of Australia for Biosecurity Queensland. \url{http://keyserver.lucidcentral.org/weeds/data/03030800-0b07-490a-8d04-0605030c0f01/media/Html/Index.htm} (Accessed May 2015).
+
+Floyd, A. G., Hayes, H. C., and others (1960). NSW rainforest trees. Part 1. Family Lauraceae. Research Notes. Division of Forest Management, Forestry Commission, NSW, (3).
+
+Floyd, A. G. and Others (1989). Rainforest trees of mainland South-eastern Australia. Inkata press, Melbourne.
+
+Fonseca, C. R., Overton, J. M., Collins, B., and Westoby, M. (2000). Shifts in trait combinations along rainfall and phosphorus gradients. Journal of Ecology, 88(6):964-977.
+
+Gallagher, R. V., Hughes, L., and Leishman, M. R. (2013). Species loss and gain in communities under future climate change: consequences for functional diversity. Ecography, 36(5):531-540.
+
+Gallagher, R. V. and Leishman, M. R. (2012). Contrasting patterns of trait-based community assembly in lianas and trees from temperate Australia. Oikos, (March):1-10.
+
+Gallagher, R. V., Leishman, M. R., Miller, J. T., Hui, C., Richardson, D. M., Suda, J., and Travinicek, P. (2011). Invasiveness in introduced Australian acacias: the role of species traits and genome size. Diversity and Distributions, 17(5):884-897.
+
+Gleason, S. M., Butler, D. W., Ziemiska, K., Waryszak, P., and Westoby, M. (2012). Stem xylem conductivity is key to plant water balance across Australian angiosperm species. 
+Functional Ecology, 26(2):343-352.
+
+Henery, M. L. and Westoby, M. (2001). Seed mass and seed nutrient content as predictors of seed output variation between species. Oikos, 92(3):479-490.
+
+Knox, K. J. E. and Clarke, P. J. (2011). Fire severity and nutrient availability do not constrain resprouting in forest shrubs. Plant Ecology, 212(12):1967-1978.
+
+Kooyman, R. M., Rossetto, M., Sauquet, H., and Laffan, S. W. (2013). Landscape patterns in rainforest phylogenetic signal: Isolated islands of refugia or structured continental distributions. PLoS ONE, 8(12).
+
+Kooyman, R. M. and Westoby, M. (2009). Costs of height gain in rainforest saplings: main-stem scaling, functional traits and strategy variation across 75 species. Annals of Botany, page mcp185.
+
+Kyle, G. and Leishman, M. R. (2009). Plant functional trait variation in relation to riparian geomorphology: the importance of disturbance. Austral Ecology, 34(7):793-804.
+
+Lake, J. C. and Leishman, M. R. (2004). Invasion success of exotic plants in natural ecosystems: the role of disturbance, plant attributes and freedom from herbivores. Biological Conservation, 117(2):215-226.
+
+Laxton, E. and Others (2005). Relationship between leaf traits, insect communities and resource availability.
+
+Leishman, M. R. and Thomson, V. P. (2005). Experimental evidence for the effects of additional water, nutrients and physical disturbance on invasive plants in low fertility Hawkesbury Sandstone soils, Sydney, Australia. Journal of Ecology, 93(1):38-49.
+
+Leishman, M. R., Thomson, V. P., and Cooke, J. (2010). Native and exotic invasive plants have fundamentally similar carbon capture strategies. Journal of Ecology, 98(1):28-42.
+
+Llorens, A.M. and Leishman, M. R. (2008). Climbing strategies determine light availability for both vines and associated structural hosts. Australian Journal of Botany, 56(6):527-534.
+
+Martinez-Cabrera, H. I., Jones, C. S., Espino, S., and Schenk, H. J. (2009). Wood anatomy and wood density in shrubs: Responses to varying aridity along transcontinental transects. 
+American Journal of Botany, 96(8):1388-1398.
+
+Moles, A. T., Falster, D. S., Leishman, M. R., and Westoby, M. (2004). Small seeded species produce more seeds per square metre of canopy per year, but not per individual per lifetime. Journal of Ecology, 92(3):384-396.
+
+Morgan, H. D. and Westoby, M. (2005). The relationship between nuclear DNA content and leaf strategy in seed plants. Annals of Botany, 96(7):1321-1330.
+
+Mueller, J. M. (2009). Conservation Management Under Climate Change: On Tropical Drought Resistance, Non-native Species Response to Increasing Disturbance, and Assisted Migration. PhD thesis, University of Notre Dame.
+
+Niinemets, U., Wright, I. J., and Evans, J. R. (2009). Leaf mesophyll diffusion conductance in 35 Australian sclerophylls covering a broad range of foliage structural and physiological variation. Journal of Experimental Botany, 60(8):2433-2449.
+
+Ong, C. K., Black, C. R., Wallace, J. S., Khan, A. A. H., Lott, J. E., Jackson, N. A., Howard, S. B., and Smith, D. M. (2000). Productivity, microclimate and water use in Grevillea robusta-based agroforestry systems on hillslopes in semi-arid Kenya. Agriculture, Ecosystems \& Environment, 80(1):121-141.
+
+Osunkoya, O. O., Bayliss, D., Panetta, F. D., and Vivian-Smith, G. (2010). Variation in ecophysiology and carbon economy of invasive and native woody vines of riparian zones in south-eastern Queensland. Austral Ecology, 35(6):636-649.
+
+PlantNET - The Plant Information Network System of The Royal Botanic Gardens and Domain Trust, Sydney, Australia. \url{http://www.plantnet.rbgsyd.nsw.gov.au} (accessed June 2015).
+
+Prentice, I. C., Dong, N., Gleason, S. M., Maire, V., and Wright, I. J. (2014). Balancing the costs of carbon gain and water transport: testing a new theoretical framework for plant functional ecology. Ecology Letters, 17(1):82-91.
+
+Royal Botanic Gardens Kew. Seed Information Database (SID) Version 7.1. Available from: \url{http://data.kew.org/sid/} (August 2015).
+
+Stanley, T. D. and Ross, E. M. (1983). Flora of South-eastern Queensland, vol. 1 Queensland Department of Primary Industries.
+
+Stuart, S. A. (2011). Cold Comfort: Diversifcation and Adaptive Evolution across Latitudinal Gradients. (PhD Thesis)
+
+Sun, S., Jin, D., and Li, R. (2006). Leaf emergence in relation to leaf traits in temperate woody species in East-Chinese Quercus fabri forests. Acta Oecologica, 30(2):212-222.
+
+Tng, D. Y. P., Jordan, G. J., and Bowman, D. M. J. S. (2013). Plant traits demonstratethat temperate and tropical giant eucalypt forests are ecologically convergent with rainforest not savanna. PLoS ONE, 8(12):1-13.
+
+Westoby, M. (1998). A leaf-height-seed (LHS) plant ecology strategy scheme. Plant and Soil, 199(2):213-227.
+
+Wright, I., Clifford, H., Kidson, R., Reed, M., Rice, B., and Westoby, M. (2000). A survey of seed and seedling characters in 1744 Australian dicotyledon species: cross species trait correlations and correlated trait-shifts within evolutionary lineages. Biological Journal of the Linnean Society, 69(4):521-547.
+
+Yoshikawa, T., Masaki, T., Isagi, Y., and Kikuzawa, K. (2012). Interspecific and annual variation in pre-dispersal seed predation by a granivorous bird in two East Asian hackberries, Celtis biondii and Celtis sinensis. Plant Biology, 14(3):506-514.
+
+Zanne, A. E., Lopez-Gonzalez, G., Coomes, D. A., Ilic, J., Jansen, S., Lewis, S. L., Miller, R. B., Swenson, N. G., Wiemann, M. C., and Chave, J. (2009). Global wood density database. Dryad. Identifer: \url{http://hdl.handle.net/10255/dryad235}.
+
+Zhuang, X. Y. and Gorlett, R. T. (1997). Forest and forest succession in Hong Kong, China. Journal of Tropical Ecology, 13(06):857-866.
+
+\end{document}
+
+
+
