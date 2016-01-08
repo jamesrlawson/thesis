@@ -1,0 +1,23 @@
+Thesis edits:
+
+Need some references for discussion re: environment/competition fx on community assembly, James et al. paper, Chao
+- search for REFERNCE NEEDED
+
+Need to redo exotics fig to fix .x and _w DONE
+
+Need to update Ch4 abstract
+
+Need to add imputation appendix DONE
+
+Need to trim richness.chao regression stats PDF (*2a2.pdf)
+
+Need to update supplementary info to use regression stats for richness.chao not richness.stand 
+
+Make a comment about limiting similarity vs environmental filtering or something similar in Ch4, re: subtropical rainforests
+- check Rachael's paper to see what the actual terms are and throw in a reference. Maybe say something about realised niches. 
+
+Need to update intro and discussion to tone down conclusions about hydrology being important and take out the rhythmicity stuff
+- update summary to reflect new hypotheses
+
+"A map of the field sites surveyed in Chapters 2-4 is shown in Appendix" ""\includegraphics[width=12cm,keepaspectratio=true]{Ch6map.png}""
+- need to update all appendix numbers to reflect inserted 'biophysical setting' appendix.
