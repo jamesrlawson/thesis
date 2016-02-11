@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="758.9621"
+   height="464.90485"
+   id="svg2985"
+   xml:space="preserve"><metadata
+     id="metadata2991"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs2989"><clipPath
+       id="clipPath2999"><path
+         d="m 51.384,104.66 697.15,0 0,435.67 -697.15,0 0,-435.67 z"
+         id="path3001" /></clipPath><clipPath
+       id="clipPath4551"><path
+         d="m 49.464,102.62 701.11,0 0,439.63 -701.11,0 0,-439.63 z"
+         id="path4553" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,-137.93487,629.8025)"
+     id="g2993"><g
+       transform="matrix(0.87074883,0,0,0.87074883,66.032006,38.31301)"
+       id="g2995"><g
+         clip-path="url(#clipPath2999)"
+         id="g2997"><text
+           transform="matrix(1,0,0,-1,52.344,529.9)"
+           id="text3003"><tspan
+             x="0 2.9928 4.6701598 8.4076796 11.8668 15.33984 17.8524 19.42536 21.924 25.403999 28.75872 31.27128 34.751282 37.52832 40.270561 41.947922 45.664558 49.402081 50.947201 56.605679 60.308399 64.045921 67.505043 69.182404 70.755363 73.504562 75.919678 79.378799 81.793922 83.457359 86.234398 88.614723 90.292084 93.173523"
+             y="0"
+             id="tspan3005"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold">Linear regression model statistics</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,529.9)"
+           id="text3007"><tspan
+             x="0 4.7954402 8.5329599 11.98512 15.72264 18.221279 21.694321 24.10944 25.772881 28.65432 30.22728 32.725922 36.205921 39.560638 42.0732 45.5532 48.330238 51.072479 52.74984 56.46648 60.203999 61.749119 67.4076 71.110321 74.847839 78.306961 79.984322 81.557281 84.30648 86.721603 90.180717 92.59584 94.259277 97.036324 99.416641 101.094 103.97544"
+             y="0"
+             id="tspan3009"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold">Quadratic regression model statistics</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,515.38)"
+           id="text3011"><tspan
+             x="0 5.5053601 8.8739996 11.15688 13.54416 15.11712"
+             y="0"
+             id="tspan3013"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">metric</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,125.66,515.38)"
+           id="text3015"><tspan
+             x="0"
+             y="0"
+             id="tspan3017"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">p</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,149.06,515.38)"
+           id="text3019"><tspan
+             x="0 3.83496 7.31496 9.1106396 10.66968 12.22872 15.82008 19.174801 22.766159"
+             y="0"
+             id="tspan3021"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">R2.linear</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,191.78,515.38)"
+           id="text3023"><tspan
+             x="0 3.3547201 6.1108799"
+             y="0"
+             id="tspan3025"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">est</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,224.09,515.38)"
+           id="text3027"><tspan
+             x="0 2.75616 5.0390401 8.6303997 11.98512 14.3724"
+             y="0"
+             id="tspan3029"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">stderr</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,257.09,515.38)"
+           id="text3031"><tspan
+             x="0"
+             y="0"
+             id="tspan3033"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">t</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,515.38)"
+           id="text3035"><tspan
+             x="0 5.5053601 8.8739996 11.15688 13.54416 15.11712"
+             y="0"
+             id="tspan3037"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">metric</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,384.41,515.38)"
+           id="text3039"><tspan
+             x="0"
+             y="0"
+             id="tspan3041"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">p</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,407.83,515.38)"
+           id="text3043"><tspan
+             x="0 3.83496 7.31496 9.1106396 12.702 16.29336"
+             y="0"
+             id="tspan3045"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">R2.adj</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,442.51,515.38)"
+           id="text3047"><tspan
+             x="0 3.3547201 6.1108799"
+             y="0"
+             id="tspan3049"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">est</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,476.35,515.38)"
+           id="text3051"><tspan
+             x="0 2.75616 5.0390401 8.6303997 11.98512 14.3724"
+             y="0"
+             id="tspan3053"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">stderr</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,510.19,515.38)"
+           id="text3055"><tspan
+             x="0"
+             y="0"
+             id="tspan3057"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">t</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,535.99,515.38)"
+           id="text3059"><tspan
+             x="0 3.5913601 5.3870401 7.66992 11.02464 13.41192"
+             y="0"
+             id="tspan3061"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">p.term</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,570.67,515.38)"
+           id="text3063"><tspan
+             x="0 3.3547201 6.1108799 8.3937597 10.18944 13.7808 17.37216 20.96352"
+             y="0"
+             id="tspan3065"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">est.quad</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,612.58,515.38)"
+           id="text3067"><tspan
+             x="0 2.75616 5.0390401 8.6303997 11.98512 14.3724 16.78056 18.576241 22.167601 25.758961 29.350321"
+             y="0"
+             id="tspan3069"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">stderr.quad</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,663.34,515.38)"
+           id="text3071"><tspan
+             x="0 2.2828801 4.0785599 7.66992 11.26128 14.85264"
+             y="0"
+             id="tspan3073"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">t.quad</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,697.18,515.38)"
+           id="text3075"><tspan
+             x="0 3.5913601 5.3870401 7.66992 11.02464 13.41192 18.93816 20.733841 24.325199 27.916559 31.507919"
+             y="0"
+             id="tspan3077"
+             style="font-size:6.96000004px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Italic">p.term.quad</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,500.86)"
+           id="text3079"><tspan
+             x="0 3.7096801 7.1896801 13.18224 14.74128 18.3396"
+             y="0"
+             id="tspan3081"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">C_MinM</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,500.86)"
+           id="text3083"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3085"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.049</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,500.86)"
+           id="text3087"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3089"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.098</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,500.86)"
+           id="text3091"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3093"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-74.979</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,235.01,500.86)"
+           id="text3095"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3097"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">36.805</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,500.86)"
+           id="text3099"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3101"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.037</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,486.34)"
+           id="text3103"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 18.708481 22.306801 24.708"
+             y="0"
+             id="tspan3105"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_pdry</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,486.34)"
+           id="text3107"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3109"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,486.34)"
+           id="text3111"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3113"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.373</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,205.49,486.34)"
+           id="text3115"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3117"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.425</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,486.34)"
+           id="text3119"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3121"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.089</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,486.34)"
+           id="text3123"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3125"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4.758</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,486.34)"
+           id="text3127"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 18.708481 22.306801 24.708"
+             y="0"
+             id="tspan3129"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_pdry</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,486.34)"
+           id="text3131"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3133"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,486.34)"
+           id="text3135"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3137"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.367</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,457.75,486.34)"
+           id="text3139"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3141"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.523</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,486.34)"
+           id="text3143"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3145"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.866</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,486.34)"
+           id="text3147"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3149"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.758</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,486.34)"
+           id="text3151"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3153"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.087</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,591.82,486.34)"
+           id="text3155"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3157"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.004</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,486.34)"
+           id="text3159"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3161"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.003</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,486.34)"
+           id="text3163"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3165"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-1.274</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,486.34)"
+           id="text3167"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3169"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.210</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,471.82)"
+           id="text3171"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 18.708481 23.6292 27.09528"
+             y="0"
+             id="tspan3173"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_pwet</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,471.82)"
+           id="text3175"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3177"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,471.82)"
+           id="text3179"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3181"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.438</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,205.49,471.82)"
+           id="text3183"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3185"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.124</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,471.82)"
+           id="text3187"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3189"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.023</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,471.82)"
+           id="text3191"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3193"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">5.446</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,471.82)"
+           id="text3195"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 18.708481 23.6292 27.09528"
+             y="0"
+             id="tspan3197"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_pwet</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,471.82)"
+           id="text3199"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3201"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,471.82)"
+           id="text3203"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3205"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.424</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,457.75,471.82)"
+           id="text3207"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3209"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.310</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,471.82)"
+           id="text3211"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3213"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.188</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,471.82)"
+           id="text3215"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3217"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.655</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,471.82)"
+           id="text3219"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3221"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.106</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,593.98,471.82)"
+           id="text3223"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3225"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,471.82)"
+           id="text3227"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3229"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,471.82)"
+           id="text3231"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3233"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-1.003</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,471.82)"
+           id="text3235"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3237"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.323</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,457.27)"
+           id="text3239"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 17.39304 20.385839 21.94488"
+             y="0"
+             id="tspan3241"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_tcld</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,457.27)"
+           id="text3243"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3245"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.004</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,457.27)"
+           id="text3247"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3249"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.218</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,450.79,457.27)"
+           id="text3251"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3253"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">288.046</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,457.27)"
+           id="text3255"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3257"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">94.845</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,457.27)"
+           id="text3259"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3261"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.037</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,457.27)"
+           id="text3263"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3265"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.004</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,591.82,457.27)"
+           id="text3267"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3269"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-9.764</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,457.27)"
+           id="text3271"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3273"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.281</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,457.27)"
+           id="text3275"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3277"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.976</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,457.27)"
+           id="text3279"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3281"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.005</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,442.75)"
+           id="text3283"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 17.39304 20.1492 23.61528"
+             y="0"
+             id="tspan3285"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_tsea</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,442.75)"
+           id="text3287"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3289"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,442.75)"
+           id="text3291"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3293"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.349</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,203.3,442.75)"
+           id="text3295"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3297"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.415</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,442.75)"
+           id="text3299"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3301"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.092</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,442.75)"
+           id="text3303"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3305"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-4.517</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,442.75)"
+           id="text3307"><tspan
+             x="0 2.9928 4.5518398 6.1108799 11.63016 15.09624 17.39304 20.1492 23.61528"
+             y="0"
+             id="tspan3309"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">clim_tsea</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,442.75)"
+           id="text3311"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3313"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,442.75)"
+           id="text3315"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3317"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.316</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,455.59,442.75)"
+           id="text3319"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3321"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-1.248</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,442.75)"
+           id="text3323"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3325"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.759</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,442.75)"
+           id="text3327"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3329"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.452</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,442.75)"
+           id="text3331"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3333"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.654</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,593.98,442.75)"
+           id="text3335"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3337"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,442.75)"
+           id="text3339"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3341"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.003</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,442.75)"
+           id="text3343"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3345"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.302</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,442.75)"
+           id="text3347"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3349"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.764</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,428.23)"
+           id="text3351"><tspan
+             x="0 3.7096801 7.66992 11.74152 15.33984 18.93816 23.27424 26.489759 30.088079 33.554161 36.922798"
+             y="0"
+             id="tspan3353"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">CVAnnHSPeak</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,428.23)"
+           id="text3355"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3357"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.020</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,428.23)"
+           id="text3359"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3361"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.147</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,448.63,428.23)"
+           id="text3363"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 14.38632 17.86632 21.346319"
+             y="0"
+             id="tspan3365"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-275.048</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,428.23)"
+           id="text3367"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3369"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">93.115</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,428.23)"
+           id="text3371"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3373"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.954</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,428.23)"
+           id="text3375"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3377"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.005</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,587.02,428.23)"
+           id="text3379"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3381"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">173.858</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,641.26,428.23)"
+           id="text3383"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3385"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">59.605</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,428.23)"
+           id="text3387"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3389"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.917</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,428.23)"
+           id="text3391"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3393"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.006</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,413.71)"
+           id="text3395"><tspan
+             x="0 3.7096801 7.66992 11.74152 15.33984 18.93816 22.773121 26.00952"
+             y="0"
+             id="tspan3397"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">CVAnnBFI</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,413.71)"
+           id="text3399"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3401"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.023</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,413.71)"
+           id="text3403"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3405"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.129</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,413.71)"
+           id="text3407"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3409"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-49.174</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,235.01,413.71)"
+           id="text3411"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3413"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">20.735</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,413.71)"
+           id="text3415"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3417"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.372</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,399.19)"
+           id="text3419"><tspan
+             x="0 3.7096801 7.66992 11.74152 15.33984 18.93816 22.773121 26.00952 27.805201 29.60088 35.120159 38.829842"
+             y="0"
+             id="tspan3421"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">CVAnnBFI.mod</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,399.19)"
+           id="text3423"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3425"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.039</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,399.19)"
+           id="text3427"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3429"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.108</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,399.19)"
+           id="text3431"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3433"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-35.956</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,235.01,399.19)"
+           id="text3435"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3437"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">16.803</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,399.19)"
+           id="text3439"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3441"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.140</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,384.67)"
+           id="text3443"><tspan
+             x="0 3.7096801 7.66992 13.66248 17.97768 21.214081 27.450239 30.916321 33.21312 35.008801 40.52808 44.237759"
+             y="0"
+             id="tspan3445"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">CVMDFWet.mod</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,384.67)"
+           id="text3447"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3449"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.042</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,384.67)"
+           id="text3451"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3453"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.104</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,384.67)"
+           id="text3455"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3457"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-25.905</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,235.01,384.67)"
+           id="text3459"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3461"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">12.340</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,384.67)"
+           id="text3463"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3465"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.099</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,370.15)"
+           id="text3467"><tspan
+             x="0 3.46608 6.4797602 10.1964 12.47928 14.03832 17.03112"
+             y="0"
+             id="tspan3469"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">exotics</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,370.15)"
+           id="text3471"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3473"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.013</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,370.15)"
+           id="text3475"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3477"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.152</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,370.15)"
+           id="text3479"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3481"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-42.132</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,235.01,370.15)"
+           id="text3483"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3485"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">16.162</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,370.15)"
+           id="text3487"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3489"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.607</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,370.15)"
+           id="text3491"><tspan
+             x="0 3.46608 6.4797602 10.1964 12.47928 14.03832 17.03112"
+             y="0"
+             id="tspan3493"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">exotics</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,370.15)"
+           id="text3495"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3497"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.027</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,370.15)"
+           id="text3499"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3501"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.132</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,452.11,370.15)"
+           id="text3503"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3505"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-81.399</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,370.15)"
+           id="text3507"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3509"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">40.361</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,370.15)"
+           id="text3511"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3513"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.017</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,370.15)"
+           id="text3515"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3517"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.051</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,590.5,370.15)"
+           id="text3519"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3521"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">59.284</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,641.26,370.15)"
+           id="text3523"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3525"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">55.853</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,370.15)"
+           id="text3527"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3529"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.061</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,370.15)"
+           id="text3531"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3533"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.295</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,355.63)"
+           id="text3535"><tspan
+             x="0 3.2363999 7.5516 9.1106396 11.8668 13.66248 16.89888 20.260559"
+             y="0"
+             id="tspan3537"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">FDis.SES</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,355.63)"
+           id="text3539"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3541"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.010</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,355.63)"
+           id="text3543"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3545"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.180</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,455.59,355.63)"
+           id="text3547"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3549"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-9.141</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,355.63)"
+           id="text3551"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3553"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.459</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,355.63)"
+           id="text3555"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3557"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.643</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,355.63)"
+           id="text3559"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3561"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.012</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,593.98,355.63)"
+           id="text3563"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3565"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">7.080</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,355.63)"
+           id="text3567"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3569"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.775</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,355.63)"
+           id="text3571"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3573"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.552</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,355.63)"
+           id="text3575"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3577"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.015</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,341.11)"
+           id="text3579"><tspan
+             x="0 3.2363999 7.0713601 8.6303997 11.6232 13.41888 16.655279 20.01696"
+             y="0"
+             id="tspan3581"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">FRic.SES</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,341.11)"
+           id="text3583"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3585"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.042</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,341.11)"
+           id="text3587"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3589"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.104</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,341.11)"
+           id="text3591"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3593"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-20.651</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,341.11)"
+           id="text3595"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3597"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">9.823</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,341.11)"
+           id="text3599"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3601"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.102</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,341.11)"
+           id="text3603"><tspan
+             x="0 3.2363999 7.0713601 8.6303997 11.6232 13.41888 16.655279 20.01696"
+             y="0"
+             id="tspan3605"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">FRic.SES</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,341.11)"
+           id="text3607"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3609"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.034</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,341.11)"
+           id="text3611"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3613"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.122</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,452.11,341.11)"
+           id="text3615"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3617"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-22.521</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,341.11)"
+           id="text3619"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3621"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">9.663</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,341.11)"
+           id="text3623"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3625"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.331</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,341.11)"
+           id="text3627"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3629"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.025</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,590.5,341.11)"
+           id="text3631"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3633"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">42.618</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,641.26,341.11)"
+           id="text3635"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3637"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">25.469</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,341.11)"
+           id="text3639"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3641"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.673</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,341.11)"
+           id="text3643"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3645"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.103</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,326.57)"
+           id="text3647"><tspan
+             x="0 4.3360801 7.5516 13.54416 17.010241 20.37888 23.9772 28.2924 31.89072"
+             y="0"
+             id="tspan3649"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">HSMeanDur</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,326.57)"
+           id="text3651"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3653"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.003</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,326.57)"
+           id="text3655"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3657"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.232</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,452.11,326.57)"
+           id="text3659"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3661"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-55.755</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,326.57)"
+           id="text3663"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3665"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">15.341</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,326.57)"
+           id="text3667"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3669"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-3.634</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,326.57)"
+           id="text3671"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3673"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,593.98,326.57)"
+           id="text3675"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3677"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4.707</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,326.57)"
+           id="text3679"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3681"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.337</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,326.57)"
+           id="text3683"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3685"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.520</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,326.57)"
+           id="text3687"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3689"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,312.05)"
+           id="text3691"><tspan
+             x="0 1.55904 5.0251198 8.3937597 10.5444 12.34008 15.6948 18.096001 21.56208"
+             y="0"
+             id="tspan3693"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">leaf.area</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,312.05)"
+           id="text3695"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3697"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.041</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,312.05)"
+           id="text3699"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3701"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.113</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,454.27,312.05)"
+           id="text3703"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3705"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">31.227</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,312.05)"
+           id="text3707"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3709"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">14.123</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,312.05)"
+           id="text3711"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3713"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.211</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,312.05)"
+           id="text3715"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3717"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.033</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,591.82,312.05)"
+           id="text3719"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3721"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.520</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,312.05)"
+           id="text3723"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3725"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.319</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,312.05)"
+           id="text3727"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3729"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-1.911</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,312.05)"
+           id="text3731"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3733"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.064</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,297.53)"
+           id="text3735"><tspan
+             x="0 5.9925599 9.4586401 15.46512 18.819839 21.833521"
+             y="0"
+             id="tspan3737"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MaxM</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,297.53)"
+           id="text3739"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3741"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.015</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,297.53)"
+           id="text3743"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3745"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.147</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,198.5,297.53)"
+           id="text3747"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3749"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">384.485</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,231.53,297.53)"
+           id="text3751"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3753"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">150.292</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,297.53)"
+           id="text3755"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3757"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.558</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,297.53)"
+           id="text3759"><tspan
+             x="0 5.9925599 9.4586401 15.46512 18.819839 21.833521"
+             y="0"
+             id="tspan3761"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MaxM</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,297.53)"
+           id="text3763"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3765"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.005</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,297.53)"
+           id="text3767"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3769"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.207</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,447.31,297.53)"
+           id="text3771"><tspan
+             x="0 3.48 6.96 10.44 13.92 15.71568 19.195681 22.67568"
+             y="0"
+             id="tspan3773"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2149.057</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,484.63,297.53)"
+           id="text3775"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3777"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">807.190</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,297.53)"
+           id="text3779"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3781"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.662</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,297.53)"
+           id="text3783"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3785"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.011</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,577.87,297.53)"
+           id="text3787"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 16.070641 19.55064 21.346319 24.826321 28.30632"
+             y="0"
+             id="tspan3789"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-12483.214</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,634.3,297.53)"
+           id="text3791"><tspan
+             x="0 3.48 6.96 10.44 13.92 15.71568 19.195681 22.67568"
+             y="0"
+             id="tspan3793"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">5619.940</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,297.53)"
+           id="text3795"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3797"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.221</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,297.53)"
+           id="text3799"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3801"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.033</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,283.01)"
+           id="text3803"><tspan
+             x="0 5.9925599 9.4586401 15.46512 18.819839 21.833521 27.81216 29.60784 35.127121 38.8368"
+             y="0"
+             id="tspan3805"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MaxM.mod</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,283.01)"
+           id="text3807"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3809"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.002</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,283.01)"
+           id="text3811"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3813"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.243</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,454.27,283.01)"
+           id="text3815"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3817"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">32.559</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,283.01)"
+           id="text3819"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3821"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">8.657</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,283.01)"
+           id="text3823"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3825"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.761</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,283.01)"
+           id="text3827"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3829"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,588.34,283.01)"
+           id="text3831"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3833"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-11.333</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,283.01)"
+           id="text3835"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3837"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.060</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,283.01)"
+           id="text3839"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3841"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-3.704</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,283.01)"
+           id="text3843"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3845"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,268.49)"
+           id="text3847"><tspan
+             x="0 5.9925599 9.4586401 15.46512 17.02416 20.62248"
+             y="0"
+             id="tspan3849"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MinM</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,268.49)"
+           id="text3851"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3853"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.022</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,268.49)"
+           id="text3855"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3857"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.130</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,198.5,268.49)"
+           id="text3859"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3861"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">311.753</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,231.53,268.49)"
+           id="text3863"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan3865"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">130.876</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,268.49)"
+           id="text3867"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3869"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.382</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,268.49)"
+           id="text3871"><tspan
+             x="0 5.9925599 9.4586401 15.46512 17.02416 20.62248"
+             y="0"
+             id="tspan3873"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MinM</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,268.49)"
+           id="text3875"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3877"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.047</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,268.49)"
+           id="text3879"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3881"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.107</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,447.31,268.49)"
+           id="text3883"><tspan
+             x="0 3.48 6.96 10.44 13.92 15.71568 19.195681 22.67568"
+             y="0"
+             id="tspan3885"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1326.588</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,481.15,268.49)"
+           id="text3887"><tspan
+             x="0 3.48 6.96 10.44 13.92 15.71568 19.195681 22.67568"
+             y="0"
+             id="tspan3889"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1027.966</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,268.49)"
+           id="text3891"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3893"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.290</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,268.49)"
+           id="text3895"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3897"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.205</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,581.35,268.49)"
+           id="text3899"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 16.070641 17.86632 21.346319 24.826321"
+             y="0"
+             id="tspan3901"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-4634.497</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,634.3,268.49)"
+           id="text3903"><tspan
+             x="0 3.48 6.96 10.44 13.92 15.71568 19.195681 22.67568"
+             y="0"
+             id="tspan3905"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4656.253</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,268.49)"
+           id="text3907"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3909"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.995</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,268.49)"
+           id="text3911"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3913"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.326</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,253.97)"
+           id="text3915"><tspan
+             x="0 5.9925599 9.4586401 15.46512 17.02416 20.62248 26.61504 28.410721 33.93 37.639679"
+             y="0"
+             id="tspan3917"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MinM.mod</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,253.97)"
+           id="text3919"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3921"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,253.97)"
+           id="text3923"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3925"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.327</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,201.98,253.97)"
+           id="text3927"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3929"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">27.398</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,253.97)"
+           id="text3931"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3933"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">6.382</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,253.97)"
+           id="text3935"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3937"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4.293</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,253.97)"
+           id="text3939"><tspan
+             x="0 5.9925599 9.4586401 15.46512 17.02416 20.62248 26.61504 28.410721 33.93 37.639679"
+             y="0"
+             id="tspan3941"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">M_MinM.mod</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,253.97)"
+           id="text3943"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3945"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,253.97)"
+           id="text3947"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3949"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.342</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,454.27,253.97)"
+           id="text3951"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3953"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">43.881</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,253.97)"
+           id="text3955"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3957"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">11.534</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,253.97)"
+           id="text3959"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3961"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.804</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,253.97)"
+           id="text3963"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3965"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,588.34,253.97)"
+           id="text3967"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3969"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-17.368</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,641.26,253.97)"
+           id="text3971"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan3973"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">10.229</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,253.97)"
+           id="text3975"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan3977"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-1.698</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,253.97)"
+           id="text3979"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3981"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.098</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,239.45)"
+           id="text3983"><tspan
+             x="0 6 10.3296 13.57344 19.573441 23.88216 27.125999 31.455601 33.843361 36.961922 38.765041 44.284801 48.001919"
+             y="0"
+             id="tspan3985"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">MDFMDFDry.mod</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,239.45)"
+           id="text3987"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3989"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.039</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,239.45)"
+           id="text3991"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan3993"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.115</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,452.11,239.45)"
+           id="text3995"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan3997"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-64.401</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,239.45)"
+           id="text3999"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4001"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">25.458</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,239.45)"
+           id="text4003"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4005"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.530</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,239.45)"
+           id="text4007"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4009"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.016</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,590.5,239.45)"
+           id="text4011"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4013"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">38.306</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,641.26,239.45)"
+           id="text4015"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4017"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">17.945</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,239.45)"
+           id="text4019"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4021"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.135</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,239.45)"
+           id="text4023"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4025"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.039</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,224.93)"
+           id="text4027"><tspan
+             x="0 3.59832 5.9995198 9.7091999 13.30752 16.90584 19.89864 22.18152 23.740561 27.450239 31.048559 34.514641 38.126881 40.52808 43.64616 45.2052 48.559921 52.158241"
+             y="0"
+             id="tspan4029"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">production_dryland</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,224.93)"
+           id="text4031"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4033"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.013</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,224.93)"
+           id="text4035"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4037"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.167</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,450.79,224.93)"
+           id="text4039"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4041"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">209.817</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,224.93)"
+           id="text4043"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4045"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">68.832</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,224.93)"
+           id="text4047"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4049"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.048</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,224.93)"
+           id="text4051"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4053"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.004</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,584.86,224.93)"
+           id="text4055"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 14.38632 17.86632 21.346319"
+             y="0"
+             id="tspan4057"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-385.724</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,637.78,224.93)"
+           id="text4059"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4061"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">146.482</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,224.93)"
+           id="text4063"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4065"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.633</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,224.93)"
+           id="text4067"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4069"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.012</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,210.38)"
+           id="text4071"><tspan
+             x="0 3.59832 5.9995198 9.7091999 13.30752 16.90584 19.89864 22.18152 23.740561 27.450239 31.048559 34.514641 36.087601 38.4888 40.889999 42.449039 45.692402 49.047119 51.330002 54.796082"
+             y="0"
+             id="tspan4073"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">production_irrigated</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,210.38)"
+           id="text4075"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4077"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.014</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,210.38)"
+           id="text4079"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4081"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.150</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,196.34,210.38)"
+           id="text4083"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 14.38632 17.86632 21.346319"
+             y="0"
+             id="tspan4085"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-437.291</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,231.53,210.38)"
+           id="text4087"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4089"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">169.178</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,210.38)"
+           id="text4091"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4093"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-2.585</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,210.38)"
+           id="text4095"><tspan
+             x="0 3.59832 5.9995198 9.7091999 13.30752 16.90584 19.89864 22.18152 23.740561 27.450239 31.048559 34.514641 36.087601 38.4888 40.889999 42.449039 45.692402 49.047119 51.330002 54.796082"
+             y="0"
+             id="tspan4097"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">production_irrigated</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,210.38)"
+           id="text4099"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4101"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.045</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,210.38)"
+           id="text4103"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4105"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.109</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,448.63,210.38)"
+           id="text4107"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 14.38632 17.86632 21.346319"
+             y="0"
+             id="tspan4109"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-208.657</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,484.63,210.38)"
+           id="text4111"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4113"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">509.173</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,210.38)"
+           id="text4115"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4117"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.410</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,210.38)"
+           id="text4119"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4121"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.684</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,581.35,210.38)"
+           id="text4123"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 16.070641 17.86632 21.346319 24.826321"
+             y="0"
+             id="tspan4125"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-5186.056</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,630.82,210.38)"
+           id="text4127"><tspan
+             x="0 3.48 6.96 10.44 13.92 17.4 19.195681 22.67568 26.15568"
+             y="0"
+             id="tspan4129"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">10879.298</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,210.38)"
+           id="text4131"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4133"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.477</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,210.38)"
+           id="text4135"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4137"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.636</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,195.86)"
+           id="text4139"><tspan
+             x="0 2.75616 6.22224 9.7091999 13.30752 15.1032 20.62248 23.9772 26.73336"
+             y="0"
+             id="tspan4141"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">seed.mass</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,195.86)"
+           id="text4143"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4145"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.006</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,195.86)"
+           id="text4147"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4149"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.198</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,454.27,195.86)"
+           id="text4151"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4153"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">64.569</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,195.86)"
+           id="text4155"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4157"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">18.933</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,195.86)"
+           id="text4159"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4161"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.410</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,195.86)"
+           id="text4163"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4165"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.002</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,588.34,195.86)"
+           id="text4167"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan4169"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-18.902</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,195.86)"
+           id="text4171"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4173"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">5.733</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,195.86)"
+           id="text4175"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4177"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-3.297</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,195.86)"
+           id="text4179"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4181"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.002</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,181.34)"
+           id="text4183"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.41864 21.339359"
+             y="0"
+             id="tspan4185"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_awc</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,181.34)"
+           id="text4187"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4189"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.003</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,181.34)"
+           id="text4191"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4193"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.214</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,181.34)"
+           id="text4195"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan4197"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-12.729</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,181.34)"
+           id="text4199"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4201"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.952</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,181.34)"
+           id="text4203"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4205"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-3.220</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,181.34)"
+           id="text4207"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.41864 21.339359"
+             y="0"
+             id="tspan4209"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_awc</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,181.34)"
+           id="text4211"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4213"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.011</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,181.34)"
+           id="text4215"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4217"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.175</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,454.27,181.34)"
+           id="text4219"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4221"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">30.966</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,484.63,181.34)"
+           id="text4223"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4225"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">121.684</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,181.34)"
+           id="text4227"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4229"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.254</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,181.34)"
+           id="text4231"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4233"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.801</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,591.82,181.34)"
+           id="text4235"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4237"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-1.571</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,181.34)"
+           id="text4239"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4241"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4.373</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,181.34)"
+           id="text4243"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4245"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.359</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,181.34)"
+           id="text4247"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4249"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.721</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,166.82)"
+           id="text4251"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.662239 20.260559"
+             y="0"
+             id="tspan4253"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_bdw</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,166.82)"
+           id="text4255"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4257"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.004</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,166.82)"
+           id="text4259"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4261"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.200</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,196.34,166.82)"
+           id="text4263"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 14.38632 17.86632 21.346319"
+             y="0"
+             id="tspan4265"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-111.358</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,235.01,166.82)"
+           id="text4267"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4269"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">36.143</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,166.82)"
+           id="text4271"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4273"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-3.081</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,166.82)"
+           id="text4275"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.662239 20.260559"
+             y="0"
+             id="tspan4277"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_bdw</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,166.82)"
+           id="text4279"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4281"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.014</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,166.82)"
+           id="text4283"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4285"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.163</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,450.79,166.82)"
+           id="text4287"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4289"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">251.956</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,484.63,166.82)"
+           id="text4291"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4293"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">673.837</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,166.82)"
+           id="text4295"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4297"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.374</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,166.82)"
+           id="text4299"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4301"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.711</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,584.86,166.82)"
+           id="text4303"><tspan
+             x="0 2.15064 5.63064 9.1106396 12.59064 14.38632 17.86632 21.346319"
+             y="0"
+             id="tspan4305"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-155.143</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,637.78,166.82)"
+           id="text4307"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4309"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">287.322</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,166.82)"
+           id="text4311"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4313"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.540</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,166.82)"
+           id="text4315"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4317"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.592</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,152.3)"
+           id="text4319"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.536961 19.52976"
+             y="0"
+             id="tspan4321"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_ece</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,152.3)"
+           id="text4323"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4325"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,152.3)"
+           id="text4327"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4329"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.373</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,203.3,152.3)"
+           id="text4331"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4333"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-4.018</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,152.3)"
+           id="text4335"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4337"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.845</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,152.3)"
+           id="text4339"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4341"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-4.755</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,152.3)"
+           id="text4343"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.536961 19.52976"
+             y="0"
+             id="tspan4345"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_ece</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,152.3)"
+           id="text4347"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4349"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,152.3)"
+           id="text4351"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4353"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.339</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,455.59,152.3)"
+           id="text4355"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4357"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-4.458</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,491.59,152.3)"
+           id="text4359"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4361"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">5.559</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,515.23,152.3)"
+           id="text4363"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4365"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.802</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,152.3)"
+           id="text4367"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4369"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.428</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,593.98,152.3)"
+           id="text4371"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4373"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.019</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,152.3)"
+           id="text4375"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4377"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.242</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,152.3)"
+           id="text4379"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4381"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.080</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,152.3)"
+           id="text4383"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4385"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.937</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,137.78)"
+           id="text4387"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.662239 20.260559"
+             y="0"
+             id="tspan4389"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_phc</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,137.78)"
+           id="text4391"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4393"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,137.78)"
+           id="text4395"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4397"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.369</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,199.82,137.78)"
+           id="text4399"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan4401"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-35.936</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,137.78)"
+           id="text4403"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4405"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">7.631</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,262.13,137.78)"
+           id="text4407"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4409"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-4.709</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,137.78)"
+           id="text4411"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 16.662239 20.260559"
+             y="0"
+             id="tspan4413"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_phc</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,137.78)"
+           id="text4415"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4417"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.000</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,137.78)"
+           id="text4419"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4421"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.339</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,454.27,137.78)"
+           id="text4423"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4425"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">99.027</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,484.63,137.78)"
+           id="text4427"><tspan
+             x="0 3.48 6.96 10.44 12.23568 15.71568 19.195681"
+             y="0"
+             id="tspan4429"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">255.470</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,137.78)"
+           id="text4431"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4433"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.388</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,137.78)"
+           id="text4435"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4437"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.701</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,588.34,137.78)"
+           id="text4439"><tspan
+             x="0 2.15064 5.63064 9.1106396 10.90632 14.38632 17.86632"
+             y="0"
+             id="tspan4441"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-13.265</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,641.26,137.78)"
+           id="text4443"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4445"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">25.098</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,676.42,137.78)"
+           id="text4447"><tspan
+             x="0 2.15064 5.63064 7.4263201 10.90632 14.38632"
+             y="0"
+             id="tspan4449"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">-0.529</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,137.78)"
+           id="text4451"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4453"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.600</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,123.26)"
+           id="text4455"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 15.82008 17.37912"
+             y="0"
+             id="tspan4457"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_slt</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,123.26)"
+           id="text4459"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4461"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.049</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,123.26)"
+           id="text4463"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4465"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.098</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,205.49,123.26)"
+           id="text4467"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4469"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.570</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,123.26)"
+           id="text4471"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4473"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.263</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,123.26)"
+           id="text4475"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4477"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">2.034</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,52.344,108.74)"
+           id="text4479"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 15.82008 19.52976"
+             y="0"
+             id="tspan4481"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_soc</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,130.46,108.74)"
+           id="text4483"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4485"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.001</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,173.18,108.74)"
+           id="text4487"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4489"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.252</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,201.98,108.74)"
+           id="text4491"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4493"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">16.169</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,238.49,108.74)"
+           id="text4495"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4497"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4.515</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,264.29,108.74)"
+           id="text4499"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4501"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">3.581</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,310.25,108.74)"
+           id="text4503"><tspan
+             x="0 2.75616 6.4658399 8.0248804 9.5839195 13.05 15.82008 19.52976"
+             y="0"
+             id="tspan4505"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">soil_soc</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,389.21,108.74)"
+           id="text4507"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4509"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.004</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,423.91,108.74)"
+           id="text4511"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4513"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.214</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,457.75,108.74)"
+           id="text4515"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4517"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">7.251</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,488.11,108.74)"
+           id="text4519"><tspan
+             x="0 3.48 6.96 8.7556801 12.23568 15.71568"
+             y="0"
+             id="tspan4521"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">31.348</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,517.39,108.74)"
+           id="text4523"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4525"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.231</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,552.07,108.74)"
+           id="text4527"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4529"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.818</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,593.98,108.74)"
+           id="text4531"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4533"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">1.218</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,644.74,108.74)"
+           id="text4535"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4537"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">4.235</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,678.58,108.74)"
+           id="text4539"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4541"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.288</tspan></text>
+<text
+           transform="matrix(1,0,0,-1,730.9,108.74)"
+           id="text4543"><tspan
+             x="0 3.48 5.2756801 8.7556801 12.23568"
+             y="0"
+             id="tspan4545"
+             style="font-size:6.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri">0.775</tspan></text>
+</g></g><g
+       transform="matrix(0.87074883,0,0,0.87074883,66.032006,38.31301)"
+       id="g4547"><g
+         clip-path="url(#clipPath4551)"
+         id="g4549"><path
+           d="m 50.964,526.72 697.156,0"
+           id="path4555"
+           style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+           d="m 50.904,525.82 697.27,0 0,0.96 -697.27,0 0,-0.96 z"
+           id="path4557"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" /><path
+           d="m 50.964,512.2 697.156,0"
+           id="path4559"
+           style="fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+           d="m 50.904,511.3 697.27,0 0,0.96 -697.27,0 0,-0.96 z"
+           id="path4561"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" /></g></g></g></svg>
