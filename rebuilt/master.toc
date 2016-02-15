@@ -110,4 +110,4 @@
 \gdef \the@ipfilectr {@-13}
 \contentsline {chapter}{Appendix 4b (Univariate regression statistics, supp. Ch4)}{269}
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{Appendix 4c}{275}
+\contentsline {chapter}{Appendix 4c (Bibliography of trait data sources, supp. Ch4)}{275}

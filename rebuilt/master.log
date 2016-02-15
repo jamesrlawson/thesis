@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  15 FEB 2016 14:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  15 FEB 2016 16:26
 entering extended mode
 **master.tex
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\rebuilt\master.tex
@@ -1267,12 +1267,9 @@ Package pdftex.def Info: Ch2CWV.pdf used on input line 239.
  [45 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/Ch2PCAbiplot.
 pdf>]
 [46 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/Ch2CWV.pdf>]
-
-LaTeX Warning: Reference `fig:Ch2sup_F1' on page 47 undefined on input line 249
-.
-
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
+
 [47]
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
@@ -1826,7 +1823,6 @@ Underfull \vbox (badness 10000) detected at line 173
 ] [136]
 Missing character: There is no é in font cmr12!
 Missing character: There is no ’ in font cmr12!
-Missing character: There is no ’ in font cmr12!
 Missing character: There is no é in font cmr12!
  [137
 
@@ -1913,34 +1909,9 @@ df>] [155
 Missing character: There is no ‘ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.289 ...ps with climate and soil variables (clim_
-                                                  pwet, clim_tsea and soil_s...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.290 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
 Underfull \hbox (badness 1112) in paragraph at lines 289--290
 []\OT1/cmr/m/n/12 Most com-mu-ni-ties had higher func-tional dis-per-sion than 
 pre-dicted by the
- []
-
-
-Overfull \hbox (627.80026pt too wide) in paragraph at lines 289--290
-\OT1/cmr/m/n/12 (clim$[]\OML/cmm/m/it/12 wet; clim[]seaandsoil[]oc; amongothers
-\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; indicatingthattraitrangeisnotreducedinconce
-rtwithspeciesrichness:Thetraitswhichdoremainareclusteredtowardstheedgesoftheran
-ge; producinghollowed \OMS/cmsy/m/n/12  
  []
 
 [158] [159] [160] [161] [162] [163]
@@ -2282,7 +2253,7 @@ Overfull \hbox (2.51602pt too wide) in alignment at lines 131--131
 ] [192]
 Missing character: There is no Î in font cmr12!
 Missing character: There is no ¼ in font cmr12!
- <Ch5gasexchange2.png, id=2329, 476.2593pt x 376.0449pt>
+ <Ch5gasexchange2.png, id=2328, 476.2593pt x 376.0449pt>
 File: Ch5gasexchange2.png Graphic file (type png)
 
 <use Ch5gasexchange2.png>
@@ -2292,13 +2263,13 @@ Package pdftex.def Info: Ch5gasexchange2.png used on input line 149.
 
 ] [194 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/Ch5gasexcha
 nge2.png>]
-<Ch5biomass2.png, id=2338, 481.0773pt x 496.85625pt>
+<Ch5biomass2.png, id=2337, 481.0773pt x 496.85625pt>
 File: Ch5biomass2.png Graphic file (type png)
  <use Ch5biomass2.png>
 Package pdftex.def Info: Ch5biomass2.png used on input line 169.
 (pdftex.def)             Requested size: 418.25368pt x 431.98093pt.
 
-[195] <Ch5traits2.png, id=2342, 479.8728pt x 448.074pt>
+[195] <Ch5traits2.png, id=2341, 479.8728pt x 448.074pt>
 File: Ch5traits2.png Graphic file (type png)
  <use Ch5traits2.png>
 Package pdftex.def Info: Ch5traits2.png used on input line 187.
@@ -2579,12 +2550,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [238]
-
-LaTeX Warning: Reference `figCh2_F4' on page 239 undefined on input line 36.
-
-
-LaTeX Warning: Reference `figCh2_F4' on page 239 undefined on input line 36.
-
 ! Undefined control sequence.
 <inserted text>  \hline & \texit 
                                  {PC1} & \texit {PC2} & \texit {PC3} & \texi...
@@ -2806,7 +2771,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 [241
 
 
-] <Ch2figS1.png, id=2491, 680.90385pt x 583.82115pt>
+] <Ch2figS1.png, id=2490, 680.90385pt x 583.82115pt>
 File: Ch2figS1.png Graphic file (type png)
  <use Ch2figS1.png>
 Package pdftex.def Info: Ch2figS1.png used on input line 115.
@@ -3082,7 +3047,7 @@ or  <return>  to continue without it.
 
 [253] [254])
 (C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\rebuilt\biophysical_supp.t
-ex <Ch6map.png, id=2535, 322.806pt x 555.87675pt>
+ex <Ch6map.png, id=2534, 322.806pt x 555.87675pt>
 File: Ch6map.png Graphic file (type png)
  <use Ch6map.png>
 Package pdftex.def Info: Ch6map.png used on input line 9.
@@ -4525,9 +4490,6 @@ or select author-year BibTeX style, e.g. plainnat
 
 )
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  )
@@ -4540,10 +4502,10 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 79 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12267 strings out of 493921
- 188933 string characters out of 3145277
- 351715 words of memory out of 3000000
- 15288 multiletter control sequences out of 15000+200000
+ 12265 strings out of 493921
+ 188907 string characters out of 3145277
+ 351679 words of memory out of 3000000
+ 15286 multiletter control sequences out of 15000+200000
  21571 words of font info for 83 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  45i,20n,54p,2521b,1036s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4575,7 +4537,7 @@ nts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/
 cmtt12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/symbol
 s/msam10.pfb>
-Output written on master.pdf (320 pages, 36829894 bytes).
+Output written on master.pdf (320 pages, 36821812 bytes).
 PDF statistics:
  3171 PDF objects out of 3580 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
