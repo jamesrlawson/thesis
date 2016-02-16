@@ -6,7 +6,7 @@
 % Documentclass Memoir 
 % check memman.pdf for help and information
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass[12pt,a4paper]{memoir} 
+\documentclass[openright,12pt,a4paper]{memoir} 
 \usepackage{graphicx}
 %\usepackage[utf8]{inputenc} % set input encoding to utf8
 \usepackage{array} % for tables 
@@ -24,10 +24,12 @@
 \usepackage{tabu}
 \usepackage{pdflscape}
 \usepackage{caption}
- %\useunder{\uline}{\ul}{}
+\usepackage{textcomp}
+%\usepackage{lmodern}
+
 
 % defines new column type
-\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+\newcolumntype{Z}{$>${\raggedright\arraybackslash}X}
 
 % add a little vertical padding to cramped tables
 \setlength{\extrarowheight}{2pt}
@@ -43,10 +45,10 @@
 % default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
 
 % size of the text area
-\settrims{0pt}{0pt}
-\settypeblocksize{230mm}{147mm}{*}
-\setlength{\spinemargin}{27mm}
-\setlength{\foremargin}{36mm}
+  \settrims{0pt}{0pt}
+  \settypeblocksize{230mm}{147mm}{*}
+  \setlength{\spinemargin}{27mm}
+  \setlength{\foremargin}{36mm}
 %\setulmargins{35mm}{45mm}{*}
 %\setlength{\marginparwidth}{0mm}
 %\setlength{\marginparsep}{0mm}
@@ -56,11 +58,11 @@
 %\setlength{\trimedge}{0pt}
 %\addtolength{\trimedge}{-\paperwidth}
 %\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
-\setulmargins{*}{*}{1.618} % 50pt upper margins
+  \setulmargins{*}{*}{1.618} % 50pt upper margins
 %\setlrmargins{*}{*}{1.3}
-\setlrmargins{*}{*}{1} % golden ratio again for left/right margins
-\setheaderspaces{*}{*}{1.618}
-\checkandfixthelayout % to make sure that the layout parameters make sense
+%  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+  \setheaderspaces{*}{*}{1.618}
+  \checkandfixthelayout % to make sure that the layout parameters make sense
 
 %\addtolength{\textwidth}{0cm}
 %\addtolength{\textheight}{1.5cm}
@@ -73,44 +75,57 @@
 %\posttitle{\par\end{center}\vskip 0.5em}
 
 %%% ToC (table of contents) APPEARANCE
-\maxtocdepth{subsection} % include subsections
+  \maxtocdepth{subsection} % include subsections
 %\renewcommand{\cftchapterpagefont}{}
 %\renewcommand{\cftchapterfont}{}     % no bold!
 
 %%% HEADERS & FOOTERS
-\pagestyle{Ruled} % try also: empty , plain , headings , ruled , Ruled , companion
+  \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
 
 %%% CHAPTERS
-\chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+  \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
 
-\renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
-\renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+  \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+  \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
 
 %%% TABLES
-\newcolumntype{C}[1]{>{\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
-\newcolumntype{L}[1]{>{\centering}m{#1}}
+  \newcolumntype{C}[1]{$>${\centering}m{#1}} % defines the default layout of the tables (C$=$centerling, L$=$left)
+  \newcolumntype{L}[1]{$>${\centering}m{#1}}
 
 %%% SECTIONS
 %\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
-\maxsecnumdepth{section} % number subsections
+  \maxsecnumdepth{section} % number subsections
 
-\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
-\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+  \setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+  \setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
 
 %%% Abstract
-\setlength{\absleftindent}{0mm}
-\setlength{\absrightindent}{0mm}
+  \setlength{\absleftindent}{0mm}
+  \setlength{\absrightindent}{0mm}
 
-\renewcommand{\absnamepos}{center}
-\setlength{\abstitleskip}{+0cm}
+  \renewcommand{\absnamepos}{center}
+  \setlength{\abstitleskip}{+0cm}
+
+%%% Captions
+
+%\DeclareCaptionFont{tiny}{\tiny}
+%\captionsetup{font$=$tiny, labelfont$=$tiny}
+%\usepackage[font$=${tiny}, labelfont$=${tiny}]{caption}
+%\usepackage[font$=$sf, labelfont$=${sf,bf}, margin$=$1cm]{caption}
+%\captionsetup{font$=$scriptsize,labelfont$=$scriptsize}
+
+%\usepackage[textfont$=${tiny}, labelfont$=${tiny}]{caption}
+
+ % \captionnamefont{\tiny}
+ %\captiontitlefont{\tiny}
 
 %% END Memoir customization
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% BEGIN DOCUMENT
 
 \begin{document}
-\doublespacing
-
 \chapter[Interactive effects of waterlogging and atmospheric CO\textsubscript{2} concentration on gas exchange, growth and functional traits of Australian riparian tree seedlings][Waterlogging - eCO\textsubscript{2} interactions]{Interactive effects of waterlogging and atmospheric CO\textsubscript{2} concentration on gas exchange, growth and functional traits of Australian riparian tree seedlings}
 \newpage
 
@@ -327,7 +342,7 @@ We would like to thank Urvashi Lallu, Claire Laws, Muhammad Masood, Daniel Sloan
 \renewcommand\bibname{{References}} 
 \begin{small}
 \bibliographystyle{apalike}
-\bibliography{library}
+\bibliography{library.bib}
 \end{small}
 
 \end{document}

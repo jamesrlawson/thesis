@@ -228,6 +228,30 @@ Callaway, R.~M. (1995).
 \newblock {Positive interactions among plants}.
 \newblock {\em The Botanical Review}, 61(4):306--349.
 
+\bibitem[Capon, 2003]{Capon2003}
+Capon, S.~J. (2003).
+\newblock {Plant community responses to wetting and drying in a large arid
+  floodplain}.
+\newblock {\em River Research and Applications}, 19(5-6):509--520.
+
+\bibitem[Capon, 2005]{Capon2005}
+Capon, S.~J. (2005).
+\newblock {Flood variability and spatial variation in plant community
+  composition and structure on a large arid floodplain}.
+\newblock {\em Journal of Arid Environments}, 60(2):283--302.
+
+\bibitem[Capon, 2007]{Capon2007}
+Capon, S.~J. (2007).
+\newblock {Effects of flooding on seedling emergence from the soil seed bank of
+  a large desert floodplain}.
+\newblock {\em Wetlands}, 27(4):904--914.
+
+\bibitem[Capon and Brock, 2006]{Capon2006}
+Capon, S.~J. and Brock, M.~A. (2006).
+\newblock {Flooding, soil seed bank dynamics and vegetation resilience of a
+  hydrologically variable desert floodplain}.
+\newblock {\em Freshwater Biology}, 51(2):206--223.
+
 \bibitem[Capon et~al., 2013]{Capon2013}
 Capon, S.~J., Chambers, L.~E., {Mac Nally}, R., Naiman, R.~J., Davies, P.,
   Marshall, N., Pittock, J., Reid, M., Capon, T., Douglas, M., Catford, J.,
@@ -264,6 +288,12 @@ Catford, J.~A., Daehler, C.~C., Murphy, H.~T., Sheppard, A.~W., Hardesty,
   Implications for species richness and management}.
 \newblock {\em Perspectives in Plant Ecology, Evolution and Systematics},
   14(3):231--241.
+
+\bibitem[Catford and Downes, 2010]{Catford2010}
+Catford, J.~A. and Downes, B.~J. (2010).
+\newblock {Using multi-scale species distribution data to infer drivers of
+  biological invasion in riparian wetlands}.
+\newblock {\em Diversity and Distributions}, 16(1):20--32.
 
 \bibitem[Catford et~al., 2011]{Catford2011}
 Catford, J.~A., Downes, B.~J., Gippel, C.~J., and Vesk, P.~A. (2011).
@@ -549,8 +579,8 @@ Graf, W. (2006).
   American rivers}.
 \newblock {\em Geomorphology}, 79(3-4):336--360.
 
-\bibitem[Greet et~al., 2011]{Greet2011}
-Greet, J., {Angus Webb}, J., and Cousens, R.~D. (2011).
+\bibitem[Greet et~al., 2011a]{Greet2011}
+Greet, J., {Angus Webb}, J., and Cousens, R.~D. (2011a).
 \newblock {The importance of seasonal flow timing for riparian vegetation
   dynamics: a systematic review using causal criteria analysis}.
 \newblock {\em Freshwater Biology}, 56(7):1231--1247.
@@ -560,6 +590,12 @@ Greet, J., Cousens, R.~D., and Webb, J.~A. (2012).
 \newblock {MORE EXOTIC AND FEWER NATIVE PLANT SPECIES : RIVERINE VEGETATION
   PATTERNS ASSOCIATED WITH ALTERED SEASONAL FLOW PATTERNS}.
 \newblock {\em River Research and Applications}.
+
+\bibitem[Greet et~al., 2011b]{Greet2011a}
+Greet, J., Webb, J.~A., and Downes, B.~J. (2011b).
+\newblock {Flow variability maintains the structure and composition of
+  in-channel riparian vegetation}.
+\newblock {\em Freshwater Biology}, 56(12):2514--2528.
 
 \bibitem[Grime, 2006]{Grime2006}
 Grime, J.~P. (2006).
@@ -1251,6 +1287,12 @@ Paradis, E., Claude, J., and Strimmer, K. (2004).
   language}.
 \newblock {\em Bioinformatics}, 20:289--290.
 
+\bibitem[Parsons et~al., 2005]{Parsons2005}
+Parsons, M., McLoughlin, C.~A., Kotschy, K.~A., Rogers, K.~H., and Rountree,
+  M.~W. (2005).
+\newblock {The effects of extreme floods on the biophysical heterogeneity of
+  river landscapes}.
+
 \bibitem[Pavoine and Bonsall, 2011]{Pavoine2011}
 Pavoine, S. and Bonsall, M.~B. (2011).
 \newblock {Measuring biodiversity to explain community assembly: a unified
@@ -1325,6 +1367,12 @@ Poff, N.~L. and Zimmerman, J. K.~H. (2010).
 Pollard, K.~S., Ge, Y., and Dudoit, S. (2008).
 \newblock {multtest: Resampling-based multiple hypothesis testing}.
 \newblock {\em R package version}, 1(1).
+
+\bibitem[Pollock et~al., 1998]{Pollock1998}
+Pollock, M.~M., Naiman, R.~J., and Hanley, T.~a. (1998).
+\newblock {Plant species richness in riparian wetlands - a test of biodiversity
+  theory.}
+\newblock {\em Ecology}, 79(1):94--105.
 
 \bibitem[Poorter and Navas, 2003]{Poorter2003a}
 Poorter, H. and Navas, M.~L. (2003).

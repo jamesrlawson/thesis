@@ -6,7 +6,7 @@
 % Documentclass Memoir 
 % check memman.pdf for help and information
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass[12pt,a4paper]{memoir} 
+\documentclass[openright,12pt,a4paper]{memoir} 
 \usepackage{graphicx}
 %\usepackage[utf8]{inputenc} % set input encoding to utf8
 \usepackage{array} % for tables 
@@ -24,10 +24,12 @@
 \usepackage{tabu}
 \usepackage{pdflscape}
 \usepackage{caption}
- %\useunder{\uline}{\ul}{}
+\usepackage{textcomp}
+%\usepackage{lmodern}
+
 
 % defines new column type
-\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+\newcolumntype{Z}{$>${\raggedright\arraybackslash}X}
 
 % add a little vertical padding to cramped tables
 \setlength{\extrarowheight}{2pt}
@@ -43,10 +45,10 @@
 % default document in memoir is twoside (recto-verso) and openright (new chapter begins on recto page)
 
 % size of the text area
-\settrims{0pt}{0pt}
-\settypeblocksize{230mm}{147mm}{*}
-\setlength{\spinemargin}{27mm}
-\setlength{\foremargin}{36mm}
+  \settrims{0pt}{0pt}
+  \settypeblocksize{230mm}{147mm}{*}
+  \setlength{\spinemargin}{27mm}
+  \setlength{\foremargin}{36mm}
 %\setulmargins{35mm}{45mm}{*}
 %\setlength{\marginparwidth}{0mm}
 %\setlength{\marginparsep}{0mm}
@@ -56,11 +58,11 @@
 %\setlength{\trimedge}{0pt}
 %\addtolength{\trimedge}{-\paperwidth}
 %\settypeblocksize{*}{\lxvchars}{1.618} % we want to the text block to have golden proportionals
-\setulmargins{*}{*}{1.618} % 50pt upper margins
+  \setulmargins{*}{*}{1.618} % 50pt upper margins
 %\setlrmargins{*}{*}{1.3}
-\setlrmargins{*}{*}{1} % golden ratio again for left/right margins
-\setheaderspaces{*}{*}{1.618}
-\checkandfixthelayout % to make sure that the layout parameters make sense
+%  \setlrmargins{*}{*}{1} % golden ratio again for left/right margins
+  \setheaderspaces{*}{*}{1.618}
+  \checkandfixthelayout % to make sure that the layout parameters make sense
 
 %\addtolength{\textwidth}{0cm}
 %\addtolength{\textheight}{1.5cm}
@@ -73,44 +75,57 @@
 %\posttitle{\par\end{center}\vskip 0.5em}
 
 %%% ToC (table of contents) APPEARANCE
-\maxtocdepth{subsection} % include subsections
+  \maxtocdepth{subsection} % include subsections
 %\renewcommand{\cftchapterpagefont}{}
 %\renewcommand{\cftchapterfont}{}     % no bold!
 
 %%% HEADERS & FOOTERS
-\pagestyle{Ruled} % try also: empty , plain , headings , ruled , Ruled , companion
+  \pagestyle{headings} % try also: empty , plain , headings , ruled , Ruled , companion
 
 %%% CHAPTERS
-\chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
+  \chapterstyle{southall} % try also: default , section , hangnum , companion , article, demo
 
-\renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
-\renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
+  \renewcommand{\chaptitlefont}{\LARGE\sffamily\raggedright} % set sans serif chapter title font
+  \renewcommand{\chapnumfont}{\LARGE\sffamily\raggedright} % set sans serif chapter number font
 
 %%% TABLES
-\newcolumntype{C}[1]{>{\centering}m{#1}} % defines the default layout of the tables (C=centerling, L=left)
-\newcolumntype{L}[1]{>{\centering}m{#1}}
+  \newcolumntype{C}[1]{$>${\centering}m{#1}} % defines the default layout of the tables (C$=$centerling, L$=$left)
+  \newcolumntype{L}[1]{$>${\centering}m{#1}}
 
 %%% SECTIONS
 %\hangsecnum % hang the section numbers into the margin to match \chapterstyle{hangnum}
-\maxsecnumdepth{section} % number subsections
+  \maxsecnumdepth{section} % number subsections
 
-\setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
-\setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
+  \setsecheadstyle{\Large\sffamily\raggedright} % set sans serif section font
+  \setsubsecheadstyle{\large\sffamily\raggedright} % set sans serif subsection font
 
 %%% Abstract
-\setlength{\absleftindent}{0mm}
-\setlength{\absrightindent}{0mm}
+  \setlength{\absleftindent}{0mm}
+  \setlength{\absrightindent}{0mm}
 
-\renewcommand{\absnamepos}{center}
-\setlength{\abstitleskip}{+0cm}
+  \renewcommand{\absnamepos}{center}
+  \setlength{\abstitleskip}{+0cm}
+
+%%% Captions
+
+%\DeclareCaptionFont{tiny}{\tiny}
+%\captionsetup{font$=$tiny, labelfont$=$tiny}
+%\usepackage[font$=${tiny}, labelfont$=${tiny}]{caption}
+%\usepackage[font$=$sf, labelfont$=${sf,bf}, margin$=$1cm]{caption}
+%\captionsetup{font$=$scriptsize,labelfont$=$scriptsize}
+
+%\usepackage[textfont$=${tiny}, labelfont$=${tiny}]{caption}
+
+ % \captionnamefont{\tiny}
+ %\captiontitlefont{\tiny}
 
 %% END Memoir customization
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% BEGIN DOCUMENT
 
 \begin{document}
-\doublespacing
-
 \chapter[Environmental drivers of taxonomic and functional diversity of riparian plant communities in a modified landscape][Diversity in south-east QLD]{Environmental drivers of taxonomic and functional diversity of riparian plant communities in a modified landscape}
 \newpage
 
@@ -134,9 +149,9 @@ Riparian ecosystems are highly biodiverse, provide important ecosystem services 
 
 Environmental heterogeneity is one of the major factors influencing spatial patterns of species diversity \citep{Costanza2011, Stein2014}. According to classical niche-based theories of species co-existence e.g. \citet{Chesson2000}, where each niche is associated with an optimal ecological strategy, structural complexity and steep resource and energy gradients between patches promote diversity by extending niche space and reducing niche overlap. More recently, niches have been characterised in trait-space: niches and their interrelationships are described by patterns of clustering of functional traits (any morphological, physiological or phenological feature measurable at the individual level \citep{Violle2007}), the values of which are optimised to a given set of environmental conditions \citep{Adler2013}. Thus the distribution of functional traits within a community can be expected to be patterned by the degree of heterogeneity in environmental conditions present. Describing communities in traitspace dissolves species distinctions and emphasises ecological strategies: what species do within their community and how they do it. In turn, metrics of diversity derived from functional traits provide a useful complement to taxonomic diversity metrics, as they allow a mechanistic characterisation of biodiversity-ecosystem functioning relationships \citep{Hillebrand2009}. 
 
-Much of the riparian ecology literature identifies hydrology and geomorphology as the dominant abiotic force structuring riparian ecosystems \citep{Poff1997, Bendix2000}. The spatial and temporal heterogeneity inherent in fluvial processes is considered largely responsible for the complex biogeomorphology of riparian environments \citep{Naiman2005, Corenblit2007}. Sediments are scoured and deposited, some plants are washed away while others are watered; organic matter and woody debris moves through the system and propagules are dispersed. The spatial distribution of these processes within the fluvial landscape is contingent on the magnitude and frequency of the flow events that drive erosion and deposition processes, and the resultant morphology and sedimentology of fluvial landforms produced \citep{fryirs2012geomorphic}. This subsequently determines the extent to which different surfaces/landforms are inundated under a range of different flow conditions \citep{Hughes1997}. Temporal variability in flooding patterns adds a further layer of complexity by influencing the success of plant ecological strategies for a given patch. More frequently flooded patches are likely to support graminoids and rheophytes, while succession is likely to proceed further on patches which are less frequently disturbed \citep{Corenblit2009}. Soil moisture conditions are also strongly driven by hydrology in riparian environments, with further implications for plant community assembly \citep{Nilsson2002}. 
+Much of the riparian ecology literature identifies hydrology and geomorphology as the dominant abiotic force structuring riparian ecosystems \citep{Poff1997, Bendix2000}. The spatial and temporal heterogeneity inherent in fluvial processes is considered largely responsible for the complex biogeomorphology of riparian environments \citep{Naiman2005, Corenblit2007}. Sediments are scoured and deposited, some plants are washed away while others are watered; organic matter and woody debris moves through the system and propagules are dispersed; large flood events have been shown to produce substantial 'heterogeneous imprints' on the fluvial landscape \citep{Parsons2005}. The spatial distribution of these processes within the fluvial landscape is contingent on the magnitude and frequency of the flow events that drive erosion and deposition processes, and the resultant morphology and sedimentology of fluvial landforms produced \citep{fryirs2012geomorphic}. This subsequently determines the extent to which different surfaces/landforms are inundated under a range of different flow conditions \citep{Hughes1997}. Temporal variability in flooding patterns adds a further layer of complexity by influencing the success of plant ecological strategies for a given patch. More frequently flooded patches are likely to support graminoids and rheophytes, while succession is likely to proceed further on patches which are less frequently disturbed \citep{Corenblit2009}. Soil moisture conditions are also strongly driven by hydrology in riparian environments, with further implications for plant community assembly \citep{Nilsson2002}. 
 
-Intermediate disturbance-type unimodal relationships between fluvial disturbance and species richness are commonly described, e.g. \citet{Bendix1997}, \citet{Bendix2000}, \citet{Lite2005}, \citet{Corenblit2007}. Unimodal relationships between environmental heterogeneity and diversity are also hypothesised to occur as a result of ‘microfragmentation’ at high levels of heterogeneity \citep{Tamme2010}. Previous work on riparian plant communities has shown strong positive links between functional trait diversity and flow heterogeneity \citep{Lawson2015a}: relationships between functional dispersion and metrics of flow variability were mostly monotonic, with the exception of interannual variability in summertime flows, which showed a unimodal relationship.
+Intermediate disturbance-type unimodal relationships between fluvial disturbance and species richness are commonly described, e.g. \citet{Bendix1997}, \citet{Bendix2000}, \citet{Lite2005}, \citet{Corenblit2007}, \citet{Pollock1998}. Unimodal relationships between environmental heterogeneity and diversity are also hypothesised to occur as a result of ‘microfragmentation’ at high levels of heterogeneity \citep{Tamme2010}. Previous work on riparian plant communities has shown strong positive links between functional trait diversity and flow heterogeneity \citep{Lawson2015a}: relationships between functional dispersion and metrics of flow variability were mostly monotonic, with the exception of interannual variability in summertime flows, which showed a unimodal relationship.
 
 Over half the world’s large river systems and countless smaller watercourses are affected by dams, weirs and diversions \citep{Nilsson2000, Nilsson2005}. While the effects of individual dams tend to be idiosyncratic \citep{Mackay2014}, flow regulation typically homogenises hydrographs by removing small-moderate flows, reducing flood peaks, altering seasonality and increasing predictability of flows \citep{Graf2006, Singer2007, poff2007homogenization}. Depending on the magnitude and form of change to the flow regime, flow modification may result in reduced niche complexity in downstream riparian zones \citep{Lloyd2004}. In a recent comprehensive review of ecological responses to flow modification, \citet{Poff2010} found that 152 out of 165 studies reported decreased values for recorded ecological metrics. Invasion by exotic plants in response to flood reduction often results in extensive shifts in riparian plant assemblages and reduction of both taxonomic and functional diversity \citep{Stokes2008, Merritt2010, Catford2011}. Terrestrialisation of riparian plant communities has also been described as a response to flood reduction \citep{Poff2010}. 
 
@@ -290,7 +305,7 @@ Flowering period length & Proportion of the year spent in flower (proportion, di
 \subsection{Calculating functional diversity, species richness and proportional abundance of exotics}
 Functional richness (FRic) and functional divergence (FDiv) are complementary metrics of functional trait diversity, which together, describe the range and distribution of trait values in a community \citep{Villeger2008}. Functional evenness is also included in the framework introduced by Villéger et al. (2008) but has since shown limited ability to describe change in functional composition across environmental gradients \citep{Pavoine2011, Mason2012}. FRic represents the volume of the convex hull of trait values in a given community while FDiv provides information about the abundance distribution of trait values across this range.
 
-We calculated functional richness and abundance-weighted functional dispersion (FDis) of vegetation communities at each site, using the FD package for R \citep{Laliberte2010}. Gower’s method, which scales traits by their range, was used to generate the required dissimilarity matrix, and Cailliez’s correction was applied to allow for PCoA axes corresponding to negative eigenvalues and render the matrix Euclidean \citep{Cailliez1983}. We transformed FRic and FDis into standardised effect sizes (SES): SES $=$ (obs - nullExp) / sd(nullExp), where obs is the observed functional diversity value and nullExp and sd(nullExp) are the mean and standard deviation of the expected functional diversity in 999 randomized communities \citep{Gotelli2002}. The null model for comparison with FRic was generated using the trial-swap algorithm \citep{Miklos2004} in the picante package \citep{kembel2010picante} to remove dependence on species richness. The null model for comparison with FDis was generated by randomizing abundances among species but within plots (using the resamp.2s  function in spacodiR) \citep{eastman2011spacodir}, to generate a metric of pure functional divergence (FDiv). The resulting indices, FRic.SES and FDis.SES, have greater power to detect community assembly processes than their unstandardised counterparts or the metric of functional divergence defined by Villéger et al. (2008) \citep{Mason2013}.
+We calculated functional richness and abundance-weighted functional dispersion (FDis) of vegetation communities at each site, using the FD package for R \citep{Laliberte2010}. Gower’s method, which scales traits by their range, was used to generate the required dissimilarity matrix, and Cailliez's correction was applied to allow for PCoA axes corresponding to negative eigenvalues and render the matrix Euclidean \citep{Cailliez1983}. We transformed FRic and FDis into standardised effect sizes (SES): SES $=$ (obs - nullExp) / sd(nullExp), where obs is the observed functional diversity value and nullExp and sd(nullExp) are the mean and standard deviation of the expected functional diversity in 999 randomized communities \citep{Gotelli2002}. The null model for comparison with FRic was generated using the trial-swap algorithm \citep{Miklos2004} in the picante package \citep{kembel2010picante} to remove dependence on species richness. The null model for comparison with FDis was generated by randomizing abundances among species but within plots (using the resamp.2s  function in spacodiR) \citep{eastman2011spacodir}, to generate a metric of pure functional divergence (FDiv). The resulting indices, FRic.SES and FDis.SES, have greater power to detect community assembly processes than their unstandardised counterparts or the metric of functional divergence defined by Villéger et al. (2008) \citep{Mason2013}.
 
 To more closely comply with the assumptions of statistical tests, trait values were normalised by either log\textsubscript{10} (SLA, seed mass) or square root (leaf area, maximum height, flowering duration) transformation prior to analysis. Wood density was not transformed. Summary statistics for the trait dataset are shown in Appendix 3a.
 
@@ -391,6 +406,8 @@ With respect to hypothesis 2 (that abundance of exotic species should decline mo
 \section{Discussion}
 We proposed that generation of niche complexity by spatially and temporally heterogeneous environmental conditions is the dominant control on diversity in riparian plant communities. Under this framework, suppression of natural environmental heterogeneity by human modification of river flow regimes and catchment landscapes would result in lower diversity \citep{Poff1997, Poff2010}. This niche-oriented model of riparian plant diversity received mixed support in our study: by some metrics, species richness in fact decreased as hydrological conditions became more heterogeneous, and anthropogeneic flow homogenisation was associated with greater species richness. Although abundance of exotic species did increase with the proportion of surrounding land used for agricultural or silvicultural production, there was no relationship between exotic abundance and flow modification, and negative relationships were found with metrics of hydrological heterogeneity. The proportion of variation in functional diversity explained by environmental variables was comparatively lower than species richness or exotic abundance. Functional diversity metrics showed unimodal relationships with some metrics of hydrological heterogeneity, and declined with others. Flow modification was a weak predictor of functional diversity, and we found no effect of land use.
 
+\subsection*{Flow heterogeneity was not an important driver of riparian vegetation composition}
+
 Given that a large proportion of variation in diversity metrics and exotic abundance explained by flow regime was co-explained by soil and climatic variables, is it possible to attribute flow regime as the dominant control on diversity? Taken individually, metrics of flow regime were the single best predictors of vegetation descriptors for FRic.SES (flood frequency, Fig. \ref{fig:Ch4_F3}d) and exotic abundance (interannual variability in dry season mean daily flows, Fig. \ref{fig:Ch4_F5}e). Species richness was best predicted by precipitation in the wet season (Fig. \ref{fig:Ch4_F2}i), while FDis.SES was best predicted by soil organic carbon content (Fig. \ref{fig:Ch4_F4}h). Variance partitioning showed that optimal models derived from flow regime metrics independently explained only a small proportion of variation in FRic.SES (Fig. \ref{fig:Ch4_F3}a)and exotic abundance (Fig. \ref{fig:Ch4_F5}a), and no independent variation in species richness (Fig. \ref{fig:Ch4_F2}a) or FDis.SES (Fig. \ref{fig:Ch4_F4}a). Extent of flow modification independently explained variation only in species richness, and changes to only a fraction hydrological metrics were important (Fig. \ref{fig:Ch4_F2}). 
 As such it was not possible to give a conclusive affirmative response to this question; it is possible that relatively shallow extent of flow modification in the region over a relatively short timeframe ({\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}30 years) \citep{Mackay2014} did not provide the contrast required to find a consistent effect. The inherent dependency between between between climate and hydrology mean that manipulative experiments are required to confidently determine the influence of flow regime on riparian plant communities. 
 
@@ -398,13 +415,17 @@ Despite these limitations, we can make some interesting observations about the r
 
 Further insight into the processes controlling riparian plant community assembly can be derived from patterns of functional diversity assembly across environmental gradients. FRic.SES represents the volume of the convex hull of trait values in a given community, as a fraction of the ‘expected’ convex hull volume generated from randomized communities \citep{Mason2013}. FRic.SES is not weighted by species abundance and describes only the range of trait values present. FDis.SES, a pure measure of functional divergence \citep{Mason2013}, provides information about the abundance distribution of trait values across this range: functional divergence is maximised when highly abundant species are distant from the community centre of gravity in traitspace \citep{Mouchet2010}. Functional richness was unimodally related to temporal variability in baseflow index. The mechanism behind this is unclear, although following the line of reasoning developed for species richness, the effect of increased niche complexity may be offset by irregular resource availability and habitat microfragmentation as environmental heterogeneity increases \citep{Laanisto2013}.
 
-Most communities had higher functional dispersion than predicted by the abundance-swapped null model, and a similar set of hydrological variables as FRic.SES had significant relationships with FDis.SES. FDis.SES showed a skewed, unimodal distribution across a gradient of constancy of maximum flows (C\_MaxM). Strongly negative values for several communities at the lower bound of C\_MaxM indicates functional underdispersion (i.e. environmental filtering), although the full range of variation in FDis.SES was present at low C\_MaxM \citep{Mason2013}. Variation in FDis.SES constricts as constancy increases, however, so with the exception of communities at this lower bound, communities along rivers with similar C\_MaxM tend to have similar species abundance distributions in traitspace. Interestingly, temporal variability in minimum flows (C\_MinM, M\_MinM) predicted species richness but temporal variability in maximum flows (C\_MaxM) predicted functional divergence. Compared with species richness, both FRic.SES and FDis.SES showed opposite relationships with climate and soil variables (clim_pwet, clim_tsea and soil_soc, among others), indicating that trait range is not reduced in concert with species richness. The traits which do remain are clustered towards the edges of the range, producing hollowed-out community trait distributions. 
+Most communities had higher functional dispersion than predicted by the abundance-swapped null model, and a similar set of hydrological variables as FRic.SES had significant relationships with FDis.SES. FDis.SES showed a skewed, unimodal distribution across a gradient of constancy of maximum flows (C\_MaxM). Strongly negative values for several communities at the lower bound of C\_MaxM indicates functional underdispersion (i.e. environmental filtering), although the full range of variation in FDis.SES was present at low C\_MaxM \citep{Mason2013}. Variation in FDis.SES constricts as constancy increases, however, so with the exception of communities at this lower bound, communities along rivers with similar C\_MaxM tend to have similar species abundance distributions in traitspace. Interestingly, temporal variability in minimum flows (C\_MinM, M\_MinM) predicted species richness but temporal variability in maximum flows (C\_MaxM) predicted functional divergence. Compared with species richness, both FRic.SES and FDis.SES showed opposite relationships with climate and soil variables (clim\_pwet, clim\_tsea and soil\_soc, among others), indicating that trait range is not reduced in concert with species richness. The traits which do remain are clustered towards the edges of the range, producing hollowed-out community trait distributions. 
 
 Substantial variation in exotic abundance was jointly explained by hydrological and land use models. The proportion of catchment land-use associated with irrigated agricultural production was typically low, but production from natural environments (forestry etc.) was common and dominated a number of catchments. The rationale for our hypotheses was that environmental heterogeneity should result in structural complexity of habitat and therefore limit competitive exclusion by invasive species. We found that exotic abundance was associated with more hydrologically heterogeneous sites, and a greater proportion of catchment used for forestry. Thus the combined stresses of disturbance from forestry practices and heterogeneous flows may favour novel species assemblages. It is notable that flow modification was not significantly associated with exotic abundance, given that altered flow regimes have been linked to invasion in previous studies of regulated Australian river systems \citep{Catford2011, Greet2012a} (although see \citet{Merritt2010}). It may be significant that while these former studies found flow modification exacerbated invasion primarily by herbaceous species, the most dominant invaders in this study tended to be woody trees or vines (e.g. \textit{Leucaena leucocephala}, \textit{Macfadyena unguis-cati}, \textit{Celtis sinensis}).
+
+\subsection*{Environmental models explain a limited proportion of variation in vegetation composition}
 
 Environmental conditions may also have interactive effects on exotic abundance and riparian plant diversity. We originally intended to model a set of competing hypotheses about the effects of interactions between environmental conditions on diversity and exotic abundance, but the analyses described here were performed post-hoc, and the scope of possible models proved too wide to winnow down based on our limited prior understanding of the system. Future studies which explicitly accommodate tests for interactions into experimental design may provide more insight into environmental controls on diversity.
 
 Environmental models in this study accounted for only part of the total variation in functional diversity (40.5 \% for FRic.SES and 48.3 \% for FDis.SES). In a previous study of relatively unmodified riparian plant communities in south-eastern Australia, 80 \% of variation in functional dispersion was explained by a combination of variability in flood frequency, variability in flood magnitude, and mean daily summer flow \citep{Lawson2015a}. A fraction of this variation was independently explained by climate, and none was independently explained by soil variables. In contrast, much of the variance in functional diversity metrics in the current study was jointly explained by hydrological, climate and soil models. The weak link observed between functional diversity and flow modification (Fig. \ref{fig:Ch4_F3}e, Fig. \ref{fig:Ch4_F4}e) suggests that local land management practices and land use histories, which could not be accounted for in this study, may have had a strong influence on diversity \citep{Foster2003}. Additionally, our environmental gradient analyses are based on a niche optimisation paradigm of community assembly, and do not account for neutral processes or biotic interactions \citep{Kraft2015}. Competitive interactions may play a more important role in assembly of diverse subtropical plant communities than in more austere environments dominated by abiotic forces \citep{callaway1995positive}. Indeed, as is characteristic of subtropical forests, many of the species identified in this study were not obligate riparian species (James et al., in review) and could not necessarily be expected to display traits associated with adaptation to the riparian environment. 
+
+\subsection*{Implications for management of riparian communities in modified south-east Queensland}
 
 Despite previous findings that ecosystem multifunctionality scales linearly with functional divergence \citep{Mouillot2011}, we caution that communities which are functionally diverse but species poor may have low functional redundancy (i.e. the number of species performing similar ecological roles), which has been associated with diminished resilience to environmental change \citep{Laliberte2010}. Riparian plant communities supported by rivers with highly variable flow regimes may therefore be inherently sensitive to environmental change and exotic invasion. 
 
@@ -429,5 +450,4 @@ Cassandra James designed and carried out the field component of the original stu
 \bibliographystyle{apalike}
 \bibliography{library}
 \end{small}
-
 \end{document}

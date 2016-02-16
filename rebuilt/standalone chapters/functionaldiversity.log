@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  15 FEB 2016 12:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.26)  16 FEB 2016 11:11
 entering extended mode
 **functionaldiversity.tex
 
@@ -544,59 +544,299 @@ Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: threeparttable package is loaded.
 )
+("C:\Program Files (x86)\miktex2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box65
+\UL@hyphenbox=\box66
+\UL@skip=\skip194
+\UL@hook=\toks26
+\UL@height=\dimen177
+\UL@pe=\count162
+\UL@pixel=\dimen178
+\ULC@box=\box67
+Package: ulem 2012/05/18
+\ULdepth=\dimen179
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\cite\chapterbib.sty"
+\c@inputfile=\count163
+Package: chapterbib 2010/09/18  v 1.17
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 0pt and 0pt
-Page height and width: 845.04684pt by 597.50787pt
-Text height and width: 664.5pt by 418pt
-Spine and edge margins: 89.61487pt and 89.6375pt
-Upper and lower margins: 72.8302pt and 107.71664pt
-Headheight and headsep: 14.5pt and 36.05237pt
-Footskip: 30pt
-Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 7pt and 75.6375pt
-Sidecapsep and sidecapwidth: 7pt and 92pt
-Sidebarhsep and sidebarwidth: 7pt and 92pt
-Sidebarvsep and sidebartopsep: 14.5pt and 0pt
-Sidebarheight: 590.14995pt
-Sidefoothsep and sidefootwidth: 7pt and 92pt
-Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
-******************************************************
+("C:\Program Files (x86)\miktex2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2015/07/19 v0.5a Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count164
+\calc@Bcount=\count165
+\calc@Adimen=\dimen180
+\calc@Bdimen=\dimen181
+\calc@Askip=\skip195
+\calc@Bskip=\skip196
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count166
+\calc@Cskip=\skip197
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Program Files (x86)\miktex2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen182
+\AM@pageheight=\dimen183
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2015/07/19 v0.5a Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box68
+\AM@toc@title=\toks28
+\c@AM@survey=\count167
+\AM@templatesizebox=\box69
+)
+("C:\Program Files (x86)\miktex2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\miktex2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count168
+\Gm@cntv=\count169
+\c@Gm@tempcnt=\count170
+\Gm@bindingoffset=\dimen184
+\Gm@wd@mp=\dimen185
+\Gm@odd@mp=\dimen186
+\Gm@even@mp=\dimen187
+\Gm@layoutwidth=\dimen188
+\Gm@layoutheight=\dimen189
+\Gm@layouthoffset=\dimen190
+\Gm@layoutvoffset=\dimen191
+\Gm@dimlist=\toks29
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\miktex2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box70
+\beforetitleunit=\skip198
+\aftertitleunit=\skip199
+\ttl@plus=\dimen192
+\ttl@minus=\dimen193
+\ttl@toksa=\toks30
+\titlewidth=\dimen194
+\titlewidthlast=\dimen195
+\titlewidthfirst=\dimen196
+)
+
+! LaTeX Error: Option clash for package geometry.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 
+     
+The package geometry has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [a4paper,width=150mm,top=25mm,bottom=15mm, bindingoffset=3mm]
+Adding the global options:
+  ,a4paper,width=150mm,top=25mm,bottom=15mm, bindingoffset=3mm
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
 
 
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\rebuilt\standalone chapte
 rs\functionaldiversity.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 145.
+LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 145.
+LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 145.
+LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 145.
+LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 145.
+LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 145.
+LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 145.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 145.
+
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 145.
 
 ("C:\Program Files (x86)\miktex2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count162
-\scratchdimen=\dimen177
-\scratchbox=\box65
-\nofMPsegments=\count163
-\nofMParguments=\count164
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count165
-\MPscratchDim=\dimen178
-\MPnumerator=\count166
-\makeMPintoPDFobject=\count167
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count171
+\scratchdimen=\dimen197
+\scratchbox=\box71
+\nofMPsegments=\count172
+\nofMParguments=\count173
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count174
+\MPscratchDim=\dimen198
+\MPnumerator=\count175
+\makeMPintoPDFobject=\count176
+\everyMPtoPDFconversion=\toks32
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- [1
+\AtBeginShipoutBox=\box72
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=-0.56833pt
+* \evensidemargin=35.28255pt
+* \topmargin=-5.23714pt
+* \headheight=14.5pt
+* \headsep=70.53416pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=92.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
 
 
 {C:/Users/James/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -606,40 +846,262 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+ [2]
 
-[2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Naiman1993' on page 3 undefined on input line
+ 161.
 
- [3
 
-]
+Package natbib Warning: Citation `Poff2002' on page 3 undefined on input line 1
+61.
+
+
+Package natbib Warning: Citation `Nilsson2002' on page 3 undefined on input lin
+e 161.
+
+
+Package natbib Warning: Citation `Tabacchi1996' on page 3 undefined on input li
+ne 163.
+
+
+Package natbib Warning: Citation `Palmer1997' on page 3 undefined on input line
+ 163.
+
+
+Package natbib Warning: Citation `Corenblit2007' on page 3 undefined on input l
+ine 163.
+
+
+Package natbib Warning: Citation `Bornette2008' on page 3 undefined on input li
+ne 163.
+
+
+Package natbib Warning: Citation `Naiman1993' on page 3 undefined on input line
+ 163.
+
+
+Package natbib Warning: Citation `Corenblit2007' on page 3 undefined on input l
+ine 163.
+
+
+Package natbib Warning: Citation `Bornette2008' on page 3 undefined on input li
+ne 163.
+
+
+Package natbib Warning: Citation `Poff1997' on page 3 undefined on input line 1
+63.
+
+
+Package natbib Warning: Citation `Arthington2010' on page 3 undefined on input 
+line 163.
+
+
+Package natbib Warning: Citation `Huston1979' on page 3 undefined on input line
+ 165.
+
+
+Package natbib Warning: Citation `Naiman1993' on page 3 undefined on input line
+ 165.
+
+
+Package natbib Warning: Citation `Diaz1998' on page 3 undefined on input line 1
+65.
+
+
+Package natbib Warning: Citation `connell1978diversity' on page 3 undefined on 
+input line 165.
+
+
+Package natbib Warning: Citation `Bendix1997' on page 3 undefined on input line
+ 165.
+
+
+Package natbib Warning: Citation `Bendix2000' on page 3 undefined on input line
+ 165.
+
+
+Package natbib Warning: Citation `Lite2005' on page 3 undefined on input line 1
+65.
+
+
+Package natbib Warning: Citation `Corenblit2007' on page 3 undefined on input l
+ine 165.
+
+
+Package natbib Warning: Citation `Nilsson1989' on page 3 undefined on input lin
+e 165.
+
+
+Package natbib Warning: Citation `Baker1990' on page 3 undefined on input line 
+165.
+
+
+Package natbib Warning: Citation `Bendix1997' on page 3 undefined on input line
+ 165.
+
+
+Package natbib Warning: Citation `ODonnell2014' on page 3 undefined on input li
+ne 165.
+
+
+Package natbib Warning: Citation `Castelli2000' on page 3 undefined on input li
+ne 167.
+
+
+Package natbib Warning: Citation `Nilsson2002' on page 3 undefined on input lin
+e 167.
+
+
+Package natbib Warning: Citation `Greet2011' on page 3 undefined on input line 
+167.
+
+
+Package natbib Warning: Citation `Catford2012' on page 3 undefined on input lin
+e 167.
+
+
+Package natbib Warning: Citation `Catford2014' on page 3 undefined on input lin
+e 167.
+
+
+Package natbib Warning: Citation `Garssen2014' on page 3 undefined on input lin
+e 167.
+
+
+Package natbib Warning: Citation `Arthington2012' on page 3 undefined on input 
+line 167.
+
+
+Package natbib Warning: Citation `Aerts2011' on page 3 undefined on input line 
+169.
+
+
+Package natbib Warning: Citation `Cadotte2011' on page 3 undefined on input lin
+e 169.
+
+
+Package natbib Warning: Citation `Montoya2012' on page 3 undefined on input lin
+e 169.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+
+Package natbib Warning: Citation `Tilman1997' on page 3 undefined on input line
+ 169.
+
+
+Package natbib Warning: Citation `Diaz1998' on page 3 undefined on input line 1
+69.
+
+
+Package natbib Warning: Citation `Hooper2005' on page 3 undefined on input line
+ 169.
+
+
+Package natbib Warning: Citation `Mouillot2013' on page 3 undefined on input li
+ne 169.
+
+
+Package natbib Warning: Citation `Diaz2007' on page 3 undefined on input line 1
+69.
+
+[3
+
+]
+
+Package natbib Warning: Citation `Schleuter2010' on page 4 undefined on input l
+ine 171.
+
+
+Package natbib Warning: Citation `Mouillot2013' on page 4 undefined on input li
+ne 171.
+
+
+Package natbib Warning: Citation `Mouillot2013' on page 4 undefined on input li
+ne 171.
+
+
+Package natbib Warning: Citation `Villeger2008' on page 4 undefined on input li
+ne 171.
+
+
+Package natbib Warning: Citation `Biswas2010' on page 4 undefined on input line
+ 171.
+
+
+Package natbib Warning: Citation `Pakeman2011' on page 4 undefined on input lin
+e 171.
+
+
+Package natbib Warning: Citation `Savage2012' on page 4 undefined on input line
+ 171.
+
+
+Package natbib Warning: Citation `Clark2012' on page 4 undefined on input line 
+171.
+
+
+Package natbib Warning: Citation `Laliberte2010' on page 4 undefined on input l
+ine 171.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \vbox (badness 1189) has occurred while \output is active []
+Package natbib Warning: Citation `Pakeman2014' on page 4 undefined on input lin
+e 171.
 
- [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
-Underfull \vbox (badness 1189) has occurred while \output is active []
+Package natbib Warning: Citation `Clark2012' on page 4 undefined on input line 
+171.
 
- [6]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 149.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 149.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 149.
 
-[7]
+Package natbib Warning: Citation `Catford2011' on page 4 undefined on input lin
+e 173.
+
+
+Package natbib Warning: Citation `Biswas2010' on page 4 undefined on input line
+ 173.
+
+
+Package natbib Warning: Citation `Laliberte2010' on page 4 undefined on input l
+ine 173.
+
+
+Package natbib Warning: Citation `Pakeman2011' on page 4 undefined on input lin
+e 173.
+
+[4]
+
+Package natbib Warning: Citation `Stein2014' on page 5 undefined on input line 
+175.
+
+
+Package natbib Warning: Citation `finlayson1988australia' on page 5 undefined o
+n input line 177.
+
+
+Package natbib Warning: Citation `Peel2004' on page 5 undefined on input line 1
+77.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 181.
+("C:\Program Files (x86)\miktex2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 181.
+
+("C:\Program Files (x86)\miktex2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package natbib Warning: Citation `Lawson2015' on page 5 undefined on input line
+ 181.
+
+[5] [6]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -647,7 +1109,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.159 ...n the functional diversity analysis.}} \\
+l.191 ...n the functional diversity analysis.}} \\
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -660,95 +1122,114 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 \label{tab:Ch3_T1} \\
+l.192 \label{tab:Ch3_T1} \\
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 163.
-[8
+
+Package natbib Warning: Citation `Wright2004' on page 7 undefined on input line
+ 206.
+
+
+Package natbib Warning: Citation `Reich2003' on page 7 undefined on input line 
+206.
+
+
+Package natbib Warning: Citation `Leishman2000' on page 7 undefined on input li
+ne 206.
+
+
+Package natbib Warning: Citation `Carthey2015' on page 7 undefined on input lin
+e 206.
+
+
+Package natbib Warning: Citation `Leishman2000' on page 7 undefined on input li
+ne 206.
+
+
+Package natbib Warning: Citation `Chave2009' on page 7 undefined on input line 
+206.
+
+
+Package natbib Warning: Citation `telewski1995wind' on page 7 undefined on inpu
+t line 206.
+
+
+Package natbib Warning: Citation `Preston2006' on page 7 undefined on input lin
+e 206.
+
+
+Package natbib Warning: Citation `Lawson2015' on page 7 undefined on input line
+ 206.
+
+
+Package natbib Warning: Citation `Cornelissen2003' on page 7 undefined on input
+ line 206.
+
+
+Package natbib Warning: Citation `steenis1981rheophytes' on page 7 undefined on
+ input line 206.
+
+[7
 
 ]
+
+Package natbib Warning: Citation `Cordlandwehr2013' on page 8 undefined on inpu
+t line 212.
+
+
+Package natbib Warning: Citation `Kazakou2014' on page 8 undefined on input lin
+e 212.
+
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ∞ in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no ∞ in font cmr12!
 
-! Undefined control sequence.
-l.187 ...ous Water Monitoring network website \url
-                                                  {http://realtimedata.water...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Package natbib Warning: Citation `Lawson2015' on page 8 undefined on input line
+ 216.
+
+
+Package natbib Warning: Citation `Chave2009' on page 8 undefined on input line 
+216.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-! Undefined control sequence.
-l.187 ...asurement Information System website \url
-                                                  {http://data.water.vic.gov...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-Overfull \hbox (6.68448pt too wide) in paragraph at lines 187--190
-\OT1/cmr/m/n/12 web-site http://realtimedata.water.nsw.gov.au/water.stm for New
- South Wales sites,
+Package natbib Warning: Citation `marsh2003river' on page 8 undefined on input 
+line 219.
+
+
+Package natbib Warning: Citation `Kennard2010' on page 8 undefined on input lin
+e 221.
+
+
+Package natbib Warning: Citation `Lawson2015' on page 8 undefined on input line
+ 221.
+
+
+Overfull \hbox (13.11855pt too wide) in paragraph at lines 219--222
+\OT1/cmr/m/n/12 web-site $\OT1/cmtt/m/n/12 http : / / realtimedata . water . ns
+w . gov . au / water . stm$ \OT1/cmr/m/n/12 for New South Wales
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-[11]
-Overfull \vbox (130.89104pt too high) detected at line 249
+Overfull \hbox (20.99141pt too wide) in paragraph at lines 219--222
+\OT1/cmr/m/n/12 web-site $\OT1/cmtt/m/n/12 http : / / data . water . vic . gov 
+. au / monitoring . htm$ \OT1/cmr/m/n/12 for Vic-to-rian sites. Thirty
  []
 
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-
-Overfull \vbox (52.2786pt too high) detected at line 249
- []
-
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-Missing character: There is no ‚ in font cmr8!
-Missing character: There is no Ä in font cmr8!
-Missing character: There is no ô in font cmr8!
-
-Overfull \vbox (113.61299pt too high) detected at line 249
- []
+[8
 
 
-Overfull \vbox (68.00108pt too high) detected at line 249
- []
-
-
-Overfull \vbox (130.89104pt too high) detected at line 249
+] [9]
+Overfull \vbox (81.11113pt too high) detected at line 281
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -761,7 +1242,7 @@ Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (52.2786pt too high) detected at line 249
+Overfull \vbox (33.61113pt too high) detected at line 281
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -771,15 +1252,51 @@ Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (113.61299pt too high) detected at line 249
+Overfull \vbox (70.05557pt too high) detected at line 281
  []
 
 
-Overfull \vbox (68.00108pt too high) detected at line 249
+Overfull \vbox (43.11113pt too high) detected at line 281
  []
 
 
-Overfull \vbox (130.41573pt too high) detected at line 249
+Overfull \vbox (81.11113pt too high) detected at line 281
+ []
+
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+
+Overfull \vbox (33.61113pt too high) detected at line 281
+ []
+
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+
+Overfull \vbox (70.05557pt too high) detected at line 281
+ []
+
+
+Overfull \vbox (43.11113pt too high) detected at line 281
+ []
+
+
+Overfull \vbox (78.22691pt too high) detected at line 281
+ []
+
+
+Overfull \hbox (8.45305pt too wide) in paragraph at lines 281--281
+[][]| 
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -792,7 +1309,12 @@ Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (51.45828pt too high) detected at line 249
+Overfull \vbox (30.03693pt too high) detected at line 281
+ []
+
+
+Overfull \hbox (8.45305pt too wide) in paragraph at lines 281--281
+[][]| 
  []
 
 Missing character: There is no ‚ in font cmr8!
@@ -802,31 +1324,74 @@ Missing character: There is no ‚ in font cmr8!
 Missing character: There is no Ä in font cmr8!
 Missing character: There is no ô in font cmr8!
 
-Overfull \vbox (113.3599pt too high) detected at line 249
+Overfull \vbox (67.6158pt too high) detected at line 281
  []
 
 
-Overfull \vbox (67.52577pt too high) detected at line 249
+Overfull \hbox (8.45305pt too wide) in paragraph at lines 281--281
+[][]| 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 249
+Overfull \vbox (40.22691pt too high) detected at line 281
  []
+
+
+Overfull \hbox (8.45305pt too wide) in paragraph at lines 281--281
+[][]| 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 281
+ []
+
+[10
+
+] [11]
+
+Package natbib Warning: Citation `Laliberte2010' on page 12 undefined on input 
+line 286.
+
+
+Package natbib Warning: Citation `Anderson2006' on page 12 undefined on input l
+ine 286.
+
+
+Package natbib Warning: Citation `Gower1971' on page 12 undefined on input line
+ 286.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Package natbib Warning: Citation `Cailliez1983' on page 12 undefined on input l
+ine 286.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Package natbib Warning: Citation `debastiani2012syncsa' on page 12 undefined on
+ input line 286.
+
+
+Package natbib Warning: Citation `RCoreTeam2015' on page 12 undefined on input 
+line 289.
+
+
+Package natbib Warning: Citation `RCoreTeam2015' on page 12 undefined on input 
+line 291.
+
+
+Package natbib Warning: Citation `Benjamini2006' on page 12 undefined on input 
+line 294.
+
+
+Package natbib Warning: Citation `pollard2008multtest' on page 12 undefined on 
+input line 294.
 
 [12
 
-] [13]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14
-
 
 ]
 Missing character: There is no ‚ in font cmr12!
@@ -838,49 +1403,141 @@ Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
+
+
+Package natbib Warning: Citation `Robinson2009' on page 13 undefined on input l
+ine 298.
+
+
+Package natbib Warning: Citation `heiberger2004statistical' on page 13 undefine
+d on input line 298.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-[15]
-Underfull \vbox (badness 2932) has occurred while \output is active []
+Package natbib Warning: Citation `barton2012mumin' on page 13 undefined on inpu
+t line 298.
 
- [16]
-[17] <Ch3fig1.png, id=66, 423.984pt x 489.38835pt>
+
+Package natbib Warning: Citation `burnham2002model' on page 13 undefined on inp
+ut line 298.
+
+
+Package natbib Warning: Citation `Laliberte2013' on page 13 undefined on input 
+line 301.
+
+
+Package natbib Warning: Citation `Vazquez-Rivera2015' on page 13 undefined on i
+nput line 301.
+
+
+Package natbib Warning: Citation `Hutchinson2014' on page 13 undefined on input
+ line 301.
+
+
+Package natbib Warning: Citation `busby1991bioclim' on page 13 undefined on inp
+ut line 301.
+
+
+Package natbib Warning: Citation `Rossel2014' on page 13 undefined on input lin
+e 301.
+
+
+Package natbib Warning: Citation `Rossel2014a' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014b' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014c' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014d' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014e' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014f' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014g' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014h' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014i' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Rossel2014j; Wilford2014' on page 13 undefine
+d on input line 301.
+
+
+Package natbib Warning: Citation `Legendre2007' on page 13 undefined on input l
+ine 301.
+
+
+Package natbib Warning: Citation `Oksanen2013' on page 13 undefined on input li
+ne 301.
+
+
+Package natbib Warning: Citation `Peres-Neto2006' on page 13 undefined on input
+ line 301.
+
+[13] <Ch3fig1.png, id=56, 423.984pt x 489.38835pt>
 File: Ch3fig1.png Graphic file (type png)
  <use Ch3fig1.png>
-Package pdftex.def Info: Ch3fig1.png used on input line 280.
-(pdftex.def)             Requested size: 418.0pt x 482.49467pt.
- [18]
-[19 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/standalone cha
-pters/Ch3fig1.png>] <Ch3fig2.png, id=76, 422.65906pt x 482.40225pt>
+Package pdftex.def Info: Ch3fig1.png used on input line 312.
+(pdftex.def)             Requested size: 418.25368pt x 482.7859pt.
+
+
+LaTeX Warning: Float too large for page by 23.25285pt on input line 316.
+
+[14] [15 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/standalon
+e chapters/Ch3fig1.png>] <Ch3fig2.png, id=65, 422.65906pt x 482.40225pt>
 File: Ch3fig2.png Graphic file (type png)
 
 <use Ch3fig2.png>
-Package pdftex.def Info: Ch3fig2.png used on input line 293.
-(pdftex.def)             Requested size: 418.0pt x 477.08652pt.
- [20
+Package pdftex.def Info: Ch3fig2.png used on input line 325.
+(pdftex.def)             Requested size: 418.25368pt x 477.3736pt.
 
-] [21 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/standalone c
-hapters/Ch3fig2.png>]
-<Ch3fig3.png, id=84, 414.5889pt x 483.4863pt>
+
+LaTeX Warning: Float too large for page by 31.44055pt on input line 329.
+
+[16
+
+] [17 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/standalone c
+hapters/Ch3fig2.png>] <Ch3fig3.png, id=73, 414.5889pt x 483.4863pt>
 File: Ch3fig3.png Graphic file (type png)
- <use Ch3fig3.png>
-Package pdftex.def Info: Ch3fig3.png used on input line 303.
-(pdftex.def)             Requested size: 418.0pt x 487.49103pt.
- [22
 
-] [23 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/standalone c
+<use Ch3fig3.png>
+Package pdftex.def Info: Ch3fig3.png used on input line 335.
+(pdftex.def)             Requested size: 418.25368pt x 487.78612pt.
+
+
+LaTeX Warning: Float too large for page by 14.65306pt on input line 339.
+
+[18
+
+] [19 <C:/Users/James/Desktop/stuff/data/analysis/R/THESIS/rebuilt/standalone c
 hapters/Ch3fig3.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [24
+ [20
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 319.
- [25
+] [21
 
 ]
 Missing character: There is no ‚ in font cmr10!
@@ -907,10 +1564,7 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26
+ [22
 
 ]
 Missing character: There is no ‚ in font cmr12!
@@ -920,12 +1574,39 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-Underfull \vbox (badness 1112) has occurred while \output is active []
 
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Tabacchi1998' on page 23 undefined on input l
+ine 424.
 
- [28]
+
+Package natbib Warning: Citation `Palmer1997' on page 23 undefined on input lin
+e 424.
+
+
+Package natbib Warning: Citation `Corenblit2007' on page 23 undefined on input 
+line 424.
+
+
+Package natbib Warning: Citation `Bornette2008' on page 23 undefined on input l
+ine 424.
+
+
+Package natbib Warning: Citation `Huang2006' on page 23 undefined on input line
+ 428.
+
+
+Package natbib Warning: Citation `Huston1979' on page 23 undefined on input lin
+e 428.
+
+
+Package natbib Warning: Citation `Merritt2010a' on page 23 undefined on input l
+ine 428.
+
+
+Package natbib Warning: Citation `Bornette2008' on page 23 undefined on input l
+ine 428.
+
+[23]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -933,12 +1614,35 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \vbox (badness 1189) has occurred while \output is active []
 
- [29]
-Underfull \vbox (badness 1189) has occurred while \output is active []
+Package natbib Warning: Citation `Ford1979' on page 24 undefined on input line 
+432.
 
- [30]
+
+Package natbib Warning: Citation `Beardsell1993' on page 24 undefined on input 
+line 432.
+
+
+Package natbib Warning: Citation `Woolfrey2001' on page 24 undefined on input l
+ine 432.
+
+
+Package natbib Warning: Citation `Robertson2001' on page 24 undefined on input 
+line 432.
+
+
+Package natbib Warning: Citation `Siebentritt2004' on page 24 undefined on inpu
+t line 432.
+
+
+Package natbib Warning: Citation `Garssen2014' on page 24 undefined on input li
+ne 434.
+
+
+Package natbib Warning: Citation `Willig2003' on page 24 undefined on input lin
+e 434.
+
+[24]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -948,6 +1652,60 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+
+
+Package natbib Warning: Citation `Melick1990' on page 25 undefined on input lin
+e 440.
+
+
+Package natbib Warning: Citation `Ashton1976' on page 25 undefined on input lin
+e 440.
+
+
+Package natbib Warning: Citation `Laurance2001' on page 25 undefined on input l
+ine 440.
+
+
+Package natbib Warning: Citation `Swaine2007' on page 25 undefined on input lin
+e 440.
+
+
+Package natbib Warning: Citation `Cai2009' on page 25 undefined on input line 4
+40.
+
+
+Package natbib Warning: Citation `Nepstad2007' on page 25 undefined on input li
+ne 440.
+
+[25]
+
+Package natbib Warning: Citation `Peel2004' on page 26 undefined on input line 
+444.
+
+
+Package natbib Warning: Citation `Bendix1997' on page 26 undefined on input lin
+e 444.
+
+
+Package natbib Warning: Citation `Bendix2000' on page 26 undefined on input lin
+e 444.
+
+
+Package natbib Warning: Citation `Lite2005' on page 26 undefined on input line 
+444.
+
+
+Package natbib Warning: Citation `Corenblit2007' on page 26 undefined on input 
+line 444.
+
+
+Package natbib Warning: Citation `Biswas2010' on page 26 undefined on input lin
+e 444.
+
+
+Package natbib Warning: Citation `Mouillot2013' on page 26 undefined on input l
+ine 444.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -958,9 +1716,33 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \vbox (badness 1189) has occurred while \output is active []
+Package natbib Warning: Citation `Kennard2010' on page 26 undefined on input li
+ne 444.
 
- [31]
+
+Package natbib Warning: Citation `Jardine2015' on page 26 undefined on input li
+ne 444.
+
+
+Package natbib Warning: Citation `Pakeman2011' on page 26 undefined on input li
+ne 446.
+
+
+Package natbib Warning: Citation `Laliberte2010' on page 26 undefined on input 
+line 446.
+
+
+Package natbib Warning: Citation `sottile2015disturbance' on page 26 undefined 
+on input line 446.
+
+
+Package natbib Warning: Citation `Graf2006' on page 26 undefined on input line 
+450.
+
+
+Package natbib Warning: Citation `Singer2007' on page 26 undefined on input lin
+e 450.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -968,49 +1750,73 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \vbox (badness 1189) has occurred while \output is active []
+Package natbib Warning: Citation `Catford2011' on page 26 undefined on input li
+ne 450.
 
- [32]
-Overfull \hbox (1.4012pt too wide) in paragraph at lines 414--415
+
+Package natbib Warning: Citation `Merritt2010a' on page 26 undefined on input l
+ine 450.
+
+
+Package natbib Warning: Citation `Howell2000' on page 26 undefined on input lin
+e 450.
+
+
+Package natbib Warning: Citation `Naiman2008' on page 26 undefined on input lin
+e 450.
+
+[26]
+
+Package natbib Warning: Citation `Hennessy2008' on page 27 undefined on input l
+ine 452.
+
+
+Package natbib Warning: Citation `Hennessy2007' on page 27 undefined on input l
+ine 452.
+
+
+Package natbib Warning: Citation `Hennessy2008' on page 27 undefined on input l
+ine 452.
+
+
+Package natbib Warning: Citation `Tilman1997' on page 27 undefined on input lin
+e 454.
+
+
+Package natbib Warning: Citation `Standish2014' on page 27 undefined on input l
+ine 454.
+
+
+Overfull \hbox (1.14752pt too wide) in paragraph at lines 454--455
 \OT1/cmr/m/n/12 High func-tional di-ver-sity com-mu-ni-ties en-com-pass a broad
  range of eco-log-i-cal strate-
  []
 
-[33]
-! Undefined control sequence.
-l.422 ...ata for all species are available at \url
-                                                  {http://onlinelibrary.wile...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
+Package natbib Warning: Citation `Palmer1997' on page 27 undefined on input lin
+e 458.
 
-Overfull \hbox (112.89865pt too wide) in paragraph at lines 422--423
-\OT1/cmr/m/n/12 Trait data for all species are avail-able at http://onlinelibra
-ry.wiley.com/doi/10.1111/fwb.12649/suppinfo. 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-[35]
+[27] [28]
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\rebuilt\standalone chapte
-rs\functionaldiversity.bbl" [36
+rs\functionaldiversity.bbl"
 
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
-] [37] [38] [39] [40] [41] [42] [43] [44]
-[45] [46] [47] [48]) [49]
+)
 
-! LaTeX Error: \begin{landscape} on input line 191 ended by \end{document}.
+Package natbib Warning: There were undefined citations.
+
+[29
+
+]
+
+! LaTeX Error: \begin{landscape} on input line 223 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.433 \end{document}
+l.475 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1018,42 +1824,39 @@ or  <return>  to continue without it.
 
 
 ("C:\Users\James\Desktop\stuff\data\analysis\R\THESIS\rebuilt\standalone chapte
-rs\functionaldiversity.aux")
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- )
+rs\functionaldiversity.aux") )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 191 (\begingroup)
+### semi simple group (level 1) entered at line 223 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7486 strings out of 493921
- 109238 string characters out of 3145277
- 223563 words of memory out of 3000000
- 10734 multiletter control sequences out of 15000+200000
- 11952 words of font info for 43 fonts, out of 3000000 for 9000
+ 10201 strings out of 493921
+ 145130 string characters out of 3145277
+ 266719 words of memory out of 3000000
+ 13367 multiletter control sequences out of 15000+200000
+ 15256 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,18n,47p,2144b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,19n,47p,2144b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/c
-m/cmbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cm
-csc10.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Pr
-ogram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program
- Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
-les (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files
- (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
-86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/
-miktex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/mikt
-ex2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/miktex2
-.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/
-fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/miktex2.9/font
-s/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on functionaldiversity.pdf (49 pages, 1480214 bytes).
+m/cmbx12.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/c
+mbx8.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
+:/Program Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Pro
+gram Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program 
+Files (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fil
+es (x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files 
+(x86)/miktex2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x8
+6)/miktex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+miktex2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/mikt
+ex2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/miktex2.
+9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/miktex2.9/f
+onts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files (x86)/miktex2.9/fonts
+/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/miktex2.9/fonts/typ
+e1/public/amsfonts/cm/cmtt12.pfb>
+Output written on functionaldiversity.pdf (29 pages, 1434600 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
+ 170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

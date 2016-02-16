@@ -1,17 +1,122 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: functionaldiversity.aux
+White space in argument---line 91 of file functionaldiversity.aux
+ : \citation{Rossel2014,Rossel2014a,Rossel2014b,Rossel2014c,Rossel2014d,Rossel2014e,Rossel2014f,Rossel2014g,Rossel2014h,Rossel2014i,Rossel2014j;
+ :                                                                                                                                               Wilford2014}
+I'm skipping whatever remains of this command
 The style file: apalike.bst
-Database file #1: library.bib
-Warning--can't use both author and editor fields in Hennessy2007
-Warning--can't use both author and editor fields in Leishman2000
-Warning--empty journal in Rossel2014e
-Warning--empty journal in Rossel2014j
-Warning--empty journal in Rossel2014i
-Warning--empty journal in Rossel2014d
-Warning--empty journal in Rossel2014a
-Warning--empty journal in Rossel2014c
-Warning--empty journal in Rossel2014h
-Warning--empty journal in Rossel2014b
-Warning--empty journal in Rossel2014g
-Warning--empty journal in Rossel2014f
-Warning--empty journal in Wilford2014
-(There were 13 warnings)
+I couldn't open database file library.bib.bib
+---line 151 of file functionaldiversity.aux
+ : \bibdata{library.bib
+ :                     }
+I'm skipping whatever remains of this command
+I found no database files---while reading file functionaldiversity.aux
+Warning--I didn't find a database entry for "Naiman1993"
+Warning--I didn't find a database entry for "Poff2002"
+Warning--I didn't find a database entry for "Nilsson2002"
+Warning--I didn't find a database entry for "Tabacchi1996"
+Warning--I didn't find a database entry for "Palmer1997"
+Warning--I didn't find a database entry for "Corenblit2007"
+Warning--I didn't find a database entry for "Bornette2008"
+Warning--I didn't find a database entry for "Poff1997"
+Warning--I didn't find a database entry for "Arthington2010"
+Warning--I didn't find a database entry for "Huston1979"
+Warning--I didn't find a database entry for "Diaz1998"
+Warning--I didn't find a database entry for "connell1978diversity"
+Warning--I didn't find a database entry for "Bendix1997"
+Warning--I didn't find a database entry for "Bendix2000"
+Warning--I didn't find a database entry for "Lite2005"
+Warning--I didn't find a database entry for "Nilsson1989"
+Warning--I didn't find a database entry for "Baker1990"
+Warning--I didn't find a database entry for "ODonnell2014"
+Warning--I didn't find a database entry for "Castelli2000"
+Warning--I didn't find a database entry for "Greet2011"
+Warning--I didn't find a database entry for "Catford2012"
+Warning--I didn't find a database entry for "Catford2014"
+Warning--I didn't find a database entry for "Garssen2014"
+Warning--I didn't find a database entry for "Arthington2012"
+Warning--I didn't find a database entry for "Aerts2011"
+Warning--I didn't find a database entry for "Cadotte2011"
+Warning--I didn't find a database entry for "Montoya2012"
+Warning--I didn't find a database entry for "Tilman1997"
+Warning--I didn't find a database entry for "Hooper2005"
+Warning--I didn't find a database entry for "Mouillot2013"
+Warning--I didn't find a database entry for "Diaz2007"
+Warning--I didn't find a database entry for "Schleuter2010"
+Warning--I didn't find a database entry for "Villeger2008"
+Warning--I didn't find a database entry for "Biswas2010"
+Warning--I didn't find a database entry for "Pakeman2011"
+Warning--I didn't find a database entry for "Savage2012"
+Warning--I didn't find a database entry for "Clark2012"
+Warning--I didn't find a database entry for "Laliberte2010"
+Warning--I didn't find a database entry for "Pakeman2014"
+Warning--I didn't find a database entry for "Catford2011"
+Warning--I didn't find a database entry for "Stein2014"
+Warning--I didn't find a database entry for "finlayson1988australia"
+Warning--I didn't find a database entry for "Peel2004"
+Warning--I didn't find a database entry for "Lawson2015"
+Warning--I didn't find a database entry for "Wright2004"
+Warning--I didn't find a database entry for "Reich2003"
+Warning--I didn't find a database entry for "Leishman2000"
+Warning--I didn't find a database entry for "Carthey2015"
+Warning--I didn't find a database entry for "Chave2009"
+Warning--I didn't find a database entry for "telewski1995wind"
+Warning--I didn't find a database entry for "Preston2006"
+Warning--I didn't find a database entry for "Cornelissen2003"
+Warning--I didn't find a database entry for "steenis1981rheophytes"
+Warning--I didn't find a database entry for "Cordlandwehr2013"
+Warning--I didn't find a database entry for "Kazakou2014"
+Warning--I didn't find a database entry for "marsh2003river"
+Warning--I didn't find a database entry for "Kennard2010"
+Warning--I didn't find a database entry for "Anderson2006"
+Warning--I didn't find a database entry for "Gower1971"
+Warning--I didn't find a database entry for "Cailliez1983"
+Warning--I didn't find a database entry for "debastiani2012syncsa"
+Warning--I didn't find a database entry for "RCoreTeam2015"
+Warning--I didn't find a database entry for "Benjamini2006"
+Warning--I didn't find a database entry for "pollard2008multtest"
+Warning--I didn't find a database entry for "Robinson2009"
+Warning--I didn't find a database entry for "heiberger2004statistical"
+Warning--I didn't find a database entry for "barton2012mumin"
+Warning--I didn't find a database entry for "burnham2002model"
+Warning--I didn't find a database entry for "Laliberte2013"
+Warning--I didn't find a database entry for "Vazquez-Rivera2015"
+Warning--I didn't find a database entry for "Hutchinson2014"
+Warning--I didn't find a database entry for "busby1991bioclim"
+Warning--I didn't find a database entry for "Rossel2014"
+Warning--I didn't find a database entry for "Rossel2014a"
+Warning--I didn't find a database entry for "Rossel2014b"
+Warning--I didn't find a database entry for "Rossel2014c"
+Warning--I didn't find a database entry for "Rossel2014d"
+Warning--I didn't find a database entry for "Rossel2014e"
+Warning--I didn't find a database entry for "Rossel2014f"
+Warning--I didn't find a database entry for "Rossel2014g"
+Warning--I didn't find a database entry for "Rossel2014h"
+Warning--I didn't find a database entry for "Rossel2014i"
+Warning--I didn't find a database entry for "Legendre2007"
+Warning--I didn't find a database entry for "Oksanen2013"
+Warning--I didn't find a database entry for "Peres-Neto2006"
+Warning--I didn't find a database entry for "Tabacchi1998"
+Warning--I didn't find a database entry for "Huang2006"
+Warning--I didn't find a database entry for "Merritt2010a"
+Warning--I didn't find a database entry for "Ford1979"
+Warning--I didn't find a database entry for "Beardsell1993"
+Warning--I didn't find a database entry for "Woolfrey2001"
+Warning--I didn't find a database entry for "Robertson2001"
+Warning--I didn't find a database entry for "Siebentritt2004"
+Warning--I didn't find a database entry for "Willig2003"
+Warning--I didn't find a database entry for "Melick1990"
+Warning--I didn't find a database entry for "Ashton1976"
+Warning--I didn't find a database entry for "Laurance2001"
+Warning--I didn't find a database entry for "Swaine2007"
+Warning--I didn't find a database entry for "Cai2009"
+Warning--I didn't find a database entry for "Nepstad2007"
+Warning--I didn't find a database entry for "Jardine2015"
+Warning--I didn't find a database entry for "sottile2015disturbance"
+Warning--I didn't find a database entry for "Graf2006"
+Warning--I didn't find a database entry for "Singer2007"
+Warning--I didn't find a database entry for "Howell2000"
+Warning--I didn't find a database entry for "Naiman2008"
+Warning--I didn't find a database entry for "Hennessy2008"
+Warning--I didn't find a database entry for "Hennessy2007"
+Warning--I didn't find a database entry for "Standish2014"
+(There were 3 error messages)
